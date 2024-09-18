@@ -1,0 +1,46 @@
+[2023-11-20 19:39:24:766] [2023/11/20 19:39:24] LoginGateH5 SSL:[0]
+[2023-11-20 19:39:24:949] [Exception] HandleLoggingMsg 2023-11-20 19:39:24:[utility_server::start_listen] WebSocket listen on ws://0.0.0.0:7301
+[2023-11-20 19:39:24:949] [Exception] HandleLoggingMsg 2023-11-20 19:39:24:[utility_server::run] start-running
+[2023-11-20 19:39:25:279] [2023/11/20 19:39:24] H5登录网关启动成功！
+[2023-11-20 19:39:25:281] [2023/11/20 19:39:24] 与服务器连接成功..
+[2023-11-20 19:39:25:281] [2023/11/20 19:39:24] 与服务器连接成功..
+
+[2023-11-20 19:39:34:762] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:39:44:774] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:39:54:790] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:40:04:811] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:40:14:820] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:40:24:837] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:40:34:845] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:42:22:638] [2023/11/20 19:42:22] LoginGateH5 SSL:[0]
+[2023-11-20 19:42:22:823] [Exception] HandleLoggingMsg 2023-11-20 19:42:22:[utility_server::start_listen] WebSocket listen on ws://0.0.0.0:7301
+[2023-11-20 19:42:22:823] [Exception] HandleLoggingMsg 2023-11-20 19:42:22:[utility_server::run] start-running
+[2023-11-20 19:42:23:150] [2023/11/20 19:42:22] H5登录网关启动成功！
+[2023-11-20 19:42:23:153] [2023/11/20 19:42:22] 与服务器连接成功..
+[2023-11-20 19:42:23:154] [2023/11/20 19:42:22] 与服务器连接成功..
+
+[2023-11-20 19:42:32:628] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:42:42:649] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:42:52:658] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:43:02:682] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:43:12:704] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:43:22:720] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:43:32:740] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:43:42:768] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:43:52:795] ConnectCount :0 GetUserCount :0
+

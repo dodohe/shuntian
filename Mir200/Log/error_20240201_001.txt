@@ -1,0 +1,502 @@
+[2024-02-01 16:23:04:674] Socket Err:10061
+
+[2024-02-01 16:23:21:215] Failure: .\Map\0110.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0111.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0112.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0108.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0109.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0104.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0107.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0125.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0126.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0103.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0105.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0106.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0101.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0100.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0128.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0129.map could not be loaded.
+[2024-02-01 16:23:21:215] Failure: .\Map\0123.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0124.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\01141.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\01142.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0115.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\01152.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0113.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\01132.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0135.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0134.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0133.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0119.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0118.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0121.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0127.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0130.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0131.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0136.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0132.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0138.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0141.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0140.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\1.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\2.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0116.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0117.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0120.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\0142.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\d401.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\d411.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\d413.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\d402.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\d414.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\d403.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\d412.map could not be loaded.
+[2024-02-01 16:23:21:216] Failure: .\Map\d404.map could not be loaded.
+[2024-02-01 16:23:21:217] Failure: .\Map\d405.map could not be loaded.
+[2024-02-01 16:23:21:217] Failure: .\Map\d415.map could not be loaded.
+[2024-02-01 16:23:21:217] Failure: .\Map\d406.map could not be loaded.
+[2024-02-01 16:23:21:246] Failure: .\Map\0143.map could not be loaded.
+[2024-02-01 16:23:21:246] Failure: .\Map\0144.map could not be loaded.
+[2024-02-01 16:23:21:246] Failure: .\Map\0145.map could not be loaded.
+[2024-02-01 16:23:21:246] Failure: .\Map\0146.map could not be loaded.
+[2024-02-01 16:23:21:246] Failure: .\Map\0147.map could not be loaded.
+[2024-02-01 16:23:21:246] Failure: .\Map\0149.map could not be loaded.
+[2024-02-01 16:23:21:246] Failure: .\Map\0158.map could not be loaded.
+[2024-02-01 16:23:21:246] Failure: .\Map\0159.map could not be loaded.
+[2024-02-01 16:23:21:246] Failure: .\Map\0160.map could not be loaded.
+[2024-02-01 16:23:21:246] Failure: .\Map\0161.map could not be loaded.
+[2024-02-01 16:23:21:246] Failure: .\Map\0171.map could not be loaded.
+[2024-02-01 16:23:21:247] Failure: .\Map\0152.map could not be loaded.
+[2024-02-01 16:23:21:247] Failure: .\Map\0153.map could not be loaded.
+[2024-02-01 16:23:21:247] Failure: .\Map\0154.map could not be loaded.
+[2024-02-01 16:23:21:247] Failure: .\Map\0155.map could not be loaded.
+[2024-02-01 16:23:21:247] Failure: .\Map\0156.map could not be loaded.
+[2024-02-01 16:23:21:247] Failure: .\Map\d701.map could not be loaded.
+[2024-02-01 16:23:21:253] Failure: .\Map\1001.map could not be loaded.
+[2024-02-01 16:23:21:253] Failure: .\Map\1003.map could not be loaded.
+[2024-02-01 16:23:21:253] Failure: .\Map\1004.map could not be loaded.
+[2024-02-01 16:23:21:253] Failure: .\Map\1005.map could not be loaded.
+[2024-02-01 16:23:21:253] Failure: .\Map\1006.map could not be loaded.
+[2024-02-01 16:23:21:253] Failure: .\Map\1007.map could not be loaded.
+[2024-02-01 16:23:21:253] Failure: .\Map\12.map could not be loaded.
+[2024-02-01 16:23:21:262] Failure: .\Map\b342.map could not be loaded.
+[2024-02-01 16:23:21:262] Failure: .\Map\b343.map could not be loaded.
+[2024-02-01 16:23:21:262] Failure: .\Map\b344.map could not be loaded.
+[2024-02-01 16:23:21:262] Failure: .\Map\b345.map could not be loaded.
+[2024-02-01 16:23:21:262] Failure: .\Map\b346.map could not be loaded.
+[2024-02-01 16:23:21:262] Failure: .\Map\b347.map could not be loaded.
+[2024-02-01 16:23:21:279] Failure: .\Map\b351.map could not be loaded.
+[2024-02-01 16:23:21:279] Failure: .\Map\b352.map could not be loaded.
+[2024-02-01 16:23:21:279] Failure: .\Map\b353.map could not be loaded.
+[2024-02-01 16:23:21:279] Failure: .\Map\b354.map could not be loaded.
+[2024-02-01 16:23:21:279] Failure: .\Map\b355.map could not be loaded.
+[2024-02-01 16:23:21:279] Failure: .\Map\b356.map could not be loaded.
+[2024-02-01 16:23:23:987] D701 - secret map not found !!
+[2024-02-01 16:23:23:987] >>>>>RegenMonsterByName ThreadError :[³ÇÃÅ]-0[3-16188] µ±Ç°Thread:14832
+[2024-02-01 16:23:23:987] >>>>>RegenMonsterByName ThreadError :[×ó³ÇÇ½]-0[3-16188] µ±Ç°Thread:14832
+[2024-02-01 16:23:23:987] >>>>>RegenMonsterByName ThreadError :[ÖÐ³ÇÇ½]-0[3-16188] µ±Ç°Thread:14832
+[2024-02-01 16:23:23:987] >>>>>RegenMonsterByName ThreadError :[ÓÒ³ÇÇ½]-0[3-16188] µ±Ç°Thread:14832
+[2024-02-01 16:23:24:065] ---------------------Ïß³ÌºÄÊ±¼à¿Ø
+[2024-02-01 16:23:24:552] Frame-----------------------------------
+01ad35e5 +4b5 M2Server.exe svMain          2602  +47 TMainRunThread.LoadPlayerVarList
+006b9a02 +062 M2Server.exe Vcl.ComCtrls   35733   +5 TComboBoxExStyleHook.Create
+006b982a +ada M2Server.exe Vcl.ComCtrls   34543 +132 TStatusBarStyleHook.Paint
+0053ac96 +0c6 M2Server.exe System.Classes 17535   +8 TComponent.GetObservers
+[2024-02-01 16:23:24:578] MainRunThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-02-01 16:23:24:606] DbThread(16)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-02-01 16:23:24:631] BoxSellDbThread(16)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+
+[2024-02-01 16:27:18:901] Socket Err:10061
+
+[2024-02-01 16:27:35:349] Failure: .\Map\0110.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0111.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0112.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0108.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0109.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0104.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0107.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0125.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0126.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0103.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0105.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0106.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0101.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0100.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0128.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0129.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0123.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0124.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\01141.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\01142.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0115.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\01152.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0113.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\01132.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0135.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0134.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0133.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0119.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0118.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0121.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0127.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0130.map could not be loaded.
+[2024-02-01 16:27:35:349] Failure: .\Map\0131.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\0136.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\0132.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\0138.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\0141.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\0140.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\1.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\2.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\0116.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\0117.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\0120.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\0142.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\d401.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\d411.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\d413.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\d402.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\d414.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\d403.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\d412.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\d404.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\d405.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\d415.map could not be loaded.
+[2024-02-01 16:27:35:350] Failure: .\Map\d406.map could not be loaded.
+[2024-02-01 16:27:35:379] Failure: .\Map\0143.map could not be loaded.
+[2024-02-01 16:27:35:379] Failure: .\Map\0144.map could not be loaded.
+[2024-02-01 16:27:35:379] Failure: .\Map\0145.map could not be loaded.
+[2024-02-01 16:27:35:380] Failure: .\Map\0146.map could not be loaded.
+[2024-02-01 16:27:35:380] Failure: .\Map\0147.map could not be loaded.
+[2024-02-01 16:27:35:380] Failure: .\Map\0149.map could not be loaded.
+[2024-02-01 16:27:35:380] Failure: .\Map\0158.map could not be loaded.
+[2024-02-01 16:27:35:380] Failure: .\Map\0159.map could not be loaded.
+[2024-02-01 16:27:35:380] Failure: .\Map\0160.map could not be loaded.
+[2024-02-01 16:27:35:380] Failure: .\Map\0161.map could not be loaded.
+[2024-02-01 16:27:35:380] Failure: .\Map\0171.map could not be loaded.
+[2024-02-01 16:27:35:380] Failure: .\Map\0152.map could not be loaded.
+[2024-02-01 16:27:35:380] Failure: .\Map\0153.map could not be loaded.
+[2024-02-01 16:27:35:380] Failure: .\Map\0154.map could not be loaded.
+[2024-02-01 16:27:35:380] Failure: .\Map\0155.map could not be loaded.
+[2024-02-01 16:27:35:380] Failure: .\Map\0156.map could not be loaded.
+[2024-02-01 16:27:35:381] Failure: .\Map\d701.map could not be loaded.
+[2024-02-01 16:27:35:387] Failure: .\Map\1001.map could not be loaded.
+[2024-02-01 16:27:35:387] Failure: .\Map\1003.map could not be loaded.
+[2024-02-01 16:27:35:387] Failure: .\Map\1004.map could not be loaded.
+[2024-02-01 16:27:35:387] Failure: .\Map\1005.map could not be loaded.
+[2024-02-01 16:27:35:387] Failure: .\Map\1006.map could not be loaded.
+[2024-02-01 16:27:35:387] Failure: .\Map\1007.map could not be loaded.
+[2024-02-01 16:27:35:387] Failure: .\Map\12.map could not be loaded.
+[2024-02-01 16:27:35:395] Failure: .\Map\b342.map could not be loaded.
+[2024-02-01 16:27:35:395] Failure: .\Map\b343.map could not be loaded.
+[2024-02-01 16:27:35:395] Failure: .\Map\b344.map could not be loaded.
+[2024-02-01 16:27:35:395] Failure: .\Map\b345.map could not be loaded.
+[2024-02-01 16:27:35:395] Failure: .\Map\b346.map could not be loaded.
+[2024-02-01 16:27:35:395] Failure: .\Map\b347.map could not be loaded.
+[2024-02-01 16:27:35:409] Failure: .\Map\b351.map could not be loaded.
+[2024-02-01 16:27:35:409] Failure: .\Map\b352.map could not be loaded.
+[2024-02-01 16:27:35:409] Failure: .\Map\b353.map could not be loaded.
+[2024-02-01 16:27:35:409] Failure: .\Map\b354.map could not be loaded.
+[2024-02-01 16:27:35:409] Failure: .\Map\b355.map could not be loaded.
+[2024-02-01 16:27:35:409] Failure: .\Map\b356.map could not be loaded.
+
+[2024-02-01 16:27:38:284] D701 - secret map not found !!
+[2024-02-01 16:27:38:284] >>>>>RegenMonsterByName ThreadError :[³ÇÃÅ]-0[3-16528] µ±Ç°Thread:6148
+[2024-02-01 16:27:38:284] >>>>>RegenMonsterByName ThreadError :[×ó³ÇÇ½]-0[3-16528] µ±Ç°Thread:6148
+[2024-02-01 16:27:38:284] >>>>>RegenMonsterByName ThreadError :[ÖÐ³ÇÇ½]-0[3-16528] µ±Ç°Thread:6148
+[2024-02-01 16:27:38:284] >>>>>RegenMonsterByName ThreadError :[ÓÒ³ÇÇ½]-0[3-16528] µ±Ç°Thread:6148
+[2024-02-01 16:27:38:410] ---------------------Ïß³ÌºÄÊ±¼à¿Ø
+[2024-02-01 16:27:38:817] Frame-----------------------------------
+01ad35e5 +4b5 M2Server.exe svMain          2602  +47 TMainRunThread.LoadPlayerVarList
+006b9a02 +062 M2Server.exe Vcl.ComCtrls   35733   +5 TComboBoxExStyleHook.Create
+006b982a +ada M2Server.exe Vcl.ComCtrls   34543 +132 TStatusBarStyleHook.Paint
+0053ac96 +0c6 M2Server.exe System.Classes 17535   +8 TComponent.GetObservers
+[2024-02-01 16:27:38:840] MainRunThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-02-01 16:27:38:871] DbThread(15)-----------------------------------
+00925e4a +012a M2Server.exe FireDAC.Phys               4937   +5 Trace2
+0093291b +172b M2Server.exe FireDAC.Phys               7912 +288 TFDPhysCommand.DoDefineDataTable
+0090723b +00db M2Server.exe FireDAC.Phys.Meta           369   +9 TFDPhysConnectionMetadata.NormObjName
+00c7004a +005a M2Server.exe ItmUnit                    7545   +4 {System.Generics.Collections}TDictionary<System.string,ItmUnit.TItem>.TKeyEnumerator.Create
+00c70539 +0019 M2Server.exe ItmUnit                    7513   +1 {System.Generics.Collections}TDictionary<System.string,ItmUnit.TItem>.TPairEnumerator.DoGetCurrent
+008fd7f3 +0123 M2Server.exe FireDAC.Phys.SQLGenerator  3266   +5 TFDPhysCommandGenerator.GetCreateIndex
+00907596 +01a6 M2Server.exe FireDAC.Phys.Meta           408  +12 TFDPhysConnectionMetadata.QuoteObjName
+009d8aa7 +0107 M2Server.exe FireDAC.Stan.Expr           523  +13 FunCmpFileName
+009d8f39 +0069 M2Server.exe FireDAC.Stan.Expr           627   +4 TFDExpression.GetSubAggregateKind
+009913f1 +0081 M2Server.exe System.Threading           7347   +7 {System.Generics.Collections}TDictionary<System.Threading.TThreadPool,System.NativeUInt>.ExtractPair
+00f29541 +0021 M2Server.exe uNatIon                    1306   +1 TNatIonThread.OnMsg
+00f2910a +002a M2Server.exe uNatIon                    1267   +3 TNatIonThread.LoadNatIonInfo
+00f18296 +3336 M2Server.exe uThread_Envir              1405 +751 TEnvirThread.OnMsg
+00805883 +0173 M2Server.exe Data.Win.ADODB             1788  +14 TADOConnection.GetProcedureNames
+0080543f +00bf M2Server.exe Data.Win.ADODB             1731   +4 TADOConnection.Execute
+004136fd +007d M2Server.exe System                    25423  +10 WriteErrorMessage
+[2024-02-01 16:27:38:893] BoxSellDbThread(16)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+
+[2024-02-01 16:32:10:815] Socket Err:10061
+
+[2024-02-01 16:33:05:915] Socket Err:10061
+
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0110.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0111.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0112.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0108.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0109.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0104.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0107.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0125.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0126.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0103.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0105.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0106.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0101.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0100.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0128.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0129.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0123.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0124.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\01141.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\01142.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0115.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\01152.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0113.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\01132.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0135.map could not be loaded.
+[2024-02-01 16:33:21:162] Failure: E:\80»ðÁú\MirServer\Mir200\map\0134.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0133.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0119.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0118.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0121.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0127.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0130.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0131.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0136.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0132.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0138.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0141.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0140.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\1.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\2.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0116.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0117.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0120.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\0142.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\d401.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\d411.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\d413.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\d402.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\d414.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\d403.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\d412.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\d404.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\d405.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\d415.map could not be loaded.
+[2024-02-01 16:33:21:163] Failure: E:\80»ðÁú\MirServer\Mir200\map\d406.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0143.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0144.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0145.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0146.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0147.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0149.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0158.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0159.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0160.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0161.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0171.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0152.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0153.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0154.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0155.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\0156.map could not be loaded.
+[2024-02-01 16:33:21:193] Failure: E:\80»ðÁú\MirServer\Mir200\map\d701.map could not be loaded.
+[2024-02-01 16:33:21:200] Failure: E:\80»ðÁú\MirServer\Mir200\map\1001.map could not be loaded.
+[2024-02-01 16:33:21:200] Failure: E:\80»ðÁú\MirServer\Mir200\map\1003.map could not be loaded.
+[2024-02-01 16:33:21:200] Failure: E:\80»ðÁú\MirServer\Mir200\map\1004.map could not be loaded.
+[2024-02-01 16:33:21:200] Failure: E:\80»ðÁú\MirServer\Mir200\map\1005.map could not be loaded.
+[2024-02-01 16:33:21:200] Failure: E:\80»ðÁú\MirServer\Mir200\map\1006.map could not be loaded.
+[2024-02-01 16:33:21:200] Failure: E:\80»ðÁú\MirServer\Mir200\map\1007.map could not be loaded.
+[2024-02-01 16:33:21:201] Failure: E:\80»ðÁú\MirServer\Mir200\map\12.map could not be loaded.
+[2024-02-01 16:33:21:208] Failure: E:\80»ðÁú\MirServer\Mir200\map\b342.map could not be loaded.
+[2024-02-01 16:33:21:208] Failure: E:\80»ðÁú\MirServer\Mir200\map\b343.map could not be loaded.
+[2024-02-01 16:33:21:208] Failure: E:\80»ðÁú\MirServer\Mir200\map\b344.map could not be loaded.
+[2024-02-01 16:33:21:208] Failure: E:\80»ðÁú\MirServer\Mir200\map\b345.map could not be loaded.
+[2024-02-01 16:33:21:208] Failure: E:\80»ðÁú\MirServer\Mir200\map\b346.map could not be loaded.
+[2024-02-01 16:33:21:208] Failure: E:\80»ðÁú\MirServer\Mir200\map\b347.map could not be loaded.
+[2024-02-01 16:33:21:223] Failure: E:\80»ðÁú\MirServer\Mir200\map\b351.map could not be loaded.
+[2024-02-01 16:33:21:223] Failure: E:\80»ðÁú\MirServer\Mir200\map\b352.map could not be loaded.
+[2024-02-01 16:33:21:223] Failure: E:\80»ðÁú\MirServer\Mir200\map\b353.map could not be loaded.
+[2024-02-01 16:33:21:223] Failure: E:\80»ðÁú\MirServer\Mir200\map\b354.map could not be loaded.
+[2024-02-01 16:33:21:223] Failure: E:\80»ðÁú\MirServer\Mir200\map\b355.map could not be loaded.
+[2024-02-01 16:33:21:223] Failure: E:\80»ðÁú\MirServer\Mir200\map\b356.map could not be loaded.
+
+[2024-02-01 16:33:23:312] D701 - secret map not found !!
+[2024-02-01 16:33:23:312] >>>>>RegenMonsterByName ThreadError :[³ÇÃÅ]-0[3-2988] µ±Ç°Thread:15956
+[2024-02-01 16:33:23:312] >>>>>RegenMonsterByName ThreadError :[×ó³ÇÇ½]-0[3-2988] µ±Ç°Thread:15956
+[2024-02-01 16:33:23:312] >>>>>RegenMonsterByName ThreadError :[ÖÐ³ÇÇ½]-0[3-2988] µ±Ç°Thread:15956
+[2024-02-01 16:33:23:312] >>>>>RegenMonsterByName ThreadError :[ÓÒ³ÇÇ½]-0[3-2988] µ±Ç°Thread:15956
+[2024-02-01 16:33:23:442] ---------------------Ïß³ÌºÄÊ±¼à¿Ø
+[2024-02-01 16:33:23:666] Frame-----------------------------------
+01414c3f +1d8f M2Server.exe svMain          1064 +401 TFrmMain.StartTimerTimer
+0073fdf0 +0020 M2Server.exe Vcl.ExtCtrls    3222   +1 TTimer.Timer
+0073fc18 +0038 M2Server.exe Vcl.ExtCtrls    3180   +4 TTimer.WndProc
+005d68d3 +0023 M2Server.exe System.Classes 18335   +8 StdWndProc
+007d5dbe +012e M2Server.exe Vcl.Forms      11317  +23 TApplication.ProcessMessage
+007d5e33 +0013 M2Server.exe Vcl.Forms      11347   +1 TApplication.HandleMessage
+007d628a +00ea M2Server.exe Vcl.Forms      11486  +27 TApplication.Run
+01420e4d +013d M2Server.exe M2Server         120  +13 initialization
+[2024-02-01 16:33:23:689] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-02-01 16:33:23:712] DbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-02-01 16:33:23:738] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-02-01 16:33:24:832] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain½âÎö´íÎó"}
+
+[2024-02-01 17:55:10:083] Socket Err:10061
+
+[2024-02-01 17:55:24:983] Failure: E:\80»ðÁú\MirServer\Mir200\map\0110.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0111.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0112.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0108.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0109.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0104.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0107.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0125.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0126.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0103.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0105.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0106.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0101.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0100.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0128.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0129.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0123.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0124.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\01141.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\01142.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0115.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\01152.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0113.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\01132.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0135.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0134.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0133.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0119.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0118.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0121.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0127.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0130.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0131.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0136.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0132.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0138.map could not be loaded.
+[2024-02-01 17:55:24:984] Failure: E:\80»ðÁú\MirServer\Mir200\map\0141.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\0140.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\1.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\2.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\0116.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\0117.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\0120.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\0142.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\d401.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\d411.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\d413.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\d402.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\d414.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\d403.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\d412.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\d404.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\d405.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\d415.map could not be loaded.
+[2024-02-01 17:55:24:985] Failure: E:\80»ðÁú\MirServer\Mir200\map\d406.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0143.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0144.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0145.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0146.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0147.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0149.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0158.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0159.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0160.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0161.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0171.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0152.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0153.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0154.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0155.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\0156.map could not be loaded.
+[2024-02-01 17:55:25:014] Failure: E:\80»ðÁú\MirServer\Mir200\map\d701.map could not be loaded.
+[2024-02-01 17:55:25:021] Failure: E:\80»ðÁú\MirServer\Mir200\map\1001.map could not be loaded.
+[2024-02-01 17:55:25:021] Failure: E:\80»ðÁú\MirServer\Mir200\map\1003.map could not be loaded.
+[2024-02-01 17:55:25:021] Failure: E:\80»ðÁú\MirServer\Mir200\map\1004.map could not be loaded.
+[2024-02-01 17:55:25:021] Failure: E:\80»ðÁú\MirServer\Mir200\map\1005.map could not be loaded.
+[2024-02-01 17:55:25:021] Failure: E:\80»ðÁú\MirServer\Mir200\map\1006.map could not be loaded.
+[2024-02-01 17:55:25:022] Failure: E:\80»ðÁú\MirServer\Mir200\map\1007.map could not be loaded.
+[2024-02-01 17:55:25:022] Failure: E:\80»ðÁú\MirServer\Mir200\map\12.map could not be loaded.
+[2024-02-01 17:55:25:030] Failure: E:\80»ðÁú\MirServer\Mir200\map\b342.map could not be loaded.
+[2024-02-01 17:55:25:030] Failure: E:\80»ðÁú\MirServer\Mir200\map\b343.map could not be loaded.
+[2024-02-01 17:55:25:030] Failure: E:\80»ðÁú\MirServer\Mir200\map\b344.map could not be loaded.
+[2024-02-01 17:55:25:030] Failure: E:\80»ðÁú\MirServer\Mir200\map\b345.map could not be loaded.
+[2024-02-01 17:55:25:030] Failure: E:\80»ðÁú\MirServer\Mir200\map\b346.map could not be loaded.
+[2024-02-01 17:55:25:030] Failure: E:\80»ðÁú\MirServer\Mir200\map\b347.map could not be loaded.
+[2024-02-01 17:55:25:044] Failure: E:\80»ðÁú\MirServer\Mir200\map\b351.map could not be loaded.
+[2024-02-01 17:55:25:044] Failure: E:\80»ðÁú\MirServer\Mir200\map\b352.map could not be loaded.
+[2024-02-01 17:55:25:044] Failure: E:\80»ðÁú\MirServer\Mir200\map\b353.map could not be loaded.
+[2024-02-01 17:55:25:044] Failure: E:\80»ðÁú\MirServer\Mir200\map\b354.map could not be loaded.
+[2024-02-01 17:55:25:044] Failure: E:\80»ðÁú\MirServer\Mir200\map\b355.map could not be loaded.
+[2024-02-01 17:55:25:044] Failure: E:\80»ðÁú\MirServer\Mir200\map\b356.map could not be loaded.
+
+[2024-02-01 17:55:27:093] D701 - secret map not found !!
+[2024-02-01 17:55:27:093] >>>>>RegenMonsterByName ThreadError :[³ÇÃÅ]-0[3-16144] µ±Ç°Thread:17904
+[2024-02-01 17:55:27:093] >>>>>RegenMonsterByName ThreadError :[×ó³ÇÇ½]-0[3-16144] µ±Ç°Thread:17904
+[2024-02-01 17:55:27:093] >>>>>RegenMonsterByName ThreadError :[ÖÐ³ÇÇ½]-0[3-16144] µ±Ç°Thread:17904
+[2024-02-01 17:55:27:093] >>>>>RegenMonsterByName ThreadError :[ÓÒ³ÇÇ½]-0[3-16144] µ±Ç°Thread:17904
+[2024-02-01 17:55:27:190] ---------------------Ïß³ÌºÄÊ±¼à¿Ø
+[2024-02-01 17:55:27:413] Frame-----------------------------------
+01414c3f +1d8f M2Server.exe svMain          1064 +401 TFrmMain.StartTimerTimer
+0073fdf0 +0020 M2Server.exe Vcl.ExtCtrls    3222   +1 TTimer.Timer
+0073fc18 +0038 M2Server.exe Vcl.ExtCtrls    3180   +4 TTimer.WndProc
+005d68d3 +0023 M2Server.exe System.Classes 18335   +8 StdWndProc
+007d5dbe +012e M2Server.exe Vcl.Forms      11317  +23 TApplication.ProcessMessage
+007d5e33 +0013 M2Server.exe Vcl.Forms      11347   +1 TApplication.HandleMessage
+007d628a +00ea M2Server.exe Vcl.Forms      11486  +27 TApplication.Run
+01420e4d +013d M2Server.exe M2Server         120  +13 initialization
+[2024-02-01 17:55:27:436] MainRunThread(15)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-02-01 17:55:27:459] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain½âÎö´íÎó"}
+[2024-02-01 17:55:27:473] DbThread(15)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-02-01 17:55:27:495] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+

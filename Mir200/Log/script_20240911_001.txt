@@ -1,0 +1,57 @@
+[2024-09-11 15:17:02:190] LuaNPC:玩家名字 ID:999999999 执行 takeonex player:玩家名字 耗时：31; NpcThreadId: 28928, CurPlayThreadId: 28928
+
+[2024-09-11 15:22:57:394] LuaNPC:玩家名字 ID:999999999 执行 chakangonglue player:玩家名字 耗时：31; NpcThreadId: 28928, CurPlayThreadId: 28928
+
+[2024-09-11 15:26:59:318] LuaNPC:玩家名字 ID:999999999 执行 takeoffex player:玩家名字 耗时：31; NpcThreadId: 28928, CurPlayThreadId: 28928
+[2024-09-11 15:26:59:557] LuaNPC:玩家名字 ID:999999999 执行 takeonex player:玩家名字 耗时：235; NpcThreadId: 28928, CurPlayThreadId: 28928
+[2024-09-11 15:26:59:567] LuaNPC:玩家名字 ID:999999999 执行 playlevelup player:玩家名字 耗时：281; NpcThreadId: 28928, CurPlayThreadId: 28928
+
+[2024-09-11 15:28:54:077] NPC:[奇经八脉]\孙思邈 ID:12 脚本执行 @MAIN player:玩家名字 耗时:31; NpcThreadId:28928, CurPlayThreadId:28928
+C(T/C)=
+A(T/C)=50-15/12/ 773-16/1/ 
+
+[2024-09-11 15:29:50:875] LuaNPC:玩家名字 ID:999999999 执行 mondropitemex player:玩家名字 耗时：32; NpcThreadId: 28928, CurPlayThreadId: 28928
+
+[2024-09-11 16:56:09:169] Func Fail, obj is nil: GetBaseInfo Chrid:  Npc:  tc:stack traceback:
+	[C]: in function 'getbaseinfo'
+	F:\顺天传奇\MirServer\Mir200\Envir/Market_Def/zh.lua:184: in function 'getname'
+	...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2751: in function <...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2749>
+[2024-09-11 16:56:09:169] Func Fail, obj is nil: GetBaseInfo Chrid:  Npc:  tc:stack traceback:
+	[C]: in function 'getbaseinfo'
+	F:\顺天传奇\MirServer\Mir200\Envir/Market_Def/zh.lua:184: in function 'getname'
+	...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2751: in function <...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2749>
+
+[2024-09-11 18:36:22:743] LuaNPC:玩家名字 ID:999999999 执行 takeoffex player:玩家名字 耗时：47; NpcThreadId: 28928, CurPlayThreadId: 28928
+
+[2024-09-11 19:27:43:389] Func Fail, obj is nil: GetBaseInfo Chrid:  Npc:  tc:stack traceback:
+	[C]: in function 'getbaseinfo'
+	F:\顺天传奇\MirServer\Mir200\Envir/Market_Def/zh.lua:184: in function 'getname'
+	...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2751: in function <...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2749>
+[2024-09-11 19:27:43:389] Func Fail, obj is nil: GetBaseInfo Chrid:  Npc:  tc:stack traceback:
+	[C]: in function 'getbaseinfo'
+	F:\顺天传奇\MirServer\Mir200\Envir/Market_Def/zh.lua:184: in function 'getname'
+	...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2751: in function <...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2749>
+
+[2024-09-11 19:57:00:088] Func Fail, obj is nil: GetBaseInfo Chrid:  Npc:  tc:stack traceback:
+	[C]: in function 'getbaseinfo'
+	F:\顺天传奇\MirServer\Mir200\Envir/Market_Def/zh.lua:184: in function 'getname'
+	...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2751: in function <...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2749>
+[2024-09-11 19:57:00:088] Func Fail, obj is nil: GetBaseInfo Chrid:  Npc:  tc:stack traceback:
+	[C]: in function 'getbaseinfo'
+	F:\顺天传奇\MirServer\Mir200\Envir/Market_Def/zh.lua:184: in function 'getname'
+	...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2751: in function <...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2749>
+
+[2024-09-11 21:55:55:236] NPC:[奇经八脉]\孙思邈 ID:12 脚本执行 @MAIN player:玩家名字 耗时:62; NpcThreadId:28928, CurPlayThreadId:28928
+C(T/C)=
+A(T/C)=50-15/12/ 773-47/1/ 
+
+[2024-09-12 00:13:58:534] >>>>>>HumTime id:0  onTimer1-15 
+
+[2024-09-12 02:27:31:501] >>>>>>HumTime id:0  onTimer1-16 
+
+[2024-09-12 04:10:21:533] >>>>>>HumTime id:0  onTimer10-15 
+
+[2024-09-12 11:33:44:454] >>>>>>HumTime id:0  onTimer1-16 
+
+[2024-09-12 13:06:23:486] >>>>>>HumTime id:0  onTimer1-15 
+

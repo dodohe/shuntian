@@ -1,0 +1,1898 @@
+[2024-02-02 14:05:59:954] Socket Err:10061
+
+[2024-02-02 14:06:07:608] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0110.map could not be loaded.
+[2024-02-02 14:06:07:608] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0111.map could not be loaded.
+[2024-02-02 14:06:07:608] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0112.map could not be loaded.
+[2024-02-02 14:06:07:608] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0108.map could not be loaded.
+[2024-02-02 14:06:07:608] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0109.map could not be loaded.
+[2024-02-02 14:06:07:608] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0104.map could not be loaded.
+[2024-02-02 14:06:07:608] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0107.map could not be loaded.
+[2024-02-02 14:06:07:608] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0125.map could not be loaded.
+[2024-02-02 14:06:07:608] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0126.map could not be loaded.
+[2024-02-02 14:06:07:608] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0103.map could not be loaded.
+[2024-02-02 14:06:07:608] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0105.map could not be loaded.
+[2024-02-02 14:06:07:608] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0106.map could not be loaded.
+[2024-02-02 14:06:07:608] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0101.map could not be loaded.
+[2024-02-02 14:06:07:608] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0100.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0128.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0129.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0123.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0124.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\01141.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\01142.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0115.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\01152.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0113.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\01132.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0135.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0134.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0133.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0119.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0118.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0121.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0127.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0130.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0131.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0136.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0132.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0138.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0141.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0140.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\1.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\2.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0116.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0117.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0120.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0142.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\d401.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\d411.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\d413.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\d402.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\d414.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\d403.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\d412.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\d404.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\d405.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\d415.map could not be loaded.
+[2024-02-02 14:06:07:609] Failure: D:\顺天\80火龙\MirServer\Mir200\map\d406.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0143.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0144.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0145.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0146.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0147.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0149.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0158.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0159.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0160.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0161.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0171.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0152.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0153.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0154.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0155.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\0156.map could not be loaded.
+[2024-02-02 14:06:07:632] Failure: D:\顺天\80火龙\MirServer\Mir200\map\d701.map could not be loaded.
+[2024-02-02 14:06:07:637] Failure: D:\顺天\80火龙\MirServer\Mir200\map\1001.map could not be loaded.
+[2024-02-02 14:06:07:637] Failure: D:\顺天\80火龙\MirServer\Mir200\map\1003.map could not be loaded.
+[2024-02-02 14:06:07:637] Failure: D:\顺天\80火龙\MirServer\Mir200\map\1004.map could not be loaded.
+[2024-02-02 14:06:07:637] Failure: D:\顺天\80火龙\MirServer\Mir200\map\1005.map could not be loaded.
+[2024-02-02 14:06:07:637] Failure: D:\顺天\80火龙\MirServer\Mir200\map\1006.map could not be loaded.
+[2024-02-02 14:06:07:637] Failure: D:\顺天\80火龙\MirServer\Mir200\map\1007.map could not be loaded.
+[2024-02-02 14:06:07:637] Failure: D:\顺天\80火龙\MirServer\Mir200\map\12.map could not be loaded.
+[2024-02-02 14:06:07:643] Failure: D:\顺天\80火龙\MirServer\Mir200\map\b342.map could not be loaded.
+[2024-02-02 14:06:07:643] Failure: D:\顺天\80火龙\MirServer\Mir200\map\b343.map could not be loaded.
+[2024-02-02 14:06:07:643] Failure: D:\顺天\80火龙\MirServer\Mir200\map\b344.map could not be loaded.
+[2024-02-02 14:06:07:643] Failure: D:\顺天\80火龙\MirServer\Mir200\map\b345.map could not be loaded.
+[2024-02-02 14:06:07:643] Failure: D:\顺天\80火龙\MirServer\Mir200\map\b346.map could not be loaded.
+[2024-02-02 14:06:07:643] Failure: D:\顺天\80火龙\MirServer\Mir200\map\b347.map could not be loaded.
+[2024-02-02 14:06:07:655] Failure: D:\顺天\80火龙\MirServer\Mir200\map\b351.map could not be loaded.
+[2024-02-02 14:06:07:655] Failure: D:\顺天\80火龙\MirServer\Mir200\map\b352.map could not be loaded.
+[2024-02-02 14:06:07:655] Failure: D:\顺天\80火龙\MirServer\Mir200\map\b353.map could not be loaded.
+[2024-02-02 14:06:07:655] Failure: D:\顺天\80火龙\MirServer\Mir200\map\b354.map could not be loaded.
+[2024-02-02 14:06:07:655] Failure: D:\顺天\80火龙\MirServer\Mir200\map\b355.map could not be loaded.
+[2024-02-02 14:06:07:655] Failure: D:\顺天\80火龙\MirServer\Mir200\map\b356.map could not be loaded.
+[2024-02-02 14:06:09:377] D701 - secret map not found !!
+[2024-02-02 14:06:09:377] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-14872] 当前Thread:15072
+[2024-02-02 14:06:09:377] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-14872] 当前Thread:15072
+[2024-02-02 14:06:09:377] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-14872] 当前Thread:15072
+[2024-02-02 14:06:09:377] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-14872] 当前Thread:15072
+[2024-02-02 14:06:09:474] ---------------------线程耗时监控
+[2024-02-02 14:06:09:507] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2024-02-02 14:06:09:629] Frame-----------------------------------
+01414c3f +1d8f M2Server.exe svMain          1064 +401 TFrmMain.StartTimerTimer
+0073fdf0 +0020 M2Server.exe Vcl.ExtCtrls    3222   +1 TTimer.Timer
+0073fc18 +0038 M2Server.exe Vcl.ExtCtrls    3180   +4 TTimer.WndProc
+005d68d3 +0023 M2Server.exe System.Classes 18335   +8 StdWndProc
+007d5dbe +012e M2Server.exe Vcl.Forms      11317  +23 TApplication.ProcessMessage
+007d5e33 +0013 M2Server.exe Vcl.Forms      11347   +1 TApplication.HandleMessage
+007d628a +00ea M2Server.exe Vcl.Forms      11486  +27 TApplication.Run
+01420e4d +013d M2Server.exe M2Server         120  +13 initialization
+[2024-02-02 14:06:09:645] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-02-02 14:06:09:664] EnvirThread 0/0(12109)flag:50000004  lua: 0 CallLua:setenvirontimer 54-----------------------------------
+
+[2024-02-02 14:06:09:692] DbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-02-02 14:06:09:709] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-02-02 17:25:59:003] Socket Err:10061
+
+[2024-02-02 19:34:33:213] ---------------------线程耗时监控
+[2024-02-02 19:34:33:252] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-02-02 19:34:33:278] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-02-02 19:34:33:292] DbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-02-02 19:34:33:303] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-02-02 20:34:51:009] >>>Lua跨线程调用,已终止执行[QFunction]-moneychange1:14872-15072
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[000000000131949D] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEb (Line 21783, "ObjPlay.pas" + 11)
+[00000000012CE7D8] ObjPlay._ZN7Objplay11TPlayObject11ChangeMoneyEiwiiN6System13UnicodeStringEbb (Line 6226, "ObjPlay.pas" + 91)
+[00000000013D69F1] HumanInfo._ZN9Humaninfo13TfrmHumanInfo15ButtonSaveClickEPN6System7TObjectE (Line 526, "HumanInfo.pas" + 30)
+[000000000069C073] Vcl.Controls._ZN3Vcl8Controls8TControl5ClickEv (Line 7661, "Vcl.Controls.pas" + 10)
+[00000000006D504B] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton5ClickEv (Line 5876, "Vcl.StdCtrls.pas" + 4)
+[00000000006D68D4] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton9CNCommandERN6Winapi8Messages10TWMCommandE (Line 6511, "Vcl.StdCtrls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[000000000069B462] Vcl.Controls._ZN3Vcl8Controls8TControl7PerformEjyx (Line 7323, "Vcl.Controls.pas" + 11)
+[00000000006A2F8E] Vcl.Controls._ZN3Vcl8Controls12DoControlMsgEP6HWND__Pv (Line 10648, "Vcl.Controls.pas" + 12)
+[00000000006A4148] Vcl.Controls._ZN3Vcl8Controls11TWinControl9WMCommandERN6Winapi8Messages10TWMCommandE (Line 10925, "Vcl.Controls.pas" + 1)
+[00000000007CC288] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6917, "Vcl.Forms.pas" + 8)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05DE1B] Unknown function at SendMessageW
+[00007FF9FB05D68A] SendMessageW
+[00007FF9E4692467] Unknown function at ImageList_LoadImageW
+[00007FF9E46A20F0] Unknown function at ImageList_WriteEx
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E4EE] CallWindowProcW
+[00000000006A2F21] Vcl.Controls._ZN3Vcl8Controls11TWinControl14DefaultHandlerEPv (Line 10620, "Vcl.Controls.pas" + 30)
+[000000000069C71F] Vcl.Controls._ZN3Vcl8Controls8TControl11WMLButtonUpERN6Winapi8Messages8TWMMouseE (Line 7794, "Vcl.Controls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D3122] HumanInfo._ZN9Humaninfo13TfrmHumanInfo4OpenEv (Line 191, "HumanInfo.pas" + 5)
+[00000000013D8EE3] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman13ShowHumanInfoEv (Line 351, "ViewOnlineHuman.pas" + 28)
+[00000000013D8AF5] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman17GridHumanDblClickEPN6System7TObjectE (Line 277, "ViewOnlineHuman.pas" + 2)
+[000000000069C0A2] Vcl.Controls._ZN3Vcl8Controls8TControl8DblClickEv (Line 7666, "Vcl.Controls.pas" + 2)
+[000000000089ACBD] Vcl.Grids._ZN3Vcl5Grids11TCustomGrid9MouseDownEN6System7Uitypes12TMouseButtonENS2_3SetINS2_7Classes17System_Classes__1ELS7_0ELS7_10EEEii (Line 4446, "Vcl.Grids.pas" + 14)
+[000000000069C1FE] Vcl.Controls._ZN3Vcl8Controls8TControl11DoMouseDownERN6Winapi8Messages8TWMMouseEN6System7Uitypes12TMouseButtonENS6_3SetINS6_7Classes17System_Classes__1ELSB_0ELSB_10EEE (Line 7684, "Vcl.Controls.pas" + 8)
+[000000000069C334] Vcl.Controls._ZN3Vcl8Controls8TControl15WMLButtonDblClkERN6Winapi8Messages8TWMMouseE (Line 7710, "Vcl.Controls.pas" + 6)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D77C1] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman4OpenEv (Line 65, "ViewOnlineHuman.pas" + 7)
+[00000000014185B2] svMain._ZN6Svmain8TFrmMain26MENU_VIEW_ONLINEHUMANClickEPN6System7TObjectE (Line 1610, "svMain.pas" + 5)
+[00000000007ABE26] Vcl.Menus._ZN3Vcl5Menus9TMenuItem5ClickEv (Line 2615, "Vcl.Menus.pas" + 21)
+[00000000007AE694] Vcl.Menus._ZN3Vcl5Menus5TMenu15DispatchCommandEt (Line 3571, "Vcl.Menus.pas" + 6)
+[00000000007CC279] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6914, "Vcl.Forms.pas" + 5)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007D628F] Vcl.Forms._ZN3Vcl5Forms12TApplication3RunEv (Line 11486, "Vcl.Forms.pas" + 27)
+[0000000001420E52] M2Server._ZN8M2server14initializationEv
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:34:51:009] >>>>>TPlayObject.RecalcAbilitys[他还能,50000000001706854042000004267] 跨线程调用
+[2024-02-02 20:34:51:009] >>>>>TPlayObject.RecalcAbilitys[他还能,50000000001706854042000004267] 跨线程调用
+[2024-02-02 20:34:51:025] >>>Lua跨线程调用,已终止执行[QFunction]-playlevelup:14872-15072
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[000000000131949D] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEb (Line 21783, "ObjPlay.pas" + 11)
+[00000000012CB9E9] ObjPlay._ZN7Objplay11TPlayObject10HasLevelUpEi (Line 5730, "ObjPlay.pas" + 47)
+[00000000013D6B58] HumanInfo._ZN9Humaninfo13TfrmHumanInfo15ButtonSaveClickEPN6System7TObjectE (Line 540, "HumanInfo.pas" + 44)
+[000000000069C073] Vcl.Controls._ZN3Vcl8Controls8TControl5ClickEv (Line 7661, "Vcl.Controls.pas" + 10)
+[00000000006D504B] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton5ClickEv (Line 5876, "Vcl.StdCtrls.pas" + 4)
+[00000000006D68D4] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton9CNCommandERN6Winapi8Messages10TWMCommandE (Line 6511, "Vcl.StdCtrls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[000000000069B462] Vcl.Controls._ZN3Vcl8Controls8TControl7PerformEjyx (Line 7323, "Vcl.Controls.pas" + 11)
+[00000000006A2F8E] Vcl.Controls._ZN3Vcl8Controls12DoControlMsgEP6HWND__Pv (Line 10648, "Vcl.Controls.pas" + 12)
+[00000000006A4148] Vcl.Controls._ZN3Vcl8Controls11TWinControl9WMCommandERN6Winapi8Messages10TWMCommandE (Line 10925, "Vcl.Controls.pas" + 1)
+[00000000007CC288] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6917, "Vcl.Forms.pas" + 8)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05DE1B] Unknown function at SendMessageW
+[00007FF9FB05D68A] SendMessageW
+[00007FF9E4692467] Unknown function at ImageList_LoadImageW
+[00007FF9E46A20F0] Unknown function at ImageList_WriteEx
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E4EE] CallWindowProcW
+[00000000006A2F21] Vcl.Controls._ZN3Vcl8Controls11TWinControl14DefaultHandlerEPv (Line 10620, "Vcl.Controls.pas" + 30)
+[000000000069C71F] Vcl.Controls._ZN3Vcl8Controls8TControl11WMLButtonUpERN6Winapi8Messages8TWMMouseE (Line 7794, "Vcl.Controls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D3122] HumanInfo._ZN9Humaninfo13TfrmHumanInfo4OpenEv (Line 191, "HumanInfo.pas" + 5)
+[00000000013D8EE3] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman13ShowHumanInfoEv (Line 351, "ViewOnlineHuman.pas" + 28)
+[00000000013D8AF5] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman17GridHumanDblClickEPN6System7TObjectE (Line 277, "ViewOnlineHuman.pas" + 2)
+[000000000069C0A2] Vcl.Controls._ZN3Vcl8Controls8TControl8DblClickEv (Line 7666, "Vcl.Controls.pas" + 2)
+[000000000089ACBD] Vcl.Grids._ZN3Vcl5Grids11TCustomGrid9MouseDownEN6System7Uitypes12TMouseButtonENS2_3SetINS2_7Classes17System_Classes__1ELS7_0ELS7_10EEEii (Line 4446, "Vcl.Grids.pas" + 14)
+[000000000069C1FE] Vcl.Controls._ZN3Vcl8Controls8TControl11DoMouseDownERN6Winapi8Messages8TWMMouseEN6System7Uitypes12TMouseButtonENS6_3SetINS6_7Classes17System_Classes__1ELSB_0ELSB_10EEE (Line 7684, "Vcl.Controls.pas" + 8)
+[000000000069C334] Vcl.Controls._ZN3Vcl8Controls8TControl15WMLButtonDblClkERN6Winapi8Messages8TWMMouseE (Line 7710, "Vcl.Controls.pas" + 6)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D77C1] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman4OpenEv (Line 65, "ViewOnlineHuman.pas" + 7)
+[00000000014185B2] svMain._ZN6Svmain8TFrmMain26MENU_VIEW_ONLINEHUMANClickEPN6System7TObjectE (Line 1610, "svMain.pas" + 5)
+[00000000007ABE26] Vcl.Menus._ZN3Vcl5Menus9TMenuItem5ClickEv (Line 2615, "Vcl.Menus.pas" + 21)
+[00000000007AE694] Vcl.Menus._ZN3Vcl5Menus5TMenu15DispatchCommandEt (Line 3571, "Vcl.Menus.pas" + 6)
+[00000000007CC279] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6914, "Vcl.Forms.pas" + 5)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007D628F] Vcl.Forms._ZN3Vcl5Forms12TApplication3RunEv (Line 11486, "Vcl.Forms.pas" + 27)
+[0000000001420E52] M2Server._ZN8M2server14initializationEv
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:34:51:061] >>>Lua跨线程调用,已终止执行[QFunction]-sendability:14872-15072
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[000000000131949D] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEb (Line 21783, "ObjPlay.pas" + 11)
+[00000000013114B2] ObjPlay._ZN7Objplay11TPlayObject11SendAbilityEv (Line 19865, "ObjPlay.pas" + 7)
+[00000000013D6B86] HumanInfo._ZN9Humaninfo13TfrmHumanInfo15ButtonSaveClickEPN6System7TObjectE (Line 542, "HumanInfo.pas" + 46)
+[000000000069C073] Vcl.Controls._ZN3Vcl8Controls8TControl5ClickEv (Line 7661, "Vcl.Controls.pas" + 10)
+[00000000006D504B] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton5ClickEv (Line 5876, "Vcl.StdCtrls.pas" + 4)
+[00000000006D68D4] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton9CNCommandERN6Winapi8Messages10TWMCommandE (Line 6511, "Vcl.StdCtrls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[000000000069B462] Vcl.Controls._ZN3Vcl8Controls8TControl7PerformEjyx (Line 7323, "Vcl.Controls.pas" + 11)
+[00000000006A2F8E] Vcl.Controls._ZN3Vcl8Controls12DoControlMsgEP6HWND__Pv (Line 10648, "Vcl.Controls.pas" + 12)
+[00000000006A4148] Vcl.Controls._ZN3Vcl8Controls11TWinControl9WMCommandERN6Winapi8Messages10TWMCommandE (Line 10925, "Vcl.Controls.pas" + 1)
+[00000000007CC288] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6917, "Vcl.Forms.pas" + 8)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05DE1B] Unknown function at SendMessageW
+[00007FF9FB05D68A] SendMessageW
+[00007FF9E4692467] Unknown function at ImageList_LoadImageW
+[00007FF9E46A20F0] Unknown function at ImageList_WriteEx
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E4EE] CallWindowProcW
+[00000000006A2F21] Vcl.Controls._ZN3Vcl8Controls11TWinControl14DefaultHandlerEPv (Line 10620, "Vcl.Controls.pas" + 30)
+[000000000069C71F] Vcl.Controls._ZN3Vcl8Controls8TControl11WMLButtonUpERN6Winapi8Messages8TWMMouseE (Line 7794, "Vcl.Controls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D3122] HumanInfo._ZN9Humaninfo13TfrmHumanInfo4OpenEv (Line 191, "HumanInfo.pas" + 5)
+[00000000013D8EE3] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman13ShowHumanInfoEv (Line 351, "ViewOnlineHuman.pas" + 28)
+[00000000013D8AF5] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman17GridHumanDblClickEPN6System7TObjectE (Line 277, "ViewOnlineHuman.pas" + 2)
+[000000000069C0A2] Vcl.Controls._ZN3Vcl8Controls8TControl8DblClickEv (Line 7666, "Vcl.Controls.pas" + 2)
+[000000000089ACBD] Vcl.Grids._ZN3Vcl5Grids11TCustomGrid9MouseDownEN6System7Uitypes12TMouseButtonENS2_3SetINS2_7Classes17System_Classes__1ELS7_0ELS7_10EEEii (Line 4446, "Vcl.Grids.pas" + 14)
+[000000000069C1FE] Vcl.Controls._ZN3Vcl8Controls8TControl11DoMouseDownERN6Winapi8Messages8TWMMouseEN6System7Uitypes12TMouseButtonENS6_3SetINS6_7Classes17System_Classes__1ELSB_0ELSB_10EEE (Line 7684, "Vcl.Controls.pas" + 8)
+[000000000069C334] Vcl.Controls._ZN3Vcl8Controls8TControl15WMLButtonDblClkERN6Winapi8Messages8TWMMouseE (Line 7710, "Vcl.Controls.pas" + 6)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D77C1] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman4OpenEv (Line 65, "ViewOnlineHuman.pas" + 7)
+[00000000014185B2] svMain._ZN6Svmain8TFrmMain26MENU_VIEW_ONLINEHUMANClickEPN6System7TObjectE (Line 1610, "svMain.pas" + 5)
+[00000000007ABE26] Vcl.Menus._ZN3Vcl5Menus9TMenuItem5ClickEv (Line 2615, "Vcl.Menus.pas" + 21)
+[00000000007AE694] Vcl.Menus._ZN3Vcl5Menus5TMenu15DispatchCommandEt (Line 3571, "Vcl.Menus.pas" + 6)
+[00000000007CC279] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6914, "Vcl.Forms.pas" + 5)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007D628F] Vcl.Forms._ZN3Vcl5Forms12TApplication3RunEv (Line 11486, "Vcl.Forms.pas" + 27)
+[0000000001420E52] M2Server._ZN8M2server14initializationEv
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+
+[2024-02-02 20:35:01:088] >>>Lua跨线程调用,已终止执行[QFunction]-moneychange1:14872-15072
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[000000000131949D] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEb (Line 21783, "ObjPlay.pas" + 11)
+[00000000012CE7D8] ObjPlay._ZN7Objplay11TPlayObject11ChangeMoneyEiwiiN6System13UnicodeStringEbb (Line 6226, "ObjPlay.pas" + 91)
+[00000000013D69F1] HumanInfo._ZN9Humaninfo13TfrmHumanInfo15ButtonSaveClickEPN6System7TObjectE (Line 526, "HumanInfo.pas" + 30)
+[000000000069C073] Vcl.Controls._ZN3Vcl8Controls8TControl5ClickEv (Line 7661, "Vcl.Controls.pas" + 10)
+[00000000006D504B] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton5ClickEv (Line 5876, "Vcl.StdCtrls.pas" + 4)
+[00000000006D68D4] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton9CNCommandERN6Winapi8Messages10TWMCommandE (Line 6511, "Vcl.StdCtrls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[000000000069B462] Vcl.Controls._ZN3Vcl8Controls8TControl7PerformEjyx (Line 7323, "Vcl.Controls.pas" + 11)
+[00000000006A2F8E] Vcl.Controls._ZN3Vcl8Controls12DoControlMsgEP6HWND__Pv (Line 10648, "Vcl.Controls.pas" + 12)
+[00000000006A4148] Vcl.Controls._ZN3Vcl8Controls11TWinControl9WMCommandERN6Winapi8Messages10TWMCommandE (Line 10925, "Vcl.Controls.pas" + 1)
+[00000000007CC288] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6917, "Vcl.Forms.pas" + 8)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05DE1B] Unknown function at SendMessageW
+[00007FF9FB05D68A] SendMessageW
+[00007FF9E4692467] Unknown function at ImageList_LoadImageW
+[00007FF9E46A20F0] Unknown function at ImageList_WriteEx
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E4EE] CallWindowProcW
+[00000000006A2F21] Vcl.Controls._ZN3Vcl8Controls11TWinControl14DefaultHandlerEPv (Line 10620, "Vcl.Controls.pas" + 30)
+[000000000069C71F] Vcl.Controls._ZN3Vcl8Controls8TControl11WMLButtonUpERN6Winapi8Messages8TWMMouseE (Line 7794, "Vcl.Controls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D3122] HumanInfo._ZN9Humaninfo13TfrmHumanInfo4OpenEv (Line 191, "HumanInfo.pas" + 5)
+[00000000013D8EE3] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman13ShowHumanInfoEv (Line 351, "ViewOnlineHuman.pas" + 28)
+[00000000013D8AF5] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman17GridHumanDblClickEPN6System7TObjectE (Line 277, "ViewOnlineHuman.pas" + 2)
+[000000000069C0A2] Vcl.Controls._ZN3Vcl8Controls8TControl8DblClickEv (Line 7666, "Vcl.Controls.pas" + 2)
+[000000000089ACBD] Vcl.Grids._ZN3Vcl5Grids11TCustomGrid9MouseDownEN6System7Uitypes12TMouseButtonENS2_3SetINS2_7Classes17System_Classes__1ELS7_0ELS7_10EEEii (Line 4446, "Vcl.Grids.pas" + 14)
+[000000000069C1FE] Vcl.Controls._ZN3Vcl8Controls8TControl11DoMouseDownERN6Winapi8Messages8TWMMouseEN6System7Uitypes12TMouseButtonENS6_3SetINS6_7Classes17System_Classes__1ELSB_0ELSB_10EEE (Line 7684, "Vcl.Controls.pas" + 8)
+[000000000069C334] Vcl.Controls._ZN3Vcl8Controls8TControl15WMLButtonDblClkERN6Winapi8Messages8TWMMouseE (Line 7710, "Vcl.Controls.pas" + 6)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D77C1] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman4OpenEv (Line 65, "ViewOnlineHuman.pas" + 7)
+[00000000014185B2] svMain._ZN6Svmain8TFrmMain26MENU_VIEW_ONLINEHUMANClickEPN6System7TObjectE (Line 1610, "svMain.pas" + 5)
+[00000000007ABE26] Vcl.Menus._ZN3Vcl5Menus9TMenuItem5ClickEv (Line 2615, "Vcl.Menus.pas" + 21)
+[00000000007AE694] Vcl.Menus._ZN3Vcl5Menus5TMenu15DispatchCommandEt (Line 3571, "Vcl.Menus.pas" + 6)
+[00000000007CC279] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6914, "Vcl.Forms.pas" + 5)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007D628F] Vcl.Forms._ZN3Vcl5Forms12TApplication3RunEv (Line 11486, "Vcl.Forms.pas" + 27)
+[0000000001420E52] M2Server._ZN8M2server14initializationEv
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:35:01:110] >>>Lua跨线程调用,已终止执行[QFunction]-moneychange3:14872-15072
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[000000000131949D] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEb (Line 21783, "ObjPlay.pas" + 11)
+[00000000012CE7D8] ObjPlay._ZN7Objplay11TPlayObject11ChangeMoneyEiwiiN6System13UnicodeStringEbb (Line 6226, "ObjPlay.pas" + 91)
+[00000000013D69F1] HumanInfo._ZN9Humaninfo13TfrmHumanInfo15ButtonSaveClickEPN6System7TObjectE (Line 526, "HumanInfo.pas" + 30)
+[000000000069C073] Vcl.Controls._ZN3Vcl8Controls8TControl5ClickEv (Line 7661, "Vcl.Controls.pas" + 10)
+[00000000006D504B] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton5ClickEv (Line 5876, "Vcl.StdCtrls.pas" + 4)
+[00000000006D68D4] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton9CNCommandERN6Winapi8Messages10TWMCommandE (Line 6511, "Vcl.StdCtrls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[000000000069B462] Vcl.Controls._ZN3Vcl8Controls8TControl7PerformEjyx (Line 7323, "Vcl.Controls.pas" + 11)
+[00000000006A2F8E] Vcl.Controls._ZN3Vcl8Controls12DoControlMsgEP6HWND__Pv (Line 10648, "Vcl.Controls.pas" + 12)
+[00000000006A4148] Vcl.Controls._ZN3Vcl8Controls11TWinControl9WMCommandERN6Winapi8Messages10TWMCommandE (Line 10925, "Vcl.Controls.pas" + 1)
+[00000000007CC288] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6917, "Vcl.Forms.pas" + 8)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05DE1B] Unknown function at SendMessageW
+[00007FF9FB05D68A] SendMessageW
+[00007FF9E4692467] Unknown function at ImageList_LoadImageW
+[00007FF9E46A20F0] Unknown function at ImageList_WriteEx
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E4EE] CallWindowProcW
+[00000000006A2F21] Vcl.Controls._ZN3Vcl8Controls11TWinControl14DefaultHandlerEPv (Line 10620, "Vcl.Controls.pas" + 30)
+[000000000069C71F] Vcl.Controls._ZN3Vcl8Controls8TControl11WMLButtonUpERN6Winapi8Messages8TWMMouseE (Line 7794, "Vcl.Controls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D3122] HumanInfo._ZN9Humaninfo13TfrmHumanInfo4OpenEv (Line 191, "HumanInfo.pas" + 5)
+[00000000013D8EE3] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman13ShowHumanInfoEv (Line 351, "ViewOnlineHuman.pas" + 28)
+[00000000013D8AF5] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman17GridHumanDblClickEPN6System7TObjectE (Line 277, "ViewOnlineHuman.pas" + 2)
+[000000000069C0A2] Vcl.Controls._ZN3Vcl8Controls8TControl8DblClickEv (Line 7666, "Vcl.Controls.pas" + 2)
+[000000000089ACBD] Vcl.Grids._ZN3Vcl5Grids11TCustomGrid9MouseDownEN6System7Uitypes12TMouseButtonENS2_3SetINS2_7Classes17System_Classes__1ELS7_0ELS7_10EEEii (Line 4446, "Vcl.Grids.pas" + 14)
+[000000000069C1FE] Vcl.Controls._ZN3Vcl8Controls8TControl11DoMouseDownERN6Winapi8Messages8TWMMouseEN6System7Uitypes12TMouseButtonENS6_3SetINS6_7Classes17System_Classes__1ELSB_0ELSB_10EEE (Line 7684, "Vcl.Controls.pas" + 8)
+[000000000069C334] Vcl.Controls._ZN3Vcl8Controls8TControl15WMLButtonDblClkERN6Winapi8Messages8TWMMouseE (Line 7710, "Vcl.Controls.pas" + 6)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D77C1] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman4OpenEv (Line 65, "ViewOnlineHuman.pas" + 7)
+[00000000014185B2] svMain._ZN6Svmain8TFrmMain26MENU_VIEW_ONLINEHUMANClickEPN6System7TObjectE (Line 1610, "svMain.pas" + 5)
+[00000000007ABE26] Vcl.Menus._ZN3Vcl5Menus9TMenuItem5ClickEv (Line 2615, "Vcl.Menus.pas" + 21)
+[00000000007AE694] Vcl.Menus._ZN3Vcl5Menus5TMenu15DispatchCommandEt (Line 3571, "Vcl.Menus.pas" + 6)
+[00000000007CC279] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6914, "Vcl.Forms.pas" + 5)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007D628F] Vcl.Forms._ZN3Vcl5Forms12TApplication3RunEv (Line 11486, "Vcl.Forms.pas" + 27)
+[0000000001420E52] M2Server._ZN8M2server14initializationEv
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:35:01:110] >>>>>TPlayObject.RecalcAbilitys[他还能,50000000001706854042000004267] 跨线程调用
+[2024-02-02 20:35:01:110] >>>>>TPlayObject.RecalcAbilitys[他还能,50000000001706854042000004267] 跨线程调用
+[2024-02-02 20:35:01:122] >>>Lua跨线程调用,已终止执行[QFunction]-playlevelup:14872-15072
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[000000000131949D] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEb (Line 21783, "ObjPlay.pas" + 11)
+[00000000012CB9E9] ObjPlay._ZN7Objplay11TPlayObject10HasLevelUpEi (Line 5730, "ObjPlay.pas" + 47)
+[00000000013D6B58] HumanInfo._ZN9Humaninfo13TfrmHumanInfo15ButtonSaveClickEPN6System7TObjectE (Line 540, "HumanInfo.pas" + 44)
+[000000000069C073] Vcl.Controls._ZN3Vcl8Controls8TControl5ClickEv (Line 7661, "Vcl.Controls.pas" + 10)
+[00000000006D504B] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton5ClickEv (Line 5876, "Vcl.StdCtrls.pas" + 4)
+[00000000006D68D4] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton9CNCommandERN6Winapi8Messages10TWMCommandE (Line 6511, "Vcl.StdCtrls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[000000000069B462] Vcl.Controls._ZN3Vcl8Controls8TControl7PerformEjyx (Line 7323, "Vcl.Controls.pas" + 11)
+[00000000006A2F8E] Vcl.Controls._ZN3Vcl8Controls12DoControlMsgEP6HWND__Pv (Line 10648, "Vcl.Controls.pas" + 12)
+[00000000006A4148] Vcl.Controls._ZN3Vcl8Controls11TWinControl9WMCommandERN6Winapi8Messages10TWMCommandE (Line 10925, "Vcl.Controls.pas" + 1)
+[00000000007CC288] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6917, "Vcl.Forms.pas" + 8)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05DE1B] Unknown function at SendMessageW
+[00007FF9FB05D68A] SendMessageW
+[00007FF9E4692467] Unknown function at ImageList_LoadImageW
+[00007FF9E46A20F0] Unknown function at ImageList_WriteEx
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E4EE] CallWindowProcW
+[00000000006A2F21] Vcl.Controls._ZN3Vcl8Controls11TWinControl14DefaultHandlerEPv (Line 10620, "Vcl.Controls.pas" + 30)
+[000000000069C71F] Vcl.Controls._ZN3Vcl8Controls8TControl11WMLButtonUpERN6Winapi8Messages8TWMMouseE (Line 7794, "Vcl.Controls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D3122] HumanInfo._ZN9Humaninfo13TfrmHumanInfo4OpenEv (Line 191, "HumanInfo.pas" + 5)
+[00000000013D8EE3] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman13ShowHumanInfoEv (Line 351, "ViewOnlineHuman.pas" + 28)
+[00000000013D8AF5] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman17GridHumanDblClickEPN6System7TObjectE (Line 277, "ViewOnlineHuman.pas" + 2)
+[000000000069C0A2] Vcl.Controls._ZN3Vcl8Controls8TControl8DblClickEv (Line 7666, "Vcl.Controls.pas" + 2)
+[000000000089ACBD] Vcl.Grids._ZN3Vcl5Grids11TCustomGrid9MouseDownEN6System7Uitypes12TMouseButtonENS2_3SetINS2_7Classes17System_Classes__1ELS7_0ELS7_10EEEii (Line 4446, "Vcl.Grids.pas" + 14)
+[000000000069C1FE] Vcl.Controls._ZN3Vcl8Controls8TControl11DoMouseDownERN6Winapi8Messages8TWMMouseEN6System7Uitypes12TMouseButtonENS6_3SetINS6_7Classes17System_Classes__1ELSB_0ELSB_10EEE (Line 7684, "Vcl.Controls.pas" + 8)
+[000000000069C334] Vcl.Controls._ZN3Vcl8Controls8TControl15WMLButtonDblClkERN6Winapi8Messages8TWMMouseE (Line 7710, "Vcl.Controls.pas" + 6)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D77C1] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman4OpenEv (Line 65, "ViewOnlineHuman.pas" + 7)
+[00000000014185B2] svMain._ZN6Svmain8TFrmMain26MENU_VIEW_ONLINEHUMANClickEPN6System7TObjectE (Line 1610, "svMain.pas" + 5)
+[00000000007ABE26] Vcl.Menus._ZN3Vcl5Menus9TMenuItem5ClickEv (Line 2615, "Vcl.Menus.pas" + 21)
+[00000000007AE694] Vcl.Menus._ZN3Vcl5Menus5TMenu15DispatchCommandEt (Line 3571, "Vcl.Menus.pas" + 6)
+[00000000007CC279] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6914, "Vcl.Forms.pas" + 5)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007D628F] Vcl.Forms._ZN3Vcl5Forms12TApplication3RunEv (Line 11486, "Vcl.Forms.pas" + 27)
+[0000000001420E52] M2Server._ZN8M2server14initializationEv
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:35:01:134] >>>Lua跨线程调用,已终止执行[QFunction]-sendability:14872-15072
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[000000000131949D] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEb (Line 21783, "ObjPlay.pas" + 11)
+[00000000013114B2] ObjPlay._ZN7Objplay11TPlayObject11SendAbilityEv (Line 19865, "ObjPlay.pas" + 7)
+[00000000013D6B86] HumanInfo._ZN9Humaninfo13TfrmHumanInfo15ButtonSaveClickEPN6System7TObjectE (Line 542, "HumanInfo.pas" + 46)
+[000000000069C073] Vcl.Controls._ZN3Vcl8Controls8TControl5ClickEv (Line 7661, "Vcl.Controls.pas" + 10)
+[00000000006D504B] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton5ClickEv (Line 5876, "Vcl.StdCtrls.pas" + 4)
+[00000000006D68D4] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton9CNCommandERN6Winapi8Messages10TWMCommandE (Line 6511, "Vcl.StdCtrls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[000000000069B462] Vcl.Controls._ZN3Vcl8Controls8TControl7PerformEjyx (Line 7323, "Vcl.Controls.pas" + 11)
+[00000000006A2F8E] Vcl.Controls._ZN3Vcl8Controls12DoControlMsgEP6HWND__Pv (Line 10648, "Vcl.Controls.pas" + 12)
+[00000000006A4148] Vcl.Controls._ZN3Vcl8Controls11TWinControl9WMCommandERN6Winapi8Messages10TWMCommandE (Line 10925, "Vcl.Controls.pas" + 1)
+[00000000007CC288] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6917, "Vcl.Forms.pas" + 8)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05DE1B] Unknown function at SendMessageW
+[00007FF9FB05D68A] SendMessageW
+[00007FF9E4692467] Unknown function at ImageList_LoadImageW
+[00007FF9E46A20F0] Unknown function at ImageList_WriteEx
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E4EE] CallWindowProcW
+[00000000006A2F21] Vcl.Controls._ZN3Vcl8Controls11TWinControl14DefaultHandlerEPv (Line 10620, "Vcl.Controls.pas" + 30)
+[000000000069C71F] Vcl.Controls._ZN3Vcl8Controls8TControl11WMLButtonUpERN6Winapi8Messages8TWMMouseE (Line 7794, "Vcl.Controls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D3122] HumanInfo._ZN9Humaninfo13TfrmHumanInfo4OpenEv (Line 191, "HumanInfo.pas" + 5)
+[00000000013D8EE3] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman13ShowHumanInfoEv (Line 351, "ViewOnlineHuman.pas" + 28)
+[00000000013D8AF5] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman17GridHumanDblClickEPN6System7TObjectE (Line 277, "ViewOnlineHuman.pas" + 2)
+[000000000069C0A2] Vcl.Controls._ZN3Vcl8Controls8TControl8DblClickEv (Line 7666, "Vcl.Controls.pas" + 2)
+[000000000089ACBD] Vcl.Grids._ZN3Vcl5Grids11TCustomGrid9MouseDownEN6System7Uitypes12TMouseButtonENS2_3SetINS2_7Classes17System_Classes__1ELS7_0ELS7_10EEEii (Line 4446, "Vcl.Grids.pas" + 14)
+[000000000069C1FE] Vcl.Controls._ZN3Vcl8Controls8TControl11DoMouseDownERN6Winapi8Messages8TWMMouseEN6System7Uitypes12TMouseButtonENS6_3SetINS6_7Classes17System_Classes__1ELSB_0ELSB_10EEE (Line 7684, "Vcl.Controls.pas" + 8)
+[000000000069C334] Vcl.Controls._ZN3Vcl8Controls8TControl15WMLButtonDblClkERN6Winapi8Messages8TWMMouseE (Line 7710, "Vcl.Controls.pas" + 6)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D77C1] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman4OpenEv (Line 65, "ViewOnlineHuman.pas" + 7)
+[00000000014185B2] svMain._ZN6Svmain8TFrmMain26MENU_VIEW_ONLINEHUMANClickEPN6System7TObjectE (Line 1610, "svMain.pas" + 5)
+[00000000007ABE26] Vcl.Menus._ZN3Vcl5Menus9TMenuItem5ClickEv (Line 2615, "Vcl.Menus.pas" + 21)
+[00000000007AE694] Vcl.Menus._ZN3Vcl5Menus5TMenu15DispatchCommandEt (Line 3571, "Vcl.Menus.pas" + 6)
+[00000000007CC279] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6914, "Vcl.Forms.pas" + 5)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007D628F] Vcl.Forms._ZN3Vcl5Forms12TApplication3RunEv (Line 11486, "Vcl.Forms.pas" + 27)
+[0000000001420E52] M2Server._ZN8M2server14initializationEv
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+
+[2024-02-02 20:35:11:988] >>>Lua跨线程调用,已终止执行[QFunction]-moneychange7:14872-15072
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[000000000131949D] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEb (Line 21783, "ObjPlay.pas" + 11)
+[00000000012CE7D8] ObjPlay._ZN7Objplay11TPlayObject11ChangeMoneyEiwiiN6System13UnicodeStringEbb (Line 6226, "ObjPlay.pas" + 91)
+[00000000013D6AB7] HumanInfo._ZN9Humaninfo13TfrmHumanInfo15ButtonSaveClickEPN6System7TObjectE (Line 532, "HumanInfo.pas" + 36)
+[000000000069C073] Vcl.Controls._ZN3Vcl8Controls8TControl5ClickEv (Line 7661, "Vcl.Controls.pas" + 10)
+[00000000006D504B] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton5ClickEv (Line 5876, "Vcl.StdCtrls.pas" + 4)
+[00000000006D68D4] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton9CNCommandERN6Winapi8Messages10TWMCommandE (Line 6511, "Vcl.StdCtrls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[000000000069B462] Vcl.Controls._ZN3Vcl8Controls8TControl7PerformEjyx (Line 7323, "Vcl.Controls.pas" + 11)
+[00000000006A2F8E] Vcl.Controls._ZN3Vcl8Controls12DoControlMsgEP6HWND__Pv (Line 10648, "Vcl.Controls.pas" + 12)
+[00000000006A4148] Vcl.Controls._ZN3Vcl8Controls11TWinControl9WMCommandERN6Winapi8Messages10TWMCommandE (Line 10925, "Vcl.Controls.pas" + 1)
+[00000000007CC288] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6917, "Vcl.Forms.pas" + 8)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05DE1B] Unknown function at SendMessageW
+[00007FF9FB05D68A] SendMessageW
+[00007FF9E4692467] Unknown function at ImageList_LoadImageW
+[00007FF9E46A20F0] Unknown function at ImageList_WriteEx
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E4EE] CallWindowProcW
+[00000000006A2F21] Vcl.Controls._ZN3Vcl8Controls11TWinControl14DefaultHandlerEPv (Line 10620, "Vcl.Controls.pas" + 30)
+[000000000069C71F] Vcl.Controls._ZN3Vcl8Controls8TControl11WMLButtonUpERN6Winapi8Messages8TWMMouseE (Line 7794, "Vcl.Controls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D3122] HumanInfo._ZN9Humaninfo13TfrmHumanInfo4OpenEv (Line 191, "HumanInfo.pas" + 5)
+[00000000013D8EE3] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman13ShowHumanInfoEv (Line 351, "ViewOnlineHuman.pas" + 28)
+[00000000013D8AF5] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman17GridHumanDblClickEPN6System7TObjectE (Line 277, "ViewOnlineHuman.pas" + 2)
+[000000000069C0A2] Vcl.Controls._ZN3Vcl8Controls8TControl8DblClickEv (Line 7666, "Vcl.Controls.pas" + 2)
+[000000000089ACBD] Vcl.Grids._ZN3Vcl5Grids11TCustomGrid9MouseDownEN6System7Uitypes12TMouseButtonENS2_3SetINS2_7Classes17System_Classes__1ELS7_0ELS7_10EEEii (Line 4446, "Vcl.Grids.pas" + 14)
+[000000000069C1FE] Vcl.Controls._ZN3Vcl8Controls8TControl11DoMouseDownERN6Winapi8Messages8TWMMouseEN6System7Uitypes12TMouseButtonENS6_3SetINS6_7Classes17System_Classes__1ELSB_0ELSB_10EEE (Line 7684, "Vcl.Controls.pas" + 8)
+[000000000069C334] Vcl.Controls._ZN3Vcl8Controls8TControl15WMLButtonDblClkERN6Winapi8Messages8TWMMouseE (Line 7710, "Vcl.Controls.pas" + 6)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D77C1] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman4OpenEv (Line 65, "ViewOnlineHuman.pas" + 7)
+[00000000014185B2] svMain._ZN6Svmain8TFrmMain26MENU_VIEW_ONLINEHUMANClickEPN6System7TObjectE (Line 1610, "svMain.pas" + 5)
+[00000000007ABE26] Vcl.Menus._ZN3Vcl5Menus9TMenuItem5ClickEv (Line 2615, "Vcl.Menus.pas" + 21)
+[00000000007AE694] Vcl.Menus._ZN3Vcl5Menus5TMenu15DispatchCommandEt (Line 3571, "Vcl.Menus.pas" + 6)
+[00000000007CC279] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6914, "Vcl.Forms.pas" + 5)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007D628F] Vcl.Forms._ZN3Vcl5Forms12TApplication3RunEv (Line 11486, "Vcl.Forms.pas" + 27)
+[0000000001420E52] M2Server._ZN8M2server14initializationEv
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:35:11:988] >>>>>TPlayObject.RecalcAbilitys[他还能,50000000001706854042000004267] 跨线程调用
+[2024-02-02 20:35:11:988] >>>>>TPlayObject.RecalcAbilitys[他还能,50000000001706854042000004267] 跨线程调用
+
+[2024-02-02 20:35:12:001] >>>Lua跨线程调用,已终止执行[QFunction]-playlevelup:14872-15072
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[000000000131949D] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEb (Line 21783, "ObjPlay.pas" + 11)
+[00000000012CB9E9] ObjPlay._ZN7Objplay11TPlayObject10HasLevelUpEi (Line 5730, "ObjPlay.pas" + 47)
+[00000000013D6B58] HumanInfo._ZN9Humaninfo13TfrmHumanInfo15ButtonSaveClickEPN6System7TObjectE (Line 540, "HumanInfo.pas" + 44)
+[000000000069C073] Vcl.Controls._ZN3Vcl8Controls8TControl5ClickEv (Line 7661, "Vcl.Controls.pas" + 10)
+[00000000006D504B] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton5ClickEv (Line 5876, "Vcl.StdCtrls.pas" + 4)
+[00000000006D68D4] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton9CNCommandERN6Winapi8Messages10TWMCommandE (Line 6511, "Vcl.StdCtrls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[000000000069B462] Vcl.Controls._ZN3Vcl8Controls8TControl7PerformEjyx (Line 7323, "Vcl.Controls.pas" + 11)
+[00000000006A2F8E] Vcl.Controls._ZN3Vcl8Controls12DoControlMsgEP6HWND__Pv (Line 10648, "Vcl.Controls.pas" + 12)
+[00000000006A4148] Vcl.Controls._ZN3Vcl8Controls11TWinControl9WMCommandERN6Winapi8Messages10TWMCommandE (Line 10925, "Vcl.Controls.pas" + 1)
+[00000000007CC288] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6917, "Vcl.Forms.pas" + 8)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05DE1B] Unknown function at SendMessageW
+[00007FF9FB05D68A] SendMessageW
+[00007FF9E4692467] Unknown function at ImageList_LoadImageW
+[00007FF9E46A20F0] Unknown function at ImageList_WriteEx
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E4EE] CallWindowProcW
+[00000000006A2F21] Vcl.Controls._ZN3Vcl8Controls11TWinControl14DefaultHandlerEPv (Line 10620, "Vcl.Controls.pas" + 30)
+[000000000069C71F] Vcl.Controls._ZN3Vcl8Controls8TControl11WMLButtonUpERN6Winapi8Messages8TWMMouseE (Line 7794, "Vcl.Controls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D3122] HumanInfo._ZN9Humaninfo13TfrmHumanInfo4OpenEv (Line 191, "HumanInfo.pas" + 5)
+[00000000013D8EE3] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman13ShowHumanInfoEv (Line 351, "ViewOnlineHuman.pas" + 28)
+[00000000013D8AF5] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman17GridHumanDblClickEPN6System7TObjectE (Line 277, "ViewOnlineHuman.pas" + 2)
+[000000000069C0A2] Vcl.Controls._ZN3Vcl8Controls8TControl8DblClickEv (Line 7666, "Vcl.Controls.pas" + 2)
+[000000000089ACBD] Vcl.Grids._ZN3Vcl5Grids11TCustomGrid9MouseDownEN6System7Uitypes12TMouseButtonENS2_3SetINS2_7Classes17System_Classes__1ELS7_0ELS7_10EEEii (Line 4446, "Vcl.Grids.pas" + 14)
+[000000000069C1FE] Vcl.Controls._ZN3Vcl8Controls8TControl11DoMouseDownERN6Winapi8Messages8TWMMouseEN6System7Uitypes12TMouseButtonENS6_3SetINS6_7Classes17System_Classes__1ELSB_0ELSB_10EEE (Line 7684, "Vcl.Controls.pas" + 8)
+[000000000069C334] Vcl.Controls._ZN3Vcl8Controls8TControl15WMLButtonDblClkERN6Winapi8Messages8TWMMouseE (Line 7710, "Vcl.Controls.pas" + 6)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D77C1] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman4OpenEv (Line 65, "ViewOnlineHuman.pas" + 7)
+[00000000014185B2] svMain._ZN6Svmain8TFrmMain26MENU_VIEW_ONLINEHUMANClickEPN6System7TObjectE (Line 1610, "svMain.pas" + 5)
+[00000000007ABE26] Vcl.Menus._ZN3Vcl5Menus9TMenuItem5ClickEv (Line 2615, "Vcl.Menus.pas" + 21)
+[00000000007AE694] Vcl.Menus._ZN3Vcl5Menus5TMenu15DispatchCommandEt (Line 3571, "Vcl.Menus.pas" + 6)
+[00000000007CC279] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6914, "Vcl.Forms.pas" + 5)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007D628F] Vcl.Forms._ZN3Vcl5Forms12TApplication3RunEv (Line 11486, "Vcl.Forms.pas" + 27)
+[0000000001420E52] M2Server._ZN8M2server14initializationEv
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:35:12:018] >>>Lua跨线程调用,已终止执行[QFunction]-sendability:14872-15072
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[000000000131949D] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEb (Line 21783, "ObjPlay.pas" + 11)
+[00000000013114B2] ObjPlay._ZN7Objplay11TPlayObject11SendAbilityEv (Line 19865, "ObjPlay.pas" + 7)
+[00000000013D6B86] HumanInfo._ZN9Humaninfo13TfrmHumanInfo15ButtonSaveClickEPN6System7TObjectE (Line 542, "HumanInfo.pas" + 46)
+[000000000069C073] Vcl.Controls._ZN3Vcl8Controls8TControl5ClickEv (Line 7661, "Vcl.Controls.pas" + 10)
+[00000000006D504B] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton5ClickEv (Line 5876, "Vcl.StdCtrls.pas" + 4)
+[00000000006D68D4] Vcl.StdCtrls._ZN3Vcl8Stdctrls13TCustomButton9CNCommandERN6Winapi8Messages10TWMCommandE (Line 6511, "Vcl.StdCtrls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[000000000069B462] Vcl.Controls._ZN3Vcl8Controls8TControl7PerformEjyx (Line 7323, "Vcl.Controls.pas" + 11)
+[00000000006A2F8E] Vcl.Controls._ZN3Vcl8Controls12DoControlMsgEP6HWND__Pv (Line 10648, "Vcl.Controls.pas" + 12)
+[00000000006A4148] Vcl.Controls._ZN3Vcl8Controls11TWinControl9WMCommandERN6Winapi8Messages10TWMCommandE (Line 10925, "Vcl.Controls.pas" + 1)
+[00000000007CC288] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6917, "Vcl.Forms.pas" + 8)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05DE1B] Unknown function at SendMessageW
+[00007FF9FB05D68A] SendMessageW
+[00007FF9E4692467] Unknown function at ImageList_LoadImageW
+[00007FF9E46A20F0] Unknown function at ImageList_WriteEx
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E4EE] CallWindowProcW
+[00000000006A2F21] Vcl.Controls._ZN3Vcl8Controls11TWinControl14DefaultHandlerEPv (Line 10620, "Vcl.Controls.pas" + 30)
+[000000000069C71F] Vcl.Controls._ZN3Vcl8Controls8TControl11WMLButtonUpERN6Winapi8Messages8TWMMouseE (Line 7794, "Vcl.Controls.pas" + 2)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006D4A65] Vcl.StdCtrls._ZN3Vcl8Stdctrls14TButtonControl7WndProcERN6Winapi8Messages8TMessageE (Line 5709, "Vcl.StdCtrls.pas" + 14)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D3122] HumanInfo._ZN9Humaninfo13TfrmHumanInfo4OpenEv (Line 191, "HumanInfo.pas" + 5)
+[00000000013D8EE3] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman13ShowHumanInfoEv (Line 351, "ViewOnlineHuman.pas" + 28)
+[00000000013D8AF5] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman17GridHumanDblClickEPN6System7TObjectE (Line 277, "ViewOnlineHuman.pas" + 2)
+[000000000069C0A2] Vcl.Controls._ZN3Vcl8Controls8TControl8DblClickEv (Line 7666, "Vcl.Controls.pas" + 2)
+[000000000089ACBD] Vcl.Grids._ZN3Vcl5Grids11TCustomGrid9MouseDownEN6System7Uitypes12TMouseButtonENS2_3SetINS2_7Classes17System_Classes__1ELS7_0ELS7_10EEEii (Line 4446, "Vcl.Grids.pas" + 14)
+[000000000069C1FE] Vcl.Controls._ZN3Vcl8Controls8TControl11DoMouseDownERN6Winapi8Messages8TWMMouseEN6System7Uitypes12TMouseButtonENS6_3SetINS6_7Classes17System_Classes__1ELSB_0ELSB_10EEE (Line 7684, "Vcl.Controls.pas" + 8)
+[000000000069C334] Vcl.Controls._ZN3Vcl8Controls8TControl15WMLButtonDblClkERN6Winapi8Messages8TWMMouseE (Line 7710, "Vcl.Controls.pas" + 6)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007CED84] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9ShowModalEv (Line 7973, "Vcl.Forms.pas" + 51)
+[00000000013D77C1] ViewOnlineHuman._ZN15Viewonlinehuman19TfrmViewOnlineHuman4OpenEv (Line 65, "ViewOnlineHuman.pas" + 7)
+[00000000014185B2] svMain._ZN6Svmain8TFrmMain26MENU_VIEW_ONLINEHUMANClickEPN6System7TObjectE (Line 1610, "svMain.pas" + 5)
+[00000000007ABE26] Vcl.Menus._ZN3Vcl5Menus9TMenuItem5ClickEv (Line 2615, "Vcl.Menus.pas" + 21)
+[00000000007AE694] Vcl.Menus._ZN3Vcl5Menus5TMenu15DispatchCommandEt (Line 3571, "Vcl.Menus.pas" + 6)
+[00000000007CC279] Vcl.Forms._ZN3Vcl5Forms11TCustomForm9WMCommandERN6Winapi8Messages10TWMCommandE (Line 6914, "Vcl.Forms.pas" + 5)
+[0000000000410375] System._ZN6System7TObject8DispatchEPv (Line 18852, "System.pas" + 10)
+[000000000069B970] Vcl.Controls._ZN3Vcl8Controls8TControl7WndProcERN6Winapi8Messages8TMessageE (Line 7545, "Vcl.Controls.pas" + 92)
+[00000000006A2DB0] Vcl.Controls._ZN3Vcl8Controls11TWinControl7WndProcERN6Winapi8Messages8TMessageE (Line 10581, "Vcl.Controls.pas" + 172)
+[00000000007C7161] Vcl.Forms._ZN3Vcl5Forms11TCustomForm7WndProcERN6Winapi8Messages8TMessageE (Line 4986, "Vcl.Forms.pas" + 222)
+[00000000006A1F4C] Vcl.Controls._ZN3Vcl8Controls11TWinControl11MainWndProcERN6Winapi8Messages8TMessageE (Line 10269, "Vcl.Controls.pas" + 5)
+[00000000005D68D6] System.Classes._ZN6System7Classes10StdWndProcEP6HWND__jyy (Line 18336, "System.Classes.pas" + 9)
+[00007FF9FB05E858] Unknown function at CallWindowProcW
+[00007FF9FB05E299] Unknown function at DispatchMessageW
+[00000000007D5DC3] Vcl.Forms._ZN3Vcl5Forms12TApplication14ProcessMessageER6tagMSG (Line 11317, "Vcl.Forms.pas" + 23)
+[00000000007D5E38] Vcl.Forms._ZN3Vcl5Forms12TApplication13HandleMessageEv (Line 11347, "Vcl.Forms.pas" + 1)
+[00000000007D628F] Vcl.Forms._ZN3Vcl5Forms12TApplication3RunEv (Line 11486, "Vcl.Forms.pas" + 27)
+[0000000001420E52] M2Server._ZN8M2server14initializationEv
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+
+[2024-02-02 20:41:30:152] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+
+[2024-02-02 20:41:52:245] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:41:52:249] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:41:52:256] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:41:52:262] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:41:52:267] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:41:52:273] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:41:52:278] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:41:52:282] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:41:52:288] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:41:52:294] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:41:52:299] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+
+[2024-02-02 20:42:32:276] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:42:32:281] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:42:32:286] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:42:32:290] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:42:32:295] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:42:32:301] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:42:32:306] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:42:32:311] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:42:32:316] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:42:32:323] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+[2024-02-02 20:42:32:327] >>>Lua跨线程调用,已终止执行[QFunction]-addbag:14872-25288
+[00007FF9FB44EEB4] ZwGetContextThread
+[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[0000000001203143] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_S0_ (Line 5358, "JclDebug.pas" + 1)
+[0000000001203286] JclDebug._ZN8Jcldebug25JclCreateThreadStackTraceEby (Line 5402, "JclDebug.pas" + 17)
+[0000000001203334] JclDebug._ZN8Jcldebug31JclCreateThreadStackTraceFromIDEbj (Line 5432, "JclDebug.pas" + 12)
+[000000000122C2DE] M2Share._ZN7M2share18GetThreadStackInfoEj (Line 2686, "M2Share.pas" + 2)
+[0000000000F91A70] uMyLua._ZN6Umylua6TMyLua4CallEPN7Objplay11TPlayObjectEN6System13UnicodeStringEPKNS4_7TVarRecEiRKNS4_7VariantE (Line 12609, "uMyLua.pas" + 13)
+[0000000001319868] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEiRKNS1_7VariantEb (Line 21824, "ObjPlay.pas" + 32)
+[0000000001319F15] ObjPlay._ZN7Objplay11TPlayObject11FuncNpcCallEN6System13UnicodeStringEbPKNS1_7TVarRecEi (Line 21908, "ObjPlay.pas" + 2)
+[00000000013266CB] ObjPlay._ZN7Objplay11TPlayObject12AddItemToBagERPN7Grobal29TUserItemEbNS1_14TAddBagFromSrcE (Line 24393, "ObjPlay.pas" + 65)
+[00000000011188C5] uThread_Assisant._ZN16Uthread_assisant11TChatManage11CmdMakeItemEPN7Objplay11TPlayObjectEPNS_8TGameCmdEN6System13UnicodeStringEiii (Line 2625, "uThread_Assisant.pas" + 149)
+[000000000110C816] uThread_Assisant._ZN16Uthread_assisant11TChatManage7PlaySayEPN7Objplay11TPlayObjectEN6System13UnicodeStringE (Line 605, "uThread_Assisant.pas" + 159)
+[000000000110996C] uThread_Assisant._ZN16Uthread_assisant11TChatManage3runEv (Line 271, "uThread_Assisant.pas" + 12)
+[0000000001109679] uThread_Assisant._ZN16Uthread_assisant13TAssistThread5OnRunEv (Line 210, "uThread_Assisant.pas" + 2)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FF9FAF67614] BaseThreadInitThunk
+[00007FF9FB4026A1] RtlUserThreadStart
+
+
+[2024-02-02 20:45:59:003] Socket Err:10061
+
+[2024-02-03 00:05:59:005] Socket Err:10061
+
+[2024-02-03 02:35:19:330] ---------------------线程耗时监控
+[2024-02-03 02:35:19:345] Frame-----------------------------------
+00410ceb +00b M2Server.exe System         19726  +1 TMonitor.Exit
+00410d64 +024 M2Server.exe System         19748  +2 TMonitor.Exit
+005d07a1 +2f1 M2Server.exe System.Classes 15658 +66 CheckSynchronize
+[2024-02-03 02:35:19:361] MainRunThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-02-03 02:35:19:388] DbThread(2047)-----------------------------------
+0099b97b +01b M2Server.exe FireDAC.Phys.ODBCWrapper  1671  +2 TODBCHandle.FreeHandle
+0099b3e1 +021 M2Server.exe FireDAC.Phys.ODBCWrapper  1542  +2 TODBCHandle.Destroy
+009a61ac +05c M2Server.exe FireDAC.Phys.ODBCWrapper  4871  +5 TODBCStatementBase.Destroy
+009a7855 +025 M2Server.exe FireDAC.Phys.ODBCWrapper  5443  +1 TODBCCommandStatement.Destroy
+009b42e7 +087 M2Server.exe FireDAC.Phys.ODBCBase     2332  +9 TFDPhysODBCCommand.InternalUnprepare
+00981beb +17b M2Server.exe FireDAC.Phys              6949 +27 TFDPhysCommand.Unprepare
+00a59077 +047 M2Server.exe FireDAC.Comp.Client       6436  +4 TFDCustomCommand.InternalUnprepare
+00a59700 +560 M2Server.exe FireDAC.Comp.Client       6552 +69 TFDCustomCommand.SetPrepared
+00a59d66 +006 M2Server.exe FireDAC.Comp.Client       6603  +1 TFDCustomCommand.Unprepare
+00a643e2 +0b2 M2Server.exe FireDAC.Comp.Client       9885 +15 TFDAdaptedDataSet.DoUnprepareSource
+00a67440 +070 M2Server.exe FireDAC.Comp.Client      11081 +11 TFDRdbmsDataSet.SetPrepared
+00a67895 +015 M2Server.exe FireDAC.Comp.Client      11191  +2 TFDRdbmsDataSet.Disconnect
+00a5ceb5 +0b5 M2Server.exe FireDAC.Comp.Client       7246  +5 TFDCustomCommand.DoSQLChange
+005b5790 +020 M2Server.exe System.Classes            7489  +2 TStringList.Changed
+005b6673 +023 M2Server.exe System.Classes            7877  +1 TStringList.SetUpdateState
+005b2eed +01d M2Server.exe System.Classes            6772  +2 TStrings.EndUpdate
+005b4b26 +386 M2Server.exe System.Classes            7276 +74 TStrings.SetTextStr
+00f08026 +0e6 M2Server.exe uThread_Db                2943  +6 TDbThread.ExecSql
+00f07c3a +02a M2Server.exe uThread_Db                2874  +1 TDbThread.ExecSql
+00f01315 +4e5 M2Server.exe uThread_Db                1901 +27 TDbThread.UpdateBatchVar
+00ef712d +32d M2Server.exe uThread_Db                 423 +51 TDbThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170 +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70  +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686 +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373  +9 ThreadWrapper
+[2024-02-03 02:35:19:401] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-02-03 02:35:22:009] ---------------------线程耗时监控
+[2024-02-03 02:35:22:027] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-02-03 02:35:22:060] MainRunThread(2063)-----------------------------------
+009a898a +16a M2Server.exe FireDAC.Phys.ODBCWrapper  5849  +29 TODBCCommandStatement.Execute
+009b5a40 +180 M2Server.exe FireDAC.Phys.ODBCBase     2820  +18 TFDPhysODBCCommand.InternalOpen
+00983547 +197 M2Server.exe FireDAC.Phys              7245  +35 TFDPhysCommand.OpenBase
+00982ea8 +008 M2Server.exe FireDAC.Phys              7130   +1 TFDPhysCommandAsyncOpen.Execute
+00c0e3da +03a M2Server.exe FireDAC.Stan.Async         173   +6 TFDStanAsyncExecutor.ExecuteOperation
+00c0e8c4 +084 M2Server.exe FireDAC.Stan.Async         268  +12 TFDStanAsyncExecutor.Run
+00980333 +1b3 M2Server.exe FireDAC.Phys              6637  +21 TFDPhysCommand.ExecuteTask
+009839ae +06e M2Server.exe FireDAC.Phys              7313   +2 TFDPhysCommand.Open
+0098391a +01a M2Server.exe FireDAC.Phys              7303   +2 TFDPhysCommand.OpenBlocked
+009b431d +01d M2Server.exe FireDAC.Phys.ODBCBase     2338   +1 TFDPhysODBCCommand.InternalColInfoStart
+00985546 +6a6 M2Server.exe FireDAC.Phys              7626  +61 TFDPhysCommand.DoDefineDataTable
+009876e2 +0a2 M2Server.exe FireDAC.Phys              8013  +15 TFDPhysCommand.Define
+00c1a439 +0e9 M2Server.exe FireDAC.DApt              2355   +5 TFDDAptTableAdapter.Define
+00a5e6c1 +041 M2Server.exe FireDAC.Comp.Client       7856   +2 TFDCustomTableAdapter.Define
+00a6449d +05d M2Server.exe FireDAC.Comp.Client       9901   +3 TFDAdaptedDataSet.DoDefineDatSManager
+00a0e148 +068 M2Server.exe FireDAC.Comp.DataSet      1508   +3 TFDDataSet.CheckTable
+00a12bef +27f M2Server.exe FireDAC.Comp.DataSet      2947  +35 TFDDataSet.OpenCursor
+00a67710 +040 M2Server.exe FireDAC.Comp.Client      11153   +5 TFDRdbmsDataSet.OpenCursor
+0083f4cf +06f M2Server.exe Data.DB                  12654  +12 TDataSet.SetActive
+00a0e79c +03c M2Server.exe FireDAC.Comp.DataSet      1614   +7 TFDDataSet.SetActive
+0083f270 +010 M2Server.exe Data.DB                  12610   +1 TDataSet.Open
+01420287 +0a7 M2Server.exe svMain                    2929   +7 TMainRunThread.LoadKuaFuConfig
+01420ac3 +013 M2Server.exe svMain                    2996   +1 TMainRunThread.CheckKuaFuState
+0141c430 +4b0 M2Server.exe svMain                    2386 +124 TMainRunThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170  +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70   +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686  +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373   +9 ThreadWrapper
+[2024-02-03 02:35:22:076] DbThread(4735)-----------------------------------
+0099b97b +01b M2Server.exe FireDAC.Phys.ODBCWrapper  1671  +2 TODBCHandle.FreeHandle
+0099b3e1 +021 M2Server.exe FireDAC.Phys.ODBCWrapper  1542  +2 TODBCHandle.Destroy
+009a61ac +05c M2Server.exe FireDAC.Phys.ODBCWrapper  4871  +5 TODBCStatementBase.Destroy
+009a7855 +025 M2Server.exe FireDAC.Phys.ODBCWrapper  5443  +1 TODBCCommandStatement.Destroy
+009b42e7 +087 M2Server.exe FireDAC.Phys.ODBCBase     2332  +9 TFDPhysODBCCommand.InternalUnprepare
+00981beb +17b M2Server.exe FireDAC.Phys              6949 +27 TFDPhysCommand.Unprepare
+00a59077 +047 M2Server.exe FireDAC.Comp.Client       6436  +4 TFDCustomCommand.InternalUnprepare
+00a59700 +560 M2Server.exe FireDAC.Comp.Client       6552 +69 TFDCustomCommand.SetPrepared
+00a59d66 +006 M2Server.exe FireDAC.Comp.Client       6603  +1 TFDCustomCommand.Unprepare
+00a643e2 +0b2 M2Server.exe FireDAC.Comp.Client       9885 +15 TFDAdaptedDataSet.DoUnprepareSource
+00a67440 +070 M2Server.exe FireDAC.Comp.Client      11081 +11 TFDRdbmsDataSet.SetPrepared
+00a67895 +015 M2Server.exe FireDAC.Comp.Client      11191  +2 TFDRdbmsDataSet.Disconnect
+00a5ceb5 +0b5 M2Server.exe FireDAC.Comp.Client       7246  +5 TFDCustomCommand.DoSQLChange
+005b5790 +020 M2Server.exe System.Classes            7489  +2 TStringList.Changed
+005b6673 +023 M2Server.exe System.Classes            7877  +1 TStringList.SetUpdateState
+005b2eed +01d M2Server.exe System.Classes            6772  +2 TStrings.EndUpdate
+005b4b26 +386 M2Server.exe System.Classes            7276 +74 TStrings.SetTextStr
+00f08026 +0e6 M2Server.exe uThread_Db                2943  +6 TDbThread.ExecSql
+00f07c3a +02a M2Server.exe uThread_Db                2874  +1 TDbThread.ExecSql
+00f01315 +4e5 M2Server.exe uThread_Db                1901 +27 TDbThread.UpdateBatchVar
+00ef712d +32d M2Server.exe uThread_Db                 423 +51 TDbThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170 +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70  +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686 +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373  +9 ThreadWrapper
+[2024-02-03 02:35:22:090] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-02-03 02:35:25:001] ---------------------线程耗时监控
+[2024-02-03 02:35:25:015] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-02-03 02:35:25:029] MainRunThread(5047)-----------------------------------
+009a898a +16a M2Server.exe FireDAC.Phys.ODBCWrapper  5849  +29 TODBCCommandStatement.Execute
+009b5a40 +180 M2Server.exe FireDAC.Phys.ODBCBase     2820  +18 TFDPhysODBCCommand.InternalOpen
+00983547 +197 M2Server.exe FireDAC.Phys              7245  +35 TFDPhysCommand.OpenBase
+00982ea8 +008 M2Server.exe FireDAC.Phys              7130   +1 TFDPhysCommandAsyncOpen.Execute
+00c0e3da +03a M2Server.exe FireDAC.Stan.Async         173   +6 TFDStanAsyncExecutor.ExecuteOperation
+00c0e8c4 +084 M2Server.exe FireDAC.Stan.Async         268  +12 TFDStanAsyncExecutor.Run
+00980333 +1b3 M2Server.exe FireDAC.Phys              6637  +21 TFDPhysCommand.ExecuteTask
+009839ae +06e M2Server.exe FireDAC.Phys              7313   +2 TFDPhysCommand.Open
+0098391a +01a M2Server.exe FireDAC.Phys              7303   +2 TFDPhysCommand.OpenBlocked
+009b431d +01d M2Server.exe FireDAC.Phys.ODBCBase     2338   +1 TFDPhysODBCCommand.InternalColInfoStart
+00985546 +6a6 M2Server.exe FireDAC.Phys              7626  +61 TFDPhysCommand.DoDefineDataTable
+009876e2 +0a2 M2Server.exe FireDAC.Phys              8013  +15 TFDPhysCommand.Define
+00c1a439 +0e9 M2Server.exe FireDAC.DApt              2355   +5 TFDDAptTableAdapter.Define
+00a5e6c1 +041 M2Server.exe FireDAC.Comp.Client       7856   +2 TFDCustomTableAdapter.Define
+00a6449d +05d M2Server.exe FireDAC.Comp.Client       9901   +3 TFDAdaptedDataSet.DoDefineDatSManager
+00a0e148 +068 M2Server.exe FireDAC.Comp.DataSet      1508   +3 TFDDataSet.CheckTable
+00a12bef +27f M2Server.exe FireDAC.Comp.DataSet      2947  +35 TFDDataSet.OpenCursor
+00a67710 +040 M2Server.exe FireDAC.Comp.Client      11153   +5 TFDRdbmsDataSet.OpenCursor
+0083f4cf +06f M2Server.exe Data.DB                  12654  +12 TDataSet.SetActive
+00a0e79c +03c M2Server.exe FireDAC.Comp.DataSet      1614   +7 TFDDataSet.SetActive
+0083f270 +010 M2Server.exe Data.DB                  12610   +1 TDataSet.Open
+01420287 +0a7 M2Server.exe svMain                    2929   +7 TMainRunThread.LoadKuaFuConfig
+01420ac3 +013 M2Server.exe svMain                    2996   +1 TMainRunThread.CheckKuaFuState
+0141c430 +4b0 M2Server.exe svMain                    2386 +124 TMainRunThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170  +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70   +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686  +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373   +9 ThreadWrapper
+[2024-02-03 02:35:25:044] DbThread(7703)-----------------------------------
+0099b97b +01b M2Server.exe FireDAC.Phys.ODBCWrapper  1671  +2 TODBCHandle.FreeHandle
+0099b3e1 +021 M2Server.exe FireDAC.Phys.ODBCWrapper  1542  +2 TODBCHandle.Destroy
+009a61ac +05c M2Server.exe FireDAC.Phys.ODBCWrapper  4871  +5 TODBCStatementBase.Destroy
+009a7855 +025 M2Server.exe FireDAC.Phys.ODBCWrapper  5443  +1 TODBCCommandStatement.Destroy
+009b42e7 +087 M2Server.exe FireDAC.Phys.ODBCBase     2332  +9 TFDPhysODBCCommand.InternalUnprepare
+00981beb +17b M2Server.exe FireDAC.Phys              6949 +27 TFDPhysCommand.Unprepare
+00a59077 +047 M2Server.exe FireDAC.Comp.Client       6436  +4 TFDCustomCommand.InternalUnprepare
+00a59700 +560 M2Server.exe FireDAC.Comp.Client       6552 +69 TFDCustomCommand.SetPrepared
+00a59d66 +006 M2Server.exe FireDAC.Comp.Client       6603  +1 TFDCustomCommand.Unprepare
+00a643e2 +0b2 M2Server.exe FireDAC.Comp.Client       9885 +15 TFDAdaptedDataSet.DoUnprepareSource
+00a67440 +070 M2Server.exe FireDAC.Comp.Client      11081 +11 TFDRdbmsDataSet.SetPrepared
+00a67895 +015 M2Server.exe FireDAC.Comp.Client      11191  +2 TFDRdbmsDataSet.Disconnect
+00a5ceb5 +0b5 M2Server.exe FireDAC.Comp.Client       7246  +5 TFDCustomCommand.DoSQLChange
+005b5790 +020 M2Server.exe System.Classes            7489  +2 TStringList.Changed
+005b6673 +023 M2Server.exe System.Classes            7877  +1 TStringList.SetUpdateState
+005b2eed +01d M2Server.exe System.Classes            6772  +2 TStrings.EndUpdate
+005b4b26 +386 M2Server.exe System.Classes            7276 +74 TStrings.SetTextStr
+00f08026 +0e6 M2Server.exe uThread_Db                2943  +6 TDbThread.ExecSql
+00f07c3a +02a M2Server.exe uThread_Db                2874  +1 TDbThread.ExecSql
+00f01315 +4e5 M2Server.exe uThread_Db                1901 +27 TDbThread.UpdateBatchVar
+00ef712d +32d M2Server.exe uThread_Db                 423 +51 TDbThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170 +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70  +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686 +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373  +9 ThreadWrapper
+[2024-02-03 02:35:25:058] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-02-03 02:35:28:000] ---------------------线程耗时监控
+[2024-02-03 02:35:28:014] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-02-03 02:35:28:029] MainRunThread(8047)-----------------------------------
+009a898a +16a M2Server.exe FireDAC.Phys.ODBCWrapper  5849  +29 TODBCCommandStatement.Execute
+009b5a40 +180 M2Server.exe FireDAC.Phys.ODBCBase     2820  +18 TFDPhysODBCCommand.InternalOpen
+00983547 +197 M2Server.exe FireDAC.Phys              7245  +35 TFDPhysCommand.OpenBase
+00982ea8 +008 M2Server.exe FireDAC.Phys              7130   +1 TFDPhysCommandAsyncOpen.Execute
+00c0e3da +03a M2Server.exe FireDAC.Stan.Async         173   +6 TFDStanAsyncExecutor.ExecuteOperation
+00c0e8c4 +084 M2Server.exe FireDAC.Stan.Async         268  +12 TFDStanAsyncExecutor.Run
+00980333 +1b3 M2Server.exe FireDAC.Phys              6637  +21 TFDPhysCommand.ExecuteTask
+009839ae +06e M2Server.exe FireDAC.Phys              7313   +2 TFDPhysCommand.Open
+0098391a +01a M2Server.exe FireDAC.Phys              7303   +2 TFDPhysCommand.OpenBlocked
+009b431d +01d M2Server.exe FireDAC.Phys.ODBCBase     2338   +1 TFDPhysODBCCommand.InternalColInfoStart
+00985546 +6a6 M2Server.exe FireDAC.Phys              7626  +61 TFDPhysCommand.DoDefineDataTable
+009876e2 +0a2 M2Server.exe FireDAC.Phys              8013  +15 TFDPhysCommand.Define
+00c1a439 +0e9 M2Server.exe FireDAC.DApt              2355   +5 TFDDAptTableAdapter.Define
+00a5e6c1 +041 M2Server.exe FireDAC.Comp.Client       7856   +2 TFDCustomTableAdapter.Define
+00a6449d +05d M2Server.exe FireDAC.Comp.Client       9901   +3 TFDAdaptedDataSet.DoDefineDatSManager
+00a0e148 +068 M2Server.exe FireDAC.Comp.DataSet      1508   +3 TFDDataSet.CheckTable
+00a12bef +27f M2Server.exe FireDAC.Comp.DataSet      2947  +35 TFDDataSet.OpenCursor
+00a67710 +040 M2Server.exe FireDAC.Comp.Client      11153   +5 TFDRdbmsDataSet.OpenCursor
+0083f4cf +06f M2Server.exe Data.DB                  12654  +12 TDataSet.SetActive
+00a0e79c +03c M2Server.exe FireDAC.Comp.DataSet      1614   +7 TFDDataSet.SetActive
+0083f270 +010 M2Server.exe Data.DB                  12610   +1 TDataSet.Open
+01420287 +0a7 M2Server.exe svMain                    2929   +7 TMainRunThread.LoadKuaFuConfig
+01420ac3 +013 M2Server.exe svMain                    2996   +1 TMainRunThread.CheckKuaFuState
+0141c430 +4b0 M2Server.exe svMain                    2386 +124 TMainRunThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170  +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70   +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686  +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373   +9 ThreadWrapper
+[2024-02-03 02:35:28:045] DbThread(10703)-----------------------------------
+0099b97b +01b M2Server.exe FireDAC.Phys.ODBCWrapper  1671  +2 TODBCHandle.FreeHandle
+0099b3e1 +021 M2Server.exe FireDAC.Phys.ODBCWrapper  1542  +2 TODBCHandle.Destroy
+009a61ac +05c M2Server.exe FireDAC.Phys.ODBCWrapper  4871  +5 TODBCStatementBase.Destroy
+009a7855 +025 M2Server.exe FireDAC.Phys.ODBCWrapper  5443  +1 TODBCCommandStatement.Destroy
+009b42e7 +087 M2Server.exe FireDAC.Phys.ODBCBase     2332  +9 TFDPhysODBCCommand.InternalUnprepare
+00981beb +17b M2Server.exe FireDAC.Phys              6949 +27 TFDPhysCommand.Unprepare
+00a59077 +047 M2Server.exe FireDAC.Comp.Client       6436  +4 TFDCustomCommand.InternalUnprepare
+00a59700 +560 M2Server.exe FireDAC.Comp.Client       6552 +69 TFDCustomCommand.SetPrepared
+00a59d66 +006 M2Server.exe FireDAC.Comp.Client       6603  +1 TFDCustomCommand.Unprepare
+00a643e2 +0b2 M2Server.exe FireDAC.Comp.Client       9885 +15 TFDAdaptedDataSet.DoUnprepareSource
+00a67440 +070 M2Server.exe FireDAC.Comp.Client      11081 +11 TFDRdbmsDataSet.SetPrepared
+00a67895 +015 M2Server.exe FireDAC.Comp.Client      11191  +2 TFDRdbmsDataSet.Disconnect
+00a5ceb5 +0b5 M2Server.exe FireDAC.Comp.Client       7246  +5 TFDCustomCommand.DoSQLChange
+005b5790 +020 M2Server.exe System.Classes            7489  +2 TStringList.Changed
+005b6673 +023 M2Server.exe System.Classes            7877  +1 TStringList.SetUpdateState
+005b2eed +01d M2Server.exe System.Classes            6772  +2 TStrings.EndUpdate
+005b4b26 +386 M2Server.exe System.Classes            7276 +74 TStrings.SetTextStr
+00f08026 +0e6 M2Server.exe uThread_Db                2943  +6 TDbThread.ExecSql
+00f07c3a +02a M2Server.exe uThread_Db                2874  +1 TDbThread.ExecSql
+00f01315 +4e5 M2Server.exe uThread_Db                1901 +27 TDbThread.UpdateBatchVar
+00ef712d +32d M2Server.exe uThread_Db                 423 +51 TDbThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170 +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70  +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686 +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373  +9 ThreadWrapper
+[2024-02-03 02:35:28:060] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-02-03 02:35:31:001] ---------------------线程耗时监控
+[2024-02-03 02:35:31:015] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-02-03 02:35:31:029] MainRunThread(11047)-----------------------------------
+009a898a +16a M2Server.exe FireDAC.Phys.ODBCWrapper  5849  +29 TODBCCommandStatement.Execute
+009b5a40 +180 M2Server.exe FireDAC.Phys.ODBCBase     2820  +18 TFDPhysODBCCommand.InternalOpen
+00983547 +197 M2Server.exe FireDAC.Phys              7245  +35 TFDPhysCommand.OpenBase
+00982ea8 +008 M2Server.exe FireDAC.Phys              7130   +1 TFDPhysCommandAsyncOpen.Execute
+00c0e3da +03a M2Server.exe FireDAC.Stan.Async         173   +6 TFDStanAsyncExecutor.ExecuteOperation
+00c0e8c4 +084 M2Server.exe FireDAC.Stan.Async         268  +12 TFDStanAsyncExecutor.Run
+00980333 +1b3 M2Server.exe FireDAC.Phys              6637  +21 TFDPhysCommand.ExecuteTask
+009839ae +06e M2Server.exe FireDAC.Phys              7313   +2 TFDPhysCommand.Open
+0098391a +01a M2Server.exe FireDAC.Phys              7303   +2 TFDPhysCommand.OpenBlocked
+009b431d +01d M2Server.exe FireDAC.Phys.ODBCBase     2338   +1 TFDPhysODBCCommand.InternalColInfoStart
+00985546 +6a6 M2Server.exe FireDAC.Phys              7626  +61 TFDPhysCommand.DoDefineDataTable
+009876e2 +0a2 M2Server.exe FireDAC.Phys              8013  +15 TFDPhysCommand.Define
+00c1a439 +0e9 M2Server.exe FireDAC.DApt              2355   +5 TFDDAptTableAdapter.Define
+00a5e6c1 +041 M2Server.exe FireDAC.Comp.Client       7856   +2 TFDCustomTableAdapter.Define
+00a6449d +05d M2Server.exe FireDAC.Comp.Client       9901   +3 TFDAdaptedDataSet.DoDefineDatSManager
+00a0e148 +068 M2Server.exe FireDAC.Comp.DataSet      1508   +3 TFDDataSet.CheckTable
+00a12bef +27f M2Server.exe FireDAC.Comp.DataSet      2947  +35 TFDDataSet.OpenCursor
+00a67710 +040 M2Server.exe FireDAC.Comp.Client      11153   +5 TFDRdbmsDataSet.OpenCursor
+0083f4cf +06f M2Server.exe Data.DB                  12654  +12 TDataSet.SetActive
+00a0e79c +03c M2Server.exe FireDAC.Comp.DataSet      1614   +7 TFDDataSet.SetActive
+0083f270 +010 M2Server.exe Data.DB                  12610   +1 TDataSet.Open
+01420287 +0a7 M2Server.exe svMain                    2929   +7 TMainRunThread.LoadKuaFuConfig
+01420ac3 +013 M2Server.exe svMain                    2996   +1 TMainRunThread.CheckKuaFuState
+0141c430 +4b0 M2Server.exe svMain                    2386 +124 TMainRunThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170  +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70   +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686  +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373   +9 ThreadWrapper
+[2024-02-03 02:35:31:045] DbThread(13703)-----------------------------------
+0099b97b +01b M2Server.exe FireDAC.Phys.ODBCWrapper  1671  +2 TODBCHandle.FreeHandle
+0099b3e1 +021 M2Server.exe FireDAC.Phys.ODBCWrapper  1542  +2 TODBCHandle.Destroy
+009a61ac +05c M2Server.exe FireDAC.Phys.ODBCWrapper  4871  +5 TODBCStatementBase.Destroy
+009a7855 +025 M2Server.exe FireDAC.Phys.ODBCWrapper  5443  +1 TODBCCommandStatement.Destroy
+009b42e7 +087 M2Server.exe FireDAC.Phys.ODBCBase     2332  +9 TFDPhysODBCCommand.InternalUnprepare
+00981beb +17b M2Server.exe FireDAC.Phys              6949 +27 TFDPhysCommand.Unprepare
+00a59077 +047 M2Server.exe FireDAC.Comp.Client       6436  +4 TFDCustomCommand.InternalUnprepare
+00a59700 +560 M2Server.exe FireDAC.Comp.Client       6552 +69 TFDCustomCommand.SetPrepared
+00a59d66 +006 M2Server.exe FireDAC.Comp.Client       6603  +1 TFDCustomCommand.Unprepare
+00a643e2 +0b2 M2Server.exe FireDAC.Comp.Client       9885 +15 TFDAdaptedDataSet.DoUnprepareSource
+00a67440 +070 M2Server.exe FireDAC.Comp.Client      11081 +11 TFDRdbmsDataSet.SetPrepared
+00a67895 +015 M2Server.exe FireDAC.Comp.Client      11191  +2 TFDRdbmsDataSet.Disconnect
+00a5ceb5 +0b5 M2Server.exe FireDAC.Comp.Client       7246  +5 TFDCustomCommand.DoSQLChange
+005b5790 +020 M2Server.exe System.Classes            7489  +2 TStringList.Changed
+005b6673 +023 M2Server.exe System.Classes            7877  +1 TStringList.SetUpdateState
+005b2eed +01d M2Server.exe System.Classes            6772  +2 TStrings.EndUpdate
+005b4b26 +386 M2Server.exe System.Classes            7276 +74 TStrings.SetTextStr
+00f08026 +0e6 M2Server.exe uThread_Db                2943  +6 TDbThread.ExecSql
+00f07c3a +02a M2Server.exe uThread_Db                2874  +1 TDbThread.ExecSql
+00f01315 +4e5 M2Server.exe uThread_Db                1901 +27 TDbThread.UpdateBatchVar
+00ef712d +32d M2Server.exe uThread_Db                 423 +51 TDbThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170 +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70  +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686 +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373  +9 ThreadWrapper
+[2024-02-03 02:35:31:058] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+

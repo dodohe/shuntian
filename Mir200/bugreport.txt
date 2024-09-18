@@ -1,0 +1,412 @@
+date/time          : 2023-06-28, 22:16:37, 107ms
+computer name      : iZ61z6ug14o49bZ
+wts client name    : DESKTOP-2D4MAIN
+user name          : Administrator <admin>
+registered owner   : / Aliyun
+operating system   : Windows 2008 R2 x64 Service Pack 1 build 7601
+system language    : Chinese (Simplified)
+system up time     : 532 days 6 hours
+program up time    : 7 minutes 22 seconds
+processors         : 4x Intel(R) Xeon(R) Platinum 8163 CPU @ 2.50GHz
+physical memory    : 5292/8191 MB (free/total)
+free disk space    : (C:) 12.41 GB (D:) 27.76 GB
+display mode       : 1916x967, 16 bit
+process id         : $10670
+allocated memory   : 157.14 MB
+largest free block : 8185.75 GB
+command line       : D:\复古三职业MirServer\Mir200\M2Server.exe 9786686 560 0 0 0
+executable         : M2Server.exe
+exec. date/time    : 2023-05-26 20:02
+version            : 2023.3.23.0
+compiled with      : Delphi 11
+madExcept version  : 5.1.1
+callstack crc      : $920c2cda, $37a07137, $37a07137
+exception number   : 1
+exception class    : Unknown
+exception message  : Unknown.
+
+main thread ($385e0):
+777a2ad4 +0b4 ntdll.dll
+7779d25c +0cc ntdll.dll                             RtlEnterCriticalSection
+01417950 +0a0 M2Server.exe svMain          1427  +7 TFrmMain.Timer1Timer
+0073fdf0 +020 M2Server.exe Vcl.ExtCtrls    3222  +1 TTimer.Timer
+0073fc18 +038 M2Server.exe Vcl.ExtCtrls    3180  +4 TTimer.WndProc
+005d68d3 +023 M2Server.exe System.Classes 18335  +8 StdWndProc
+776897d9 +000 user32.DLL                            DispatchMessageW
+007d5dbe +12e M2Server.exe Vcl.Forms      11317 +23 TApplication.ProcessMessage
+007d5e33 +013 M2Server.exe Vcl.Forms      11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms      11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server         120 +13 initialization
+7756556b +00b kernel32.dll                          BaseThreadInitThunk
+777c372b +01b ntdll.dll                             RtlUserThreadStart
+
+thread $38e6c:
+7756556b +0b kernel32.dll  BaseThreadInitThunk
+777c372b +1b ntdll.dll     RtlUserThreadStart
+
+thread $1d1dc: <priority:1>
+00506c09 +49 M2Server.exe madExcept ThreadExceptFrame
+7756556b +0b kernel32.dll           BaseThreadInitThunk
+777c372b +1b ntdll.dll              RtlUserThreadStart
+
+thread $1c0a8:
+7756556b +0b kernel32.dll  BaseThreadInitThunk
+777c372b +1b ntdll.dll     RtlUserThreadStart
+
+thread $1a8e0:
+7fefd5f1 +ad KERNELBASE.dll           SleepEx
+00506c09 +49 M2Server.exe   madExcept ThreadExceptFrame
+7756556b +0b kernel32.dll             BaseThreadInitThunk
+777c372b +1b ntdll.dll                RtlUserThreadStart
+
+thread $119c8:
+7756556b +0b kernel32.dll  BaseThreadInitThunk
+777c372b +1b ntdll.dll     RtlUserThreadStart
+
+thread $8c6c:
+7756556b +0b kernel32.dll  BaseThreadInitThunk
+777c372b +1b ntdll.dll     RtlUserThreadStart
+
+cpu registers:
+rax = 0000000000000000
+rbx = 0000000001644678
+rcx = 00000000fffffffc
+rdx = 000000000000081c
+rsi = 000000000000081c
+rdi = 0000000000000000
+rip = 00000000777a2ad4
+rsp = 000000000430fa50
+rbp = 0000000000000000
+r8  = 000000000430fa08
+r9  = 0000000000000004
+r10 = 0000000000000000
+r11 = 0000000000000246
+r12 = 0000000000000000
+r13 = 0000000000000000
+r14 = 000007fffffde000
+r15 = 0000000000000000
+
+stack dump:
+0430fa50  00 00 40 00 00 00 00 00 - f0 fb 30 04 00 00 00 00  ..@.......0.....
+0430fa60  d0 37 f8 05 00 00 00 00 - 00 00 00 00 00 00 00 00  .7..............
+0430fa70  80 fa 30 04 00 00 00 00 - 01 00 00 00 00 00 00 00  ..0.............
+0430fa80  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0430fa90  01 c1 00 00 00 00 00 00 - 63 18 5f fd fe 07 00 00  ........c._.....
+0430faa0  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0430fab0  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0430fac0  00 00 00 00 00 00 00 00 - 01 15 57 77 00 00 00 00  ..........Ww....
+0430fad0  08 db 83 04 00 00 00 00 - 01 00 00 00 00 00 00 00  ................
+0430fae0  00 00 00 00 00 00 00 00 - 08 fc 30 04 00 00 00 00  ..........0.....
+0430faf0  d0 37 f8 05 00 00 00 00 - bd c9 67 77 00 00 00 00  .7........gw....
+0430fb00  78 d8 8f 37 00 00 00 00 - e0 f4 67 77 00 00 00 00  x..7......gw....
+0430fb10  00 00 a5 ff fe 07 00 00 - 00 00 a5 ff fe 07 00 00  ................
+0430fb20  00 4c 43 00 00 00 00 00 - 2b 1b 5f fd fe 07 00 00  .LC.....+._.....
+0430fb30  00 00 00 00 00 00 00 00 - dc 10 5f fd fe 07 00 00  .........._.....
+0430fb40  00 00 00 00 00 00 00 00 - dc 10 5f fd fe 07 00 00  .........._.....
+0430fb50  80 fb 30 04 00 00 00 00 - 20 fc 30 04 00 00 00 00  ..0..... .0.....
+0430fb60  10 01 00 00 00 00 00 00 - c0 b4 b3 ff ff ff ff ff  ................
+0430fb70  48 00 00 00 00 00 00 00 - 01 00 00 00 00 00 00 00  H...............
+0430fb80  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+
+disassembling:
+[...]
+01417931        call    -$f955c6 ($482370)     ; System.SysUtils.Format
+01417936        mov     rcx, [rbp+$c0]
+0141793d        mov     rdx, [rbp+$80]
+01417944        call    -$d7e3b9 ($699590)     ; Vcl.Controls.TControl.SetText
+01417949 1427   mov     rcx, [$1571058]
+01417950      > call    -$ff0215 ($427740)     ; Winapi.Windows.EnterCriticalSection
+01417955 1428   nop
+01417956 1429   mov     rax, [rbp+$c0]
+0141795d        mov     rax, [rax+$6d0]
+01417964        mov     rax, [rax+$4f8]
+0141796b        mov     rcx, rax
+[...]
+
+date/time          : 2023-07-04, 11:54:15, 990ms
+computer name      : iZ61z6ug14o49bZ
+wts client name    : DESKTOP-2D4MAIN
+user name          : Administrator <admin>
+registered owner   : / Aliyun
+operating system   : Windows 2008 R2 x64 Service Pack 1 build 7601
+system language    : Chinese (Simplified)
+system up time     : 537 days 19 hours
+program up time    : 17 hours 24 minutes
+processors         : 4x Intel(R) Xeon(R) Platinum 8163 CPU @ 2.50GHz
+physical memory    : 4970/8191 MB (free/total)
+free disk space    : (C:) 12.29 GB (D:) 27.20 GB
+display mode       : 1916x967, 16 bit
+process id         : $281a4
+allocated memory   : 225.32 MB
+largest free block : 8185.77 GB
+command line       : D:\复古三职业MirServer\Mir200\M2Server.exe 9786686 560 0 0 0
+executable         : M2Server.exe
+exec. date/time    : 2023-05-26 20:02
+version            : 2023.3.23.0
+compiled with      : Delphi 11
+madExcept version  : 5.1.1
+callstack crc      : $920c2cda, $37a07137, $37a07137
+count              : 3
+exception number   : 1
+exception class    : EAccessViolation
+exception message  : Unknown.
+
+main thread ($1d480):
+777a2ad4 +0b4 ntdll.dll
+7779d25c +0cc ntdll.dll                             RtlEnterCriticalSection
+01417950 +0a0 M2Server.exe svMain          1427  +7 TFrmMain.Timer1Timer
+0073fdf0 +020 M2Server.exe Vcl.ExtCtrls    3222  +1 TTimer.Timer
+0073fc18 +038 M2Server.exe Vcl.ExtCtrls    3180  +4 TTimer.WndProc
+005d68d3 +023 M2Server.exe System.Classes 18335  +8 StdWndProc
+776897d9 +000 user32.DLL                            DispatchMessageW
+007d5dbe +12e M2Server.exe Vcl.Forms      11317 +23 TApplication.ProcessMessage
+007d5e33 +013 M2Server.exe Vcl.Forms      11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms      11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server         120 +13 initialization
+7756556b +00b kernel32.dll                          BaseThreadInitThunk
+777c372b +01b ntdll.dll                             RtlUserThreadStart
+
+thread $2ce74:
+7756556b +0b kernel32.dll  BaseThreadInitThunk
+777c372b +1b ntdll.dll     RtlUserThreadStart
+
+thread $11618: <priority:1>
+00506c09 +49 M2Server.exe madExcept ThreadExceptFrame
+7756556b +0b kernel32.dll           BaseThreadInitThunk
+777c372b +1b ntdll.dll              RtlUserThreadStart
+
+thread $2f918:
+7fefd5f1 +96 KERNELBASE.dll           WaitForSingleObjectEx
+00506c09 +49 M2Server.exe   madExcept ThreadExceptFrame
+7756556b +0b kernel32.dll             BaseThreadInitThunk
+777c372b +1b ntdll.dll                RtlUserThreadStart
+
+thread $38520:
+7756556b +0b kernel32.dll  BaseThreadInitThunk
+777c372b +1b ntdll.dll     RtlUserThreadStart
+
+thread $95d0:
+7756556b +0b kernel32.dll  BaseThreadInitThunk
+777c372b +1b ntdll.dll     RtlUserThreadStart
+
+thread $e830:
+7fefd5f1 +ad KERNELBASE.dll           SleepEx
+00506c09 +49 M2Server.exe   madExcept ThreadExceptFrame
+7756556b +0b kernel32.dll             BaseThreadInitThunk
+777c372b +1b ntdll.dll                RtlUserThreadStart
+
+thread $4ce8:
+7756556b +0b kernel32.dll  BaseThreadInitThunk
+777c372b +1b ntdll.dll     RtlUserThreadStart
+
+cpu registers:
+rax = 0000000000000000
+rbx = 0000000001644678
+rcx = 00000000fffffffc
+rdx = 00000000000005a4
+rsi = 00000000000005a4
+rdi = 0000000000000000
+rip = 00000000777a2ad4
+rsp = 000000000430fa50
+rbp = 0000000000000000
+r8  = 000000000430fa08
+r9  = 0000000000000004
+r10 = 0000000000000000
+r11 = 0000000000000246
+r12 = 0000000000000000
+r13 = 0000000000000000
+r14 = 000007fffffde000
+r15 = 0000000000000000
+
+stack dump:
+0430fa50  d0 fa 30 04 00 00 00 00 - 14 94 40 00 00 00 00 00  ..0.......@.....
+0430fa60  38 d6 d3 05 00 00 00 00 - 20 5a d3 05 00 00 00 00  8....... Z......
+0430fa70  c0 f7 d0 05 00 00 00 00 - 50 fa 30 04 00 00 00 00  ........P.0.....
+0430fa80  15 84 57 00 00 00 00 00 - 05 84 57 00 00 00 00 00  ..W.......W.....
+0430fa90  c0 e8 c4 05 00 00 00 00 - ed 08 41 00 00 00 00 00  ..........A.....
+0430faa0  00 00 00 00 00 00 00 00 - ce 61 41 00 00 00 00 00  .........aA.....
+0430fab0  88 13 40 00 00 00 00 00 - 90 fa 30 04 00 00 00 00  ..@.......0.....
+0430fac0  90 80 d2 05 00 00 00 00 - f0 0c 41 00 00 00 00 00  ..........A.....
+0430fad0  ff ff ff ff 00 00 00 00 - b0 fa 30 04 00 00 00 00  ..........0.....
+0430fae0  5a 64 d2 00 00 00 00 00 - 4a 64 d2 00 00 00 00 00  Zd......Jd......
+0430faf0  00 5b d4 05 00 00 00 00 - d0 fb 30 04 00 00 00 00  .[........0.....
+0430fb00  00 00 00 00 00 00 00 00 - 90 80 d2 05 00 00 00 00  ................
+0430fb10  88 13 40 00 00 00 00 00 - d8 fb 30 04 00 00 00 00  ..@.......0.....
+0430fb20  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0430fb30  40 64 d2 00 00 00 00 00 - 00 00 00 00 00 00 00 00  @d..............
+0430fb40  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0430fb50  68 66 d2 00 00 00 00 00 - 39 97 d2 00 00 00 00 00  hf......9.......
+0430fb60  d0 fb 30 04 00 00 00 00 - 38 64 d2 00 00 00 00 00  ..0.....8d......
+0430fb70  00 00 00 00 00 00 00 00 - 98 fc 30 04 00 00 00 00  ..........0.....
+0430fb80  00 00 00 00 00 00 00 00 - 80 80 41 00 00 00 00 00  ..........A.....
+
+disassembling:
+[...]
+01417931        call    -$f955c6 ($482370)     ; System.SysUtils.Format
+01417936        mov     rcx, [rbp+$c0]
+0141793d        mov     rdx, [rbp+$80]
+01417944        call    -$d7e3b9 ($699590)     ; Vcl.Controls.TControl.SetText
+01417949 1427   mov     rcx, [$1571058]
+01417950      > call    -$ff0215 ($427740)     ; Winapi.Windows.EnterCriticalSection
+01417955 1428   nop
+01417956 1429   mov     rax, [rbp+$c0]
+0141795d        mov     rax, [rax+$6d0]
+01417964        mov     rax, [rax+$4f8]
+0141796b        mov     rcx, rax
+[...]
+
+date/time          : 2024-09-13, 18:23:28, 38ms
+computer name      : PC-20230206FTMB
+user name          : Administrator
+operating system   : Windows 10 x64 build 19042
+system language    : Chinese (Simplified)
+system up time     : 4 days
+program up time    : 4 minutes 59 seconds
+processors         : 12x Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+physical memory    : 1923/8130 MB (free/total)
+free disk space    : (C:) 53.59 GB (F:) 898.46 GB
+display mode       : 1920x1080, 32 bit
+process id         : $3050
+allocated memory   : 244.34 MB
+largest free block : 131021.74 GB
+command line       : F:\顺天传奇\MirServer\Mir200\M2Server.exe 2034836 560 0 0 0
+executable         : M2Server.exe
+exec. date/time    : 2023-05-26 20:02
+version            : 2023.3.23.0
+compiled with      : Delphi 11
+madExcept version  : 5.1.1
+callstack crc      : $041edbdc, $c5baf0f2, $c5baf0f2
+count              : 2
+exception number   : 1
+exception class    : Unknown
+exception message  : Unknown.
+
+main thread ($6548):
+7ffd8353 +0a6 ntdll.dll
+7ffd8351 +03d ntdll.dll                             RtlEnterCriticalSection
+01417950 +0a0 M2Server.exe svMain          1427  +7 TFrmMain.Timer1Timer
+0073fdf0 +020 M2Server.exe Vcl.ExtCtrls    3222  +1 TTimer.Timer
+0073fc18 +038 M2Server.exe Vcl.ExtCtrls    3180  +4 TTimer.WndProc
+005d68d3 +023 M2Server.exe System.Classes 18335  +8 StdWndProc
+7ffd8218 +254 USER32.dll                            DispatchMessageW
+007d5dbe +12e M2Server.exe Vcl.Forms      11317 +23 TApplication.ProcessMessage
+007d5e33 +013 M2Server.exe Vcl.Forms      11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms      11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server         120 +13 initialization
+7ffd823d +00e KERNEL32.DLL                          BaseThreadInitThunk
+7ffd8353 +01b ntdll.dll                             RtlUserThreadStart
+
+thread $7ac0: <priority:1>
+7ffd823d +0e KERNEL32.DLL  BaseThreadInitThunk
+7ffd8353 +1b ntdll.dll     RtlUserThreadStart
+
+thread $5cfc:
+7ffd823d +0e KERNEL32.DLL  BaseThreadInitThunk
+7ffd8353 +1b ntdll.dll     RtlUserThreadStart
+
+thread $1798:
+7ffd80ee +e9 KERNELBASE.dll  WaitForMultipleObjectsEx
+7ffd823d +0e KERNEL32.DLL    BaseThreadInitThunk
+7ffd8353 +1b ntdll.dll       RtlUserThreadStart
+
+thread $5dc0:
+7ffd823d +0e KERNEL32.DLL  BaseThreadInitThunk
+7ffd8353 +1b ntdll.dll     RtlUserThreadStart
+
+thread $6ec8:
+7ffd823d +0e KERNEL32.DLL  BaseThreadInitThunk
+7ffd8353 +1b ntdll.dll     RtlUserThreadStart
+
+thread $4c0c:
+7ffd823d +0e KERNEL32.DLL  BaseThreadInitThunk
+7ffd8353 +1b ntdll.dll     RtlUserThreadStart
+
+thread $3840:
+7ffd823d +0e KERNEL32.DLL  BaseThreadInitThunk
+7ffd8353 +1b ntdll.dll     RtlUserThreadStart
+
+thread $79c4:
+7ffd80ec +87 KERNELBASE.dll  WaitForSingleObjectEx
+7ffd823d +0e KERNEL32.DLL    BaseThreadInitThunk
+7ffd8353 +1b ntdll.dll       RtlUserThreadStart
+
+thread $13a8:
+7ffd80ee +97 KERNELBASE.dll  SleepEx
+7ffd823d +0e KERNEL32.DLL    BaseThreadInitThunk
+7ffd8353 +1b ntdll.dll       RtlUserThreadStart
+
+thread $6720:
+7ffd80ee +97 KERNELBASE.dll  SleepEx
+7ffd823d +0e KERNEL32.DLL    BaseThreadInitThunk
+7ffd8353 +1b ntdll.dll       RtlUserThreadStart
+
+thread $4014:
+7ffd80ef +48 KERNELBASE.dll  GetQueuedCompletionStatus
+7ffd823d +0e KERNEL32.DLL    BaseThreadInitThunk
+7ffd8353 +1b ntdll.dll       RtlUserThreadStart
+
+thread $3154:
+7ffd821a +97 USER32.dll    MsgWaitForMultipleObjectsEx
+7ffd823d +0e KERNEL32.DLL  BaseThreadInitThunk
+7ffd8353 +1b ntdll.dll     RtlUserThreadStart
+
+thread $2858:
+7ffd823d +0e KERNEL32.DLL  BaseThreadInitThunk
+7ffd8353 +1b ntdll.dll     RtlUserThreadStart
+
+cpu registers:
+rax = 0000000000000000
+rbx = 0000000001644678
+rcx = 0000000001644678
+rdx = 00000000fffffffa
+rsi = 0000000000000000
+rdi = 0000000000000000
+rip = 00007ffd83535e16
+rsp = 000000000430f8c0
+rbp = 000000000430fa00
+r8  = 0000000000000000
+r9  = 0000000001644600
+r10 = 0000000000000000
+r11 = 000000000430f2e0
+r12 = 0000000000000000
+r13 = 0000000000233000
+r14 = 0000000000000001
+r15 = 0000000000000000
+
+stack dump:
+0430f8c0  40 fa 30 04 00 00 00 00 - 30 83 4e 04 00 00 00 00  @.0.....0.N.....
+0430f8d0  00 01 00 00 00 00 00 00 - 01 00 00 00 00 00 00 00  ................
+0430f8e0  30 83 4e 04 00 00 00 00 - 21 5d 50 83 fd 7f 00 00  0.N.....!]P.....
+0430f8f0  00 30 23 00 00 00 00 00 - 00 00 4c 04 00 00 00 00  .0#.......L.....
+0430f900  b9 f9 30 04 00 00 00 00 - 00 00 00 00 00 00 00 00  ..0.............
+0430f910  00 00 00 00 00 00 00 00 - 2e c3 00 00 00 00 00 00  ................
+0430f920  2e c3 00 00 00 00 00 00 - 92 81 18 82 fd 7f 00 00  ................
+0430f930  2e c3 00 00 00 00 00 00 - 00 02 00 00 00 00 00 00  ................
+0430f940  00 00 00 00 00 00 00 00 - 60 f9 30 04 00 00 00 00  ........`.0.....
+0430f950  70 f9 30 04 00 00 00 00 - f9 2e 41 00 00 00 00 00  p.0.......A.....
+0430f960  48 00 00 02 00 00 00 00 - 30 83 4e 04 00 00 00 00  H.......0.N.....
+0430f970  70 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  p...............
+0430f980  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0430f990  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0430f9a0  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0430f9b0  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0430f9c0  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0430f9d0  00 00 00 00 00 00 00 00 - 3f 16 53 83 fd 7f 00 00  ........?.S.....
+0430f9e0  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0430f9f0  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+
+disassembling:
+[...]
+01417931        call    -$f955c6 ($482370)     ; System.SysUtils.Format
+01417936        mov     rcx, [rbp+$c0]
+0141793d        mov     rdx, [rbp+$80]
+01417944        call    -$d7e3b9 ($699590)     ; Vcl.Controls.TControl.SetText
+01417949 1427   mov     rcx, [$1571058]
+01417950      > call    -$ff0215 ($427740)     ; Winapi.Windows.EnterCriticalSection
+01417955 1428   nop
+01417956 1429   mov     rax, [rbp+$c0]
+0141795d        mov     rax, [rax+$6d0]
+01417964        mov     rax, [rax+$4f8]
+0141796b        mov     rcx, rax
+[...]
+

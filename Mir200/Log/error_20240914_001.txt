@@ -1,0 +1,1746 @@
+[2024-09-14 13:48:48:113] Socket Err:10061
+
+[2024-09-14 13:49:03:752] Failure: F:\顺天传奇\MirServer\Mir200\map\0110.map could not be loaded.
+[2024-09-14 13:49:03:752] Failure: F:\顺天传奇\MirServer\Mir200\map\0111.map could not be loaded.
+[2024-09-14 13:49:03:752] Failure: F:\顺天传奇\MirServer\Mir200\map\0112.map could not be loaded.
+[2024-09-14 13:49:03:772] Failure: F:\顺天传奇\MirServer\Mir200\map\0108.map could not be loaded.
+[2024-09-14 13:49:03:772] Failure: F:\顺天传奇\MirServer\Mir200\map\0109.map could not be loaded.
+[2024-09-14 13:49:03:772] Failure: F:\顺天传奇\MirServer\Mir200\map\0104.map could not be loaded.
+[2024-09-14 13:49:03:772] Failure: F:\顺天传奇\MirServer\Mir200\map\0107.map could not be loaded.
+[2024-09-14 13:49:03:772] Failure: F:\顺天传奇\MirServer\Mir200\map\0125.map could not be loaded.
+[2024-09-14 13:49:03:772] Failure: F:\顺天传奇\MirServer\Mir200\map\0126.map could not be loaded.
+[2024-09-14 13:49:03:772] Failure: F:\顺天传奇\MirServer\Mir200\map\0103.map could not be loaded.
+[2024-09-14 13:49:03:772] Failure: F:\顺天传奇\MirServer\Mir200\map\0105.map could not be loaded.
+[2024-09-14 13:49:03:772] Failure: F:\顺天传奇\MirServer\Mir200\map\0106.map could not be loaded.
+[2024-09-14 13:49:03:772] Failure: F:\顺天传奇\MirServer\Mir200\map\0101.map could not be loaded.
+[2024-09-14 13:49:03:772] Failure: F:\顺天传奇\MirServer\Mir200\map\0100.map could not be loaded.
+[2024-09-14 13:49:03:772] Failure: F:\顺天传奇\MirServer\Mir200\map\0128.map could not be loaded.
+[2024-09-14 13:49:03:772] Failure: F:\顺天传奇\MirServer\Mir200\map\0129.map could not be loaded.
+[2024-09-14 13:49:03:772] Failure: F:\顺天传奇\MirServer\Mir200\map\0123.map could not be loaded.
+[2024-09-14 13:49:03:772] Failure: F:\顺天传奇\MirServer\Mir200\map\0124.map could not be loaded.
+[2024-09-14 13:49:03:788] Failure: F:\顺天传奇\MirServer\Mir200\map\01141.map could not be loaded.
+[2024-09-14 13:49:03:788] Failure: F:\顺天传奇\MirServer\Mir200\map\01142.map could not be loaded.
+[2024-09-14 13:49:03:788] Failure: F:\顺天传奇\MirServer\Mir200\map\0115.map could not be loaded.
+[2024-09-14 13:49:03:788] Failure: F:\顺天传奇\MirServer\Mir200\map\01152.map could not be loaded.
+[2024-09-14 13:49:03:788] Failure: F:\顺天传奇\MirServer\Mir200\map\0113.map could not be loaded.
+[2024-09-14 13:49:03:788] Failure: F:\顺天传奇\MirServer\Mir200\map\01132.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0135.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0134.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0133.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0119.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0118.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0121.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0127.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0130.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0131.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0136.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0132.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0138.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0141.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0140.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\1.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\2.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0116.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0117.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0120.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\0142.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\d401.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\d411.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\d413.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\d402.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\d414.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\d403.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\d412.map could not be loaded.
+[2024-09-14 13:49:03:824] Failure: F:\顺天传奇\MirServer\Mir200\map\d404.map could not be loaded.
+[2024-09-14 13:49:03:846] Failure: F:\顺天传奇\MirServer\Mir200\map\d405.map could not be loaded.
+[2024-09-14 13:49:03:846] Failure: F:\顺天传奇\MirServer\Mir200\map\d415.map could not be loaded.
+[2024-09-14 13:49:03:846] Failure: F:\顺天传奇\MirServer\Mir200\map\d406.map could not be loaded.
+[2024-09-14 13:49:03:960] Failure: F:\顺天传奇\MirServer\Mir200\map\0143.map could not be loaded.
+[2024-09-14 13:49:03:960] Failure: F:\顺天传奇\MirServer\Mir200\map\0144.map could not be loaded.
+[2024-09-14 13:49:03:960] Failure: F:\顺天传奇\MirServer\Mir200\map\0145.map could not be loaded.
+[2024-09-14 13:49:03:960] Failure: F:\顺天传奇\MirServer\Mir200\map\0146.map could not be loaded.
+[2024-09-14 13:49:03:960] Failure: F:\顺天传奇\MirServer\Mir200\map\0147.map could not be loaded.
+[2024-09-14 13:49:03:960] Failure: F:\顺天传奇\MirServer\Mir200\map\0149.map could not be loaded.
+[2024-09-14 13:49:03:960] Failure: F:\顺天传奇\MirServer\Mir200\map\0158.map could not be loaded.
+[2024-09-14 13:49:03:960] Failure: F:\顺天传奇\MirServer\Mir200\map\0159.map could not be loaded.
+[2024-09-14 13:49:03:960] Failure: F:\顺天传奇\MirServer\Mir200\map\0160.map could not be loaded.
+[2024-09-14 13:49:03:960] Failure: F:\顺天传奇\MirServer\Mir200\map\0161.map could not be loaded.
+[2024-09-14 13:49:03:960] Failure: F:\顺天传奇\MirServer\Mir200\map\0171.map could not be loaded.
+[2024-09-14 13:49:03:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0152.map could not be loaded.
+[2024-09-14 13:49:03:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0153.map could not be loaded.
+[2024-09-14 13:49:03:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0154.map could not be loaded.
+[2024-09-14 13:49:03:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0155.map could not be loaded.
+[2024-09-14 13:49:03:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0156.map could not be loaded.
+[2024-09-14 13:49:03:968] Failure: F:\顺天传奇\MirServer\Mir200\map\d701.map could not be loaded.
+[2024-09-14 13:49:03:999] Failure: F:\顺天传奇\MirServer\Mir200\map\1001.map could not be loaded.
+[2024-09-14 13:49:03:999] Failure: F:\顺天传奇\MirServer\Mir200\map\1003.map could not be loaded.
+[2024-09-14 13:49:03:999] Failure: F:\顺天传奇\MirServer\Mir200\map\1004.map could not be loaded.
+[2024-09-14 13:49:03:999] Failure: F:\顺天传奇\MirServer\Mir200\map\1005.map could not be loaded.
+[2024-09-14 13:49:03:999] Failure: F:\顺天传奇\MirServer\Mir200\map\1006.map could not be loaded.
+[2024-09-14 13:49:03:999] Failure: F:\顺天传奇\MirServer\Mir200\map\1007.map could not be loaded.
+[2024-09-14 13:49:03:999] Failure: F:\顺天传奇\MirServer\Mir200\map\12.map could not be loaded.
+[2024-09-14 13:49:04:048] Failure: F:\顺天传奇\MirServer\Mir200\map\b342.map could not be loaded.
+[2024-09-14 13:49:04:048] Failure: F:\顺天传奇\MirServer\Mir200\map\b343.map could not be loaded.
+[2024-09-14 13:49:04:048] Failure: F:\顺天传奇\MirServer\Mir200\map\b344.map could not be loaded.
+[2024-09-14 13:49:04:048] Failure: F:\顺天传奇\MirServer\Mir200\map\b345.map could not be loaded.
+[2024-09-14 13:49:04:048] Failure: F:\顺天传奇\MirServer\Mir200\map\b346.map could not be loaded.
+[2024-09-14 13:49:04:048] Failure: F:\顺天传奇\MirServer\Mir200\map\b347.map could not be loaded.
+[2024-09-14 13:49:04:114] Failure: F:\顺天传奇\MirServer\Mir200\map\b351.map could not be loaded.
+[2024-09-14 13:49:04:114] Failure: F:\顺天传奇\MirServer\Mir200\map\b352.map could not be loaded.
+[2024-09-14 13:49:04:114] Failure: F:\顺天传奇\MirServer\Mir200\map\b353.map could not be loaded.
+[2024-09-14 13:49:04:114] Failure: F:\顺天传奇\MirServer\Mir200\map\b354.map could not be loaded.
+[2024-09-14 13:49:04:114] Failure: F:\顺天传奇\MirServer\Mir200\map\b355.map could not be loaded.
+[2024-09-14 13:49:04:114] Failure: F:\顺天传奇\MirServer\Mir200\map\b356.map could not be loaded.
+
+[2024-09-14 13:49:07:315] D701 - secret map not found !!
+[2024-09-14 13:49:07:315] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-29324] 当前Thread:30412
+[2024-09-14 13:49:07:315] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-29324] 当前Thread:30412
+[2024-09-14 13:49:07:316] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-29324] 当前Thread:30412
+[2024-09-14 13:49:07:316] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-29324] 当前Thread:30412
+[2024-09-14 13:49:07:402] ---------------------线程耗时监控
+[2024-09-14 13:49:07:509] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2024-09-14 13:49:07:576] Frame-----------------------------------
+01414c3f +1d8f M2Server.exe svMain          1064 +401 TFrmMain.StartTimerTimer
+0073fdf0 +0020 M2Server.exe Vcl.ExtCtrls    3222   +1 TTimer.Timer
+0073fc18 +0038 M2Server.exe Vcl.ExtCtrls    3180   +4 TTimer.WndProc
+005d68d3 +0023 M2Server.exe System.Classes 18335   +8 StdWndProc
+007d5dbe +012e M2Server.exe Vcl.Forms      11317  +23 TApplication.ProcessMessage
+007d5e33 +0013 M2Server.exe Vcl.Forms      11347   +1 TApplication.HandleMessage
+007d628a +00ea M2Server.exe Vcl.Forms      11486  +27 TApplication.Run
+01420e4d +013d M2Server.exe M2Server         120  +13 initialization
+[2024-09-14 13:49:07:592] MainRunThread(15)-----------------------------------
+
+[2024-09-14 13:49:07:607] EnvirThread 0/0(21938)flag:50000004  lua: 0 CallLua:setenvirontimer 59-----------------------------------
+
+[2024-09-14 13:49:07:640] DbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-14 13:49:07:658] BoxSellDbThread(15)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-14 13:49:28:138] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-14 15:44:00:365] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-14 16:33:54:491] Socket Err:10061
+
+[2024-09-14 16:34:10:328] Failure: F:\顺天传奇\MirServer\Mir200\map\0110.map could not be loaded.
+[2024-09-14 16:34:10:328] Failure: F:\顺天传奇\MirServer\Mir200\map\0111.map could not be loaded.
+[2024-09-14 16:34:10:328] Failure: F:\顺天传奇\MirServer\Mir200\map\0112.map could not be loaded.
+[2024-09-14 16:34:10:338] Failure: F:\顺天传奇\MirServer\Mir200\map\0108.map could not be loaded.
+[2024-09-14 16:34:10:338] Failure: F:\顺天传奇\MirServer\Mir200\map\0109.map could not be loaded.
+[2024-09-14 16:34:10:338] Failure: F:\顺天传奇\MirServer\Mir200\map\0104.map could not be loaded.
+[2024-09-14 16:34:10:338] Failure: F:\顺天传奇\MirServer\Mir200\map\0107.map could not be loaded.
+[2024-09-14 16:34:10:338] Failure: F:\顺天传奇\MirServer\Mir200\map\0125.map could not be loaded.
+[2024-09-14 16:34:10:338] Failure: F:\顺天传奇\MirServer\Mir200\map\0126.map could not be loaded.
+[2024-09-14 16:34:10:338] Failure: F:\顺天传奇\MirServer\Mir200\map\0103.map could not be loaded.
+[2024-09-14 16:34:10:338] Failure: F:\顺天传奇\MirServer\Mir200\map\0105.map could not be loaded.
+[2024-09-14 16:34:10:338] Failure: F:\顺天传奇\MirServer\Mir200\map\0106.map could not be loaded.
+[2024-09-14 16:34:10:338] Failure: F:\顺天传奇\MirServer\Mir200\map\0101.map could not be loaded.
+[2024-09-14 16:34:10:338] Failure: F:\顺天传奇\MirServer\Mir200\map\0100.map could not be loaded.
+[2024-09-14 16:34:10:338] Failure: F:\顺天传奇\MirServer\Mir200\map\0128.map could not be loaded.
+[2024-09-14 16:34:10:338] Failure: F:\顺天传奇\MirServer\Mir200\map\0129.map could not be loaded.
+[2024-09-14 16:34:10:338] Failure: F:\顺天传奇\MirServer\Mir200\map\0123.map could not be loaded.
+[2024-09-14 16:34:10:338] Failure: F:\顺天传奇\MirServer\Mir200\map\0124.map could not be loaded.
+[2024-09-14 16:34:10:345] Failure: F:\顺天传奇\MirServer\Mir200\map\01141.map could not be loaded.
+[2024-09-14 16:34:10:345] Failure: F:\顺天传奇\MirServer\Mir200\map\01142.map could not be loaded.
+[2024-09-14 16:34:10:345] Failure: F:\顺天传奇\MirServer\Mir200\map\0115.map could not be loaded.
+[2024-09-14 16:34:10:345] Failure: F:\顺天传奇\MirServer\Mir200\map\01152.map could not be loaded.
+[2024-09-14 16:34:10:345] Failure: F:\顺天传奇\MirServer\Mir200\map\0113.map could not be loaded.
+[2024-09-14 16:34:10:345] Failure: F:\顺天传奇\MirServer\Mir200\map\01132.map could not be loaded.
+[2024-09-14 16:34:10:356] Failure: F:\顺天传奇\MirServer\Mir200\map\0135.map could not be loaded.
+[2024-09-14 16:34:10:356] Failure: F:\顺天传奇\MirServer\Mir200\map\0134.map could not be loaded.
+[2024-09-14 16:34:10:356] Failure: F:\顺天传奇\MirServer\Mir200\map\0133.map could not be loaded.
+[2024-09-14 16:34:10:356] Failure: F:\顺天传奇\MirServer\Mir200\map\0119.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\0118.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\0121.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\0127.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\0130.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\0131.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\0136.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\0132.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\0138.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\0141.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\0140.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\1.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\2.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\0116.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\0117.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\0120.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\0142.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\d401.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\d411.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\d413.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\d402.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\d414.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\d403.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\d412.map could not be loaded.
+[2024-09-14 16:34:10:357] Failure: F:\顺天传奇\MirServer\Mir200\map\d404.map could not be loaded.
+[2024-09-14 16:34:10:362] Failure: F:\顺天传奇\MirServer\Mir200\map\d405.map could not be loaded.
+[2024-09-14 16:34:10:362] Failure: F:\顺天传奇\MirServer\Mir200\map\d415.map could not be loaded.
+[2024-09-14 16:34:10:362] Failure: F:\顺天传奇\MirServer\Mir200\map\d406.map could not be loaded.
+[2024-09-14 16:34:10:468] Failure: F:\顺天传奇\MirServer\Mir200\map\0143.map could not be loaded.
+[2024-09-14 16:34:10:468] Failure: F:\顺天传奇\MirServer\Mir200\map\0144.map could not be loaded.
+[2024-09-14 16:34:10:468] Failure: F:\顺天传奇\MirServer\Mir200\map\0145.map could not be loaded.
+[2024-09-14 16:34:10:468] Failure: F:\顺天传奇\MirServer\Mir200\map\0146.map could not be loaded.
+[2024-09-14 16:34:10:468] Failure: F:\顺天传奇\MirServer\Mir200\map\0147.map could not be loaded.
+[2024-09-14 16:34:10:479] Failure: F:\顺天传奇\MirServer\Mir200\map\0149.map could not be loaded.
+[2024-09-14 16:34:10:479] Failure: F:\顺天传奇\MirServer\Mir200\map\0158.map could not be loaded.
+[2024-09-14 16:34:10:479] Failure: F:\顺天传奇\MirServer\Mir200\map\0159.map could not be loaded.
+[2024-09-14 16:34:10:479] Failure: F:\顺天传奇\MirServer\Mir200\map\0160.map could not be loaded.
+[2024-09-14 16:34:10:479] Failure: F:\顺天传奇\MirServer\Mir200\map\0161.map could not be loaded.
+[2024-09-14 16:34:10:479] Failure: F:\顺天传奇\MirServer\Mir200\map\0171.map could not be loaded.
+[2024-09-14 16:34:10:491] Failure: F:\顺天传奇\MirServer\Mir200\map\0152.map could not be loaded.
+[2024-09-14 16:34:10:491] Failure: F:\顺天传奇\MirServer\Mir200\map\0153.map could not be loaded.
+[2024-09-14 16:34:10:491] Failure: F:\顺天传奇\MirServer\Mir200\map\0154.map could not be loaded.
+[2024-09-14 16:34:10:491] Failure: F:\顺天传奇\MirServer\Mir200\map\0155.map could not be loaded.
+[2024-09-14 16:34:10:491] Failure: F:\顺天传奇\MirServer\Mir200\map\0156.map could not be loaded.
+[2024-09-14 16:34:10:491] Failure: F:\顺天传奇\MirServer\Mir200\map\d701.map could not be loaded.
+[2024-09-14 16:34:10:522] Failure: F:\顺天传奇\MirServer\Mir200\map\1001.map could not be loaded.
+[2024-09-14 16:34:10:523] Failure: F:\顺天传奇\MirServer\Mir200\map\1003.map could not be loaded.
+[2024-09-14 16:34:10:523] Failure: F:\顺天传奇\MirServer\Mir200\map\1004.map could not be loaded.
+[2024-09-14 16:34:10:523] Failure: F:\顺天传奇\MirServer\Mir200\map\1005.map could not be loaded.
+[2024-09-14 16:34:10:523] Failure: F:\顺天传奇\MirServer\Mir200\map\1006.map could not be loaded.
+[2024-09-14 16:34:10:523] Failure: F:\顺天传奇\MirServer\Mir200\map\1007.map could not be loaded.
+[2024-09-14 16:34:10:523] Failure: F:\顺天传奇\MirServer\Mir200\map\12.map could not be loaded.
+[2024-09-14 16:34:10:571] Failure: F:\顺天传奇\MirServer\Mir200\map\b342.map could not be loaded.
+[2024-09-14 16:34:10:571] Failure: F:\顺天传奇\MirServer\Mir200\map\b343.map could not be loaded.
+[2024-09-14 16:34:10:571] Failure: F:\顺天传奇\MirServer\Mir200\map\b344.map could not be loaded.
+[2024-09-14 16:34:10:571] Failure: F:\顺天传奇\MirServer\Mir200\map\b345.map could not be loaded.
+[2024-09-14 16:34:10:571] Failure: F:\顺天传奇\MirServer\Mir200\map\b346.map could not be loaded.
+[2024-09-14 16:34:10:571] Failure: F:\顺天传奇\MirServer\Mir200\map\b347.map could not be loaded.
+[2024-09-14 16:34:10:638] Failure: F:\顺天传奇\MirServer\Mir200\map\b351.map could not be loaded.
+[2024-09-14 16:34:10:638] Failure: F:\顺天传奇\MirServer\Mir200\map\b352.map could not be loaded.
+[2024-09-14 16:34:10:638] Failure: F:\顺天传奇\MirServer\Mir200\map\b353.map could not be loaded.
+[2024-09-14 16:34:10:638] Failure: F:\顺天传奇\MirServer\Mir200\map\b354.map could not be loaded.
+[2024-09-14 16:34:10:638] Failure: F:\顺天传奇\MirServer\Mir200\map\b355.map could not be loaded.
+[2024-09-14 16:34:10:638] Failure: F:\顺天传奇\MirServer\Mir200\map\b356.map could not be loaded.
+
+[2024-09-14 16:34:13:762] D701 - secret map not found !!
+[2024-09-14 16:34:13:762] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-12492] 当前Thread:22760
+[2024-09-14 16:34:13:762] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-12492] 当前Thread:22760
+[2024-09-14 16:34:13:762] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-12492] 当前Thread:22760
+[2024-09-14 16:34:13:762] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-12492] 当前Thread:22760
+[2024-09-14 16:34:13:882] ---------------------线程耗时监控
+[2024-09-14 16:34:13:932] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2024-09-14 16:34:14:043] Frame-----------------------------------
+01414c3f +1d8f M2Server.exe svMain          1064 +401 TFrmMain.StartTimerTimer
+0073fdf0 +0020 M2Server.exe Vcl.ExtCtrls    3222   +1 TTimer.Timer
+0073fc18 +0038 M2Server.exe Vcl.ExtCtrls    3180   +4 TTimer.WndProc
+005d68d3 +0023 M2Server.exe System.Classes 18335   +8 StdWndProc
+007d5dbe +012e M2Server.exe Vcl.Forms      11317  +23 TApplication.ProcessMessage
+007d5e33 +0013 M2Server.exe Vcl.Forms      11347   +1 TApplication.HandleMessage
+007d628a +00ea M2Server.exe Vcl.Forms      11486  +27 TApplication.Run
+01420e4d +013d M2Server.exe M2Server         120  +13 initialization
+[2024-09-14 16:34:14:065] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-14 16:34:14:117] EnvirThread 0/0(22031)flag:50000004  lua: 0 CallLua:setenvirontimer 59-----------------------------------
+01265c3b +7bb M2Server.exe ObjBase 788 +107 TBaseObject.Create
+[2024-09-14 16:34:14:142] DbThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-14 16:34:14:169] BoxSellDbThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-14 16:34:42:430] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-14 16:53:50:631] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-14 16:58:58:651] Socket Err:10061
+
+[2024-09-14 16:59:14:550] Failure: F:\顺天传奇\MirServer\Mir200\map\0110.map could not be loaded.
+[2024-09-14 16:59:14:550] Failure: F:\顺天传奇\MirServer\Mir200\map\0111.map could not be loaded.
+[2024-09-14 16:59:14:550] Failure: F:\顺天传奇\MirServer\Mir200\map\0112.map could not be loaded.
+[2024-09-14 16:59:14:561] Failure: F:\顺天传奇\MirServer\Mir200\map\0108.map could not be loaded.
+[2024-09-14 16:59:14:561] Failure: F:\顺天传奇\MirServer\Mir200\map\0109.map could not be loaded.
+[2024-09-14 16:59:14:561] Failure: F:\顺天传奇\MirServer\Mir200\map\0104.map could not be loaded.
+[2024-09-14 16:59:14:561] Failure: F:\顺天传奇\MirServer\Mir200\map\0107.map could not be loaded.
+[2024-09-14 16:59:14:561] Failure: F:\顺天传奇\MirServer\Mir200\map\0125.map could not be loaded.
+[2024-09-14 16:59:14:561] Failure: F:\顺天传奇\MirServer\Mir200\map\0126.map could not be loaded.
+[2024-09-14 16:59:14:561] Failure: F:\顺天传奇\MirServer\Mir200\map\0103.map could not be loaded.
+[2024-09-14 16:59:14:561] Failure: F:\顺天传奇\MirServer\Mir200\map\0105.map could not be loaded.
+[2024-09-14 16:59:14:561] Failure: F:\顺天传奇\MirServer\Mir200\map\0106.map could not be loaded.
+[2024-09-14 16:59:14:561] Failure: F:\顺天传奇\MirServer\Mir200\map\0101.map could not be loaded.
+[2024-09-14 16:59:14:561] Failure: F:\顺天传奇\MirServer\Mir200\map\0100.map could not be loaded.
+[2024-09-14 16:59:14:561] Failure: F:\顺天传奇\MirServer\Mir200\map\0128.map could not be loaded.
+[2024-09-14 16:59:14:561] Failure: F:\顺天传奇\MirServer\Mir200\map\0129.map could not be loaded.
+[2024-09-14 16:59:14:561] Failure: F:\顺天传奇\MirServer\Mir200\map\0123.map could not be loaded.
+[2024-09-14 16:59:14:561] Failure: F:\顺天传奇\MirServer\Mir200\map\0124.map could not be loaded.
+[2024-09-14 16:59:14:568] Failure: F:\顺天传奇\MirServer\Mir200\map\01141.map could not be loaded.
+[2024-09-14 16:59:14:568] Failure: F:\顺天传奇\MirServer\Mir200\map\01142.map could not be loaded.
+[2024-09-14 16:59:14:568] Failure: F:\顺天传奇\MirServer\Mir200\map\0115.map could not be loaded.
+[2024-09-14 16:59:14:568] Failure: F:\顺天传奇\MirServer\Mir200\map\01152.map could not be loaded.
+[2024-09-14 16:59:14:568] Failure: F:\顺天传奇\MirServer\Mir200\map\0113.map could not be loaded.
+[2024-09-14 16:59:14:568] Failure: F:\顺天传奇\MirServer\Mir200\map\01132.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0135.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0134.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0133.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0119.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0118.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0121.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0127.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0130.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0131.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0136.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0132.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0138.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0141.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0140.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\1.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\2.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0116.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0117.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0120.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\0142.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\d401.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\d411.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\d413.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\d402.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\d414.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\d403.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\d412.map could not be loaded.
+[2024-09-14 16:59:14:588] Failure: F:\顺天传奇\MirServer\Mir200\map\d404.map could not be loaded.
+[2024-09-14 16:59:14:594] Failure: F:\顺天传奇\MirServer\Mir200\map\d405.map could not be loaded.
+[2024-09-14 16:59:14:594] Failure: F:\顺天传奇\MirServer\Mir200\map\d415.map could not be loaded.
+[2024-09-14 16:59:14:594] Failure: F:\顺天传奇\MirServer\Mir200\map\d406.map could not be loaded.
+[2024-09-14 16:59:14:699] Failure: F:\顺天传奇\MirServer\Mir200\map\0143.map could not be loaded.
+[2024-09-14 16:59:14:699] Failure: F:\顺天传奇\MirServer\Mir200\map\0144.map could not be loaded.
+[2024-09-14 16:59:14:699] Failure: F:\顺天传奇\MirServer\Mir200\map\0145.map could not be loaded.
+[2024-09-14 16:59:14:699] Failure: F:\顺天传奇\MirServer\Mir200\map\0146.map could not be loaded.
+[2024-09-14 16:59:14:699] Failure: F:\顺天传奇\MirServer\Mir200\map\0147.map could not be loaded.
+[2024-09-14 16:59:14:699] Failure: F:\顺天传奇\MirServer\Mir200\map\0149.map could not be loaded.
+[2024-09-14 16:59:14:699] Failure: F:\顺天传奇\MirServer\Mir200\map\0158.map could not be loaded.
+[2024-09-14 16:59:14:699] Failure: F:\顺天传奇\MirServer\Mir200\map\0159.map could not be loaded.
+[2024-09-14 16:59:14:699] Failure: F:\顺天传奇\MirServer\Mir200\map\0160.map could not be loaded.
+[2024-09-14 16:59:14:699] Failure: F:\顺天传奇\MirServer\Mir200\map\0161.map could not be loaded.
+[2024-09-14 16:59:14:708] Failure: F:\顺天传奇\MirServer\Mir200\map\0171.map could not be loaded.
+[2024-09-14 16:59:14:723] Failure: F:\顺天传奇\MirServer\Mir200\map\0152.map could not be loaded.
+[2024-09-14 16:59:14:723] Failure: F:\顺天传奇\MirServer\Mir200\map\0153.map could not be loaded.
+[2024-09-14 16:59:14:723] Failure: F:\顺天传奇\MirServer\Mir200\map\0154.map could not be loaded.
+[2024-09-14 16:59:14:723] Failure: F:\顺天传奇\MirServer\Mir200\map\0155.map could not be loaded.
+[2024-09-14 16:59:14:723] Failure: F:\顺天传奇\MirServer\Mir200\map\0156.map could not be loaded.
+[2024-09-14 16:59:14:723] Failure: F:\顺天传奇\MirServer\Mir200\map\d701.map could not be loaded.
+[2024-09-14 16:59:14:754] Failure: F:\顺天传奇\MirServer\Mir200\map\1001.map could not be loaded.
+[2024-09-14 16:59:14:755] Failure: F:\顺天传奇\MirServer\Mir200\map\1003.map could not be loaded.
+[2024-09-14 16:59:14:755] Failure: F:\顺天传奇\MirServer\Mir200\map\1004.map could not be loaded.
+[2024-09-14 16:59:14:755] Failure: F:\顺天传奇\MirServer\Mir200\map\1005.map could not be loaded.
+[2024-09-14 16:59:14:755] Failure: F:\顺天传奇\MirServer\Mir200\map\1006.map could not be loaded.
+[2024-09-14 16:59:14:755] Failure: F:\顺天传奇\MirServer\Mir200\map\1007.map could not be loaded.
+[2024-09-14 16:59:14:755] Failure: F:\顺天传奇\MirServer\Mir200\map\12.map could not be loaded.
+[2024-09-14 16:59:14:803] Failure: F:\顺天传奇\MirServer\Mir200\map\b342.map could not be loaded.
+[2024-09-14 16:59:14:803] Failure: F:\顺天传奇\MirServer\Mir200\map\b343.map could not be loaded.
+[2024-09-14 16:59:14:803] Failure: F:\顺天传奇\MirServer\Mir200\map\b344.map could not be loaded.
+[2024-09-14 16:59:14:803] Failure: F:\顺天传奇\MirServer\Mir200\map\b345.map could not be loaded.
+[2024-09-14 16:59:14:803] Failure: F:\顺天传奇\MirServer\Mir200\map\b346.map could not be loaded.
+[2024-09-14 16:59:14:803] Failure: F:\顺天传奇\MirServer\Mir200\map\b347.map could not be loaded.
+[2024-09-14 16:59:14:869] Failure: F:\顺天传奇\MirServer\Mir200\map\b351.map could not be loaded.
+[2024-09-14 16:59:14:869] Failure: F:\顺天传奇\MirServer\Mir200\map\b352.map could not be loaded.
+[2024-09-14 16:59:14:869] Failure: F:\顺天传奇\MirServer\Mir200\map\b353.map could not be loaded.
+[2024-09-14 16:59:14:869] Failure: F:\顺天传奇\MirServer\Mir200\map\b354.map could not be loaded.
+[2024-09-14 16:59:14:869] Failure: F:\顺天传奇\MirServer\Mir200\map\b355.map could not be loaded.
+[2024-09-14 16:59:14:869] Failure: F:\顺天传奇\MirServer\Mir200\map\b356.map could not be loaded.
+
+[2024-09-14 16:59:18:510] D701 - secret map not found !!
+[2024-09-14 16:59:18:510] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-22580] 当前Thread:13540
+[2024-09-14 16:59:18:510] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-22580] 当前Thread:13540
+[2024-09-14 16:59:18:510] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-22580] 当前Thread:13540
+[2024-09-14 16:59:18:510] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-22580] 当前Thread:13540
+[2024-09-14 16:59:18:608] ---------------------线程耗时监控
+[2024-09-14 16:59:18:677] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2024-09-14 16:59:18:751] Frame-----------------------------------
+01414c3f +1d8f M2Server.exe svMain          1064 +401 TFrmMain.StartTimerTimer
+0073fdf0 +0020 M2Server.exe Vcl.ExtCtrls    3222   +1 TTimer.Timer
+0073fc18 +0038 M2Server.exe Vcl.ExtCtrls    3180   +4 TTimer.WndProc
+005d68d3 +0023 M2Server.exe System.Classes 18335   +8 StdWndProc
+007d5dbe +012e M2Server.exe Vcl.Forms      11317  +23 TApplication.ProcessMessage
+007d5e33 +0013 M2Server.exe Vcl.Forms      11347   +1 TApplication.HandleMessage
+007d628a +00ea M2Server.exe Vcl.Forms      11486  +27 TApplication.Run
+01420e4d +013d M2Server.exe M2Server         120  +13 initialization
+[2024-09-14 16:59:18:771] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-14 16:59:18:792] EnvirThread 0/0(22578)flag:50000004  lua: 0 CallLua:setenvirontimer 59-----------------------------------
+004093de +00e M2Server.exe System          4902   +3 @GetMem
+0040f9bc +00c M2Server.exe System         17951   +1 TObject.NewInstance
+004105fe +00e M2Server.exe System         19268   +2 @ClassCreate
+00daf7d7 +6b7 M2Server.exe MonManage        480  +50 TMonManage.AddBaseObject
+00daeb1f +24f M2Server.exe MonManage        347  +89 TMonManage.RegenMonsters
+00db1003 +5a3 M2Server.exe MonManage        934  +80 TMonManage.Run
+010f36a0 +140 M2Server.exe Envir            819  +25 TEnvirnoment.Run
+00ec7902 +982 M2Server.exe uThread_Envir    594 +121 TEnvirThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools     170  +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools      70   +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes 15686  +18 ThreadProc
+00412c8a +03a M2Server.exe System         25373   +9 ThreadWrapper
+[2024-09-14 16:59:18:828] DbThread(15)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-14 16:59:18:847] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-14 17:00:13:434] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-14 18:19:03:335] Socket Err:10061
+
+[2024-09-14 18:19:19:119] Failure: F:\顺天传奇\MirServer\Mir200\map\0110.map could not be loaded.
+[2024-09-14 18:19:19:119] Failure: F:\顺天传奇\MirServer\Mir200\map\0111.map could not be loaded.
+[2024-09-14 18:19:19:119] Failure: F:\顺天传奇\MirServer\Mir200\map\0112.map could not be loaded.
+[2024-09-14 18:19:19:129] Failure: F:\顺天传奇\MirServer\Mir200\map\0108.map could not be loaded.
+[2024-09-14 18:19:19:129] Failure: F:\顺天传奇\MirServer\Mir200\map\0109.map could not be loaded.
+[2024-09-14 18:19:19:129] Failure: F:\顺天传奇\MirServer\Mir200\map\0104.map could not be loaded.
+[2024-09-14 18:19:19:129] Failure: F:\顺天传奇\MirServer\Mir200\map\0107.map could not be loaded.
+[2024-09-14 18:19:19:129] Failure: F:\顺天传奇\MirServer\Mir200\map\0125.map could not be loaded.
+[2024-09-14 18:19:19:129] Failure: F:\顺天传奇\MirServer\Mir200\map\0126.map could not be loaded.
+[2024-09-14 18:19:19:129] Failure: F:\顺天传奇\MirServer\Mir200\map\0103.map could not be loaded.
+[2024-09-14 18:19:19:129] Failure: F:\顺天传奇\MirServer\Mir200\map\0105.map could not be loaded.
+[2024-09-14 18:19:19:129] Failure: F:\顺天传奇\MirServer\Mir200\map\0106.map could not be loaded.
+[2024-09-14 18:19:19:129] Failure: F:\顺天传奇\MirServer\Mir200\map\0101.map could not be loaded.
+[2024-09-14 18:19:19:129] Failure: F:\顺天传奇\MirServer\Mir200\map\0100.map could not be loaded.
+[2024-09-14 18:19:19:129] Failure: F:\顺天传奇\MirServer\Mir200\map\0128.map could not be loaded.
+[2024-09-14 18:19:19:129] Failure: F:\顺天传奇\MirServer\Mir200\map\0129.map could not be loaded.
+[2024-09-14 18:19:19:129] Failure: F:\顺天传奇\MirServer\Mir200\map\0123.map could not be loaded.
+[2024-09-14 18:19:19:129] Failure: F:\顺天传奇\MirServer\Mir200\map\0124.map could not be loaded.
+[2024-09-14 18:19:19:137] Failure: F:\顺天传奇\MirServer\Mir200\map\01141.map could not be loaded.
+[2024-09-14 18:19:19:137] Failure: F:\顺天传奇\MirServer\Mir200\map\01142.map could not be loaded.
+[2024-09-14 18:19:19:137] Failure: F:\顺天传奇\MirServer\Mir200\map\0115.map could not be loaded.
+[2024-09-14 18:19:19:137] Failure: F:\顺天传奇\MirServer\Mir200\map\01152.map could not be loaded.
+[2024-09-14 18:19:19:137] Failure: F:\顺天传奇\MirServer\Mir200\map\0113.map could not be loaded.
+[2024-09-14 18:19:19:137] Failure: F:\顺天传奇\MirServer\Mir200\map\01132.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0135.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0134.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0133.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0119.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0118.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0121.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0127.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0130.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0131.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0136.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0132.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0138.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0141.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0140.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\1.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\2.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0116.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0117.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0120.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\0142.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\d401.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\d411.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\d413.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\d402.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\d414.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\d403.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\d412.map could not be loaded.
+[2024-09-14 18:19:19:156] Failure: F:\顺天传奇\MirServer\Mir200\map\d404.map could not be loaded.
+[2024-09-14 18:19:19:162] Failure: F:\顺天传奇\MirServer\Mir200\map\d405.map could not be loaded.
+[2024-09-14 18:19:19:162] Failure: F:\顺天传奇\MirServer\Mir200\map\d415.map could not be loaded.
+[2024-09-14 18:19:19:162] Failure: F:\顺天传奇\MirServer\Mir200\map\d406.map could not be loaded.
+[2024-09-14 18:19:19:275] Failure: F:\顺天传奇\MirServer\Mir200\map\0143.map could not be loaded.
+[2024-09-14 18:19:19:275] Failure: F:\顺天传奇\MirServer\Mir200\map\0144.map could not be loaded.
+[2024-09-14 18:19:19:275] Failure: F:\顺天传奇\MirServer\Mir200\map\0145.map could not be loaded.
+[2024-09-14 18:19:19:275] Failure: F:\顺天传奇\MirServer\Mir200\map\0146.map could not be loaded.
+[2024-09-14 18:19:19:275] Failure: F:\顺天传奇\MirServer\Mir200\map\0147.map could not be loaded.
+[2024-09-14 18:19:19:275] Failure: F:\顺天传奇\MirServer\Mir200\map\0149.map could not be loaded.
+[2024-09-14 18:19:19:275] Failure: F:\顺天传奇\MirServer\Mir200\map\0158.map could not be loaded.
+[2024-09-14 18:19:19:275] Failure: F:\顺天传奇\MirServer\Mir200\map\0159.map could not be loaded.
+[2024-09-14 18:19:19:275] Failure: F:\顺天传奇\MirServer\Mir200\map\0160.map could not be loaded.
+[2024-09-14 18:19:19:275] Failure: F:\顺天传奇\MirServer\Mir200\map\0161.map could not be loaded.
+[2024-09-14 18:19:19:276] Failure: F:\顺天传奇\MirServer\Mir200\map\0171.map could not be loaded.
+[2024-09-14 18:19:19:283] Failure: F:\顺天传奇\MirServer\Mir200\map\0152.map could not be loaded.
+[2024-09-14 18:19:19:283] Failure: F:\顺天传奇\MirServer\Mir200\map\0153.map could not be loaded.
+[2024-09-14 18:19:19:283] Failure: F:\顺天传奇\MirServer\Mir200\map\0154.map could not be loaded.
+[2024-09-14 18:19:19:283] Failure: F:\顺天传奇\MirServer\Mir200\map\0155.map could not be loaded.
+[2024-09-14 18:19:19:283] Failure: F:\顺天传奇\MirServer\Mir200\map\0156.map could not be loaded.
+[2024-09-14 18:19:19:283] Failure: F:\顺天传奇\MirServer\Mir200\map\d701.map could not be loaded.
+[2024-09-14 18:19:19:314] Failure: F:\顺天传奇\MirServer\Mir200\map\1001.map could not be loaded.
+[2024-09-14 18:19:19:314] Failure: F:\顺天传奇\MirServer\Mir200\map\1003.map could not be loaded.
+[2024-09-14 18:19:19:314] Failure: F:\顺天传奇\MirServer\Mir200\map\1004.map could not be loaded.
+[2024-09-14 18:19:19:314] Failure: F:\顺天传奇\MirServer\Mir200\map\1005.map could not be loaded.
+[2024-09-14 18:19:19:314] Failure: F:\顺天传奇\MirServer\Mir200\map\1006.map could not be loaded.
+[2024-09-14 18:19:19:314] Failure: F:\顺天传奇\MirServer\Mir200\map\1007.map could not be loaded.
+[2024-09-14 18:19:19:314] Failure: F:\顺天传奇\MirServer\Mir200\map\12.map could not be loaded.
+[2024-09-14 18:19:19:390] Failure: F:\顺天传奇\MirServer\Mir200\map\b342.map could not be loaded.
+[2024-09-14 18:19:19:390] Failure: F:\顺天传奇\MirServer\Mir200\map\b343.map could not be loaded.
+[2024-09-14 18:19:19:390] Failure: F:\顺天传奇\MirServer\Mir200\map\b344.map could not be loaded.
+[2024-09-14 18:19:19:390] Failure: F:\顺天传奇\MirServer\Mir200\map\b345.map could not be loaded.
+[2024-09-14 18:19:19:390] Failure: F:\顺天传奇\MirServer\Mir200\map\b346.map could not be loaded.
+[2024-09-14 18:19:19:390] Failure: F:\顺天传奇\MirServer\Mir200\map\b347.map could not be loaded.
+[2024-09-14 18:19:19:463] Failure: F:\顺天传奇\MirServer\Mir200\map\b351.map could not be loaded.
+[2024-09-14 18:19:19:463] Failure: F:\顺天传奇\MirServer\Mir200\map\b352.map could not be loaded.
+[2024-09-14 18:19:19:463] Failure: F:\顺天传奇\MirServer\Mir200\map\b353.map could not be loaded.
+[2024-09-14 18:19:19:463] Failure: F:\顺天传奇\MirServer\Mir200\map\b354.map could not be loaded.
+[2024-09-14 18:19:19:463] Failure: F:\顺天传奇\MirServer\Mir200\map\b355.map could not be loaded.
+[2024-09-14 18:19:19:463] Failure: F:\顺天传奇\MirServer\Mir200\map\b356.map could not be loaded.
+
+[2024-09-14 18:19:22:512] D701 - secret map not found !!
+[2024-09-14 18:19:22:512] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-25016] 当前Thread:3480
+[2024-09-14 18:19:22:512] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-25016] 当前Thread:3480
+[2024-09-14 18:19:22:512] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-25016] 当前Thread:3480
+[2024-09-14 18:19:22:512] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-25016] 当前Thread:3480
+[2024-09-14 18:19:22:633] ---------------------线程耗时监控
+[2024-09-14 18:19:22:697] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2024-09-14 18:19:22:755] Frame-----------------------------------
+01414c3f +1d8f M2Server.exe svMain          1064 +401 TFrmMain.StartTimerTimer
+0073fdf0 +0020 M2Server.exe Vcl.ExtCtrls    3222   +1 TTimer.Timer
+0073fc18 +0038 M2Server.exe Vcl.ExtCtrls    3180   +4 TTimer.WndProc
+005d68d3 +0023 M2Server.exe System.Classes 18335   +8 StdWndProc
+007d5dbe +012e M2Server.exe Vcl.Forms      11317  +23 TApplication.ProcessMessage
+007d5e33 +0013 M2Server.exe Vcl.Forms      11347   +1 TApplication.HandleMessage
+007d628a +00ea M2Server.exe Vcl.Forms      11486  +27 TApplication.Run
+01420e4d +013d M2Server.exe M2Server         120  +13 initialization
+[2024-09-14 18:19:22:786] MainRunThread(15)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-14 18:19:22:822] EnvirThread 0/0(21907)flag:50000004  lua: 0 CallLua:setenvirontimer 59-----------------------------------
+004093de +00e M2Server.exe System          4902   +3 @GetMem
+0040f9bc +00c M2Server.exe System         17951   +1 TObject.NewInstance
+004105fe +00e M2Server.exe System         19268   +2 @ClassCreate
+00daf7d7 +6b7 M2Server.exe MonManage        480  +50 TMonManage.AddBaseObject
+00daeb1f +24f M2Server.exe MonManage        347  +89 TMonManage.RegenMonsters
+00db1003 +5a3 M2Server.exe MonManage        934  +80 TMonManage.Run
+010f36a0 +140 M2Server.exe Envir            819  +25 TEnvirnoment.Run
+00ec7902 +982 M2Server.exe uThread_Envir    594 +121 TEnvirThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools     170  +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools      70   +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes 15686  +18 ThreadProc
+00412c8a +03a M2Server.exe System         25373   +9 ThreadWrapper
+[2024-09-14 18:19:22:840] DbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-14 18:19:22:857] BoxSellDbThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-14 18:20:51:467] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-14 19:18:10:410] [Exception] TBaseObject::Die 2 Except：Access violation at address 000000000126FF30 in module 'M2Server.exe'. Read of address 0000000000000280[000000000126FF30] ObjBase._ZN7Objbase11TBaseObject11CheckPlayerEv (Line 2793, "ObjBase.pas" + 1)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F50B1] JclHookExcept._ZN13Jclhookexcept19HookedExceptObjProcEPN6System16TExceptionRecordE (Line 395, "JclHookExcept.pas" + 5)
+[0000000000506076] madExcept._ZN9Madexcept17MyExceptObjProc64EPN8Madtypes16TExceptionRecordE
+[0000000000411817] System._ZN6System23_DelphiExceptionHandlerEPNS_16TExceptionRecordEyPvS2_ (Line 20765, "System.pas" + 53)
+[0000000000506021] madExcept._ZN9Madexcept30DelphiExceptionHandlerCallbackEPN8Madtypes16TExceptionRecordEyP8_CONTEXTPv
+[00007FFD8359111F] Unknown function at __chkstk
+[00007FFD8353B474] RtlRaiseException
+[00007FFD8358FC4E] KiUserExceptionDispatcher
+[000000000126FF30] ObjBase._ZN7Objbase11TBaseObject11CheckPlayerEv (Line 2793, "ObjBase.pas" + 1)
+[000000000132269D] ObjPlay._ZN7Objplay11TPlayObject3DieEv (Line 23597, "ObjPlay.pas" + 90)
+[0000000001267D2F] ObjBase._ZN7Objbase11TBaseObject3RunEv (Line 1215, "ObjBase.pas" + 365)
+[0000000001293285] ObjBase._ZN7Objbase13TAnimalObject3RunEv (Line 10390, "ObjBase.pas" + 2)
+[00000000012BC868] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 2939, "ObjPlay.pas" + 1144)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-14 19:21:16:105] [Exception] TBaseObject::Die 2 Except：Access violation at address 000000000126FF30 in module 'M2Server.exe'. Read of address 0000000000000280[000000000126FF30] ObjBase._ZN7Objbase11TBaseObject11CheckPlayerEv (Line 2793, "ObjBase.pas" + 1)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F50B1] JclHookExcept._ZN13Jclhookexcept19HookedExceptObjProcEPN6System16TExceptionRecordE (Line 395, "JclHookExcept.pas" + 5)
+[0000000000506076] madExcept._ZN9Madexcept17MyExceptObjProc64EPN8Madtypes16TExceptionRecordE
+[0000000000411817] System._ZN6System23_DelphiExceptionHandlerEPNS_16TExceptionRecordEyPvS2_ (Line 20765, "System.pas" + 53)
+[0000000000506021] madExcept._ZN9Madexcept30DelphiExceptionHandlerCallbackEPN8Madtypes16TExceptionRecordEyP8_CONTEXTPv
+[00007FFD8359111F] Unknown function at __chkstk
+[00007FFD8353B474] RtlRaiseException
+[00007FFD8358FC4E] KiUserExceptionDispatcher
+[000000000126FF30] ObjBase._ZN7Objbase11TBaseObject11CheckPlayerEv (Line 2793, "ObjBase.pas" + 1)
+[000000000132269D] ObjPlay._ZN7Objplay11TPlayObject3DieEv (Line 23597, "ObjPlay.pas" + 90)
+[0000000001267D2F] ObjBase._ZN7Objbase11TBaseObject3RunEv (Line 1215, "ObjBase.pas" + 365)
+[0000000001293285] ObjBase._ZN7Objbase13TAnimalObject3RunEv (Line 10390, "ObjBase.pas" + 2)
+[00000000012BC868] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 2939, "ObjPlay.pas" + 1144)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-14 19:36:11:814] [Exception] TBaseObject::Die 2 Except：Access violation at address 000000000126FF30 in module 'M2Server.exe'. Read of address 0000000000000280[000000000126FF30] ObjBase._ZN7Objbase11TBaseObject11CheckPlayerEv (Line 2793, "ObjBase.pas" + 1)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F50B1] JclHookExcept._ZN13Jclhookexcept19HookedExceptObjProcEPN6System16TExceptionRecordE (Line 395, "JclHookExcept.pas" + 5)
+[0000000000506076] madExcept._ZN9Madexcept17MyExceptObjProc64EPN8Madtypes16TExceptionRecordE
+[0000000000411817] System._ZN6System23_DelphiExceptionHandlerEPNS_16TExceptionRecordEyPvS2_ (Line 20765, "System.pas" + 53)
+[0000000000506021] madExcept._ZN9Madexcept30DelphiExceptionHandlerCallbackEPN8Madtypes16TExceptionRecordEyP8_CONTEXTPv
+[00007FFD8359111F] Unknown function at __chkstk
+[00007FFD8353B474] RtlRaiseException
+[00007FFD8358FC4E] KiUserExceptionDispatcher
+[000000000126FF30] ObjBase._ZN7Objbase11TBaseObject11CheckPlayerEv (Line 2793, "ObjBase.pas" + 1)
+[000000000132269D] ObjPlay._ZN7Objplay11TPlayObject3DieEv (Line 23597, "ObjPlay.pas" + 90)
+[0000000001267D2F] ObjBase._ZN7Objbase11TBaseObject3RunEv (Line 1215, "ObjBase.pas" + 365)
+[0000000001293285] ObjBase._ZN7Objbase13TAnimalObject3RunEv (Line 10390, "ObjBase.pas" + 2)
+[00000000012BC868] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 2939, "ObjPlay.pas" + 1144)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-14 20:36:30:506] [Exception] TBaseObject::Die 2 Except：Access violation at address 000000000126FF30 in module 'M2Server.exe'. Read of address 0000000000000280[000000000126FF30] ObjBase._ZN7Objbase11TBaseObject11CheckPlayerEv (Line 2793, "ObjBase.pas" + 1)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F50B1] JclHookExcept._ZN13Jclhookexcept19HookedExceptObjProcEPN6System16TExceptionRecordE (Line 395, "JclHookExcept.pas" + 5)
+[0000000000506076] madExcept._ZN9Madexcept17MyExceptObjProc64EPN8Madtypes16TExceptionRecordE
+[0000000000411817] System._ZN6System23_DelphiExceptionHandlerEPNS_16TExceptionRecordEyPvS2_ (Line 20765, "System.pas" + 53)
+[0000000000506021] madExcept._ZN9Madexcept30DelphiExceptionHandlerCallbackEPN8Madtypes16TExceptionRecordEyP8_CONTEXTPv
+[00007FFD8359111F] Unknown function at __chkstk
+[00007FFD8353B474] RtlRaiseException
+[00007FFD8358FC4E] KiUserExceptionDispatcher
+[000000000126FF30] ObjBase._ZN7Objbase11TBaseObject11CheckPlayerEv (Line 2793, "ObjBase.pas" + 1)
+[000000000132269D] ObjPlay._ZN7Objplay11TPlayObject3DieEv (Line 23597, "ObjPlay.pas" + 90)
+[0000000001267D2F] ObjBase._ZN7Objbase11TBaseObject3RunEv (Line 1215, "ObjBase.pas" + 365)
+[0000000001293285] ObjBase._ZN7Objbase13TAnimalObject3RunEv (Line 10390, "ObjBase.pas" + 2)
+[00000000012BC868] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 2939, "ObjPlay.pas" + 1144)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-14 21:03:46:234] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-14 21:32:41:417] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-14 21:39:03:029] Socket Err:10061
+
+[2024-09-14 21:54:33:309] [Exception] TBaseObject::Die 2 Except：Access violation at address 000000000126FF30 in module 'M2Server.exe'. Read of address 0000000000000280[000000000126FF30] ObjBase._ZN7Objbase11TBaseObject11CheckPlayerEv (Line 2793, "ObjBase.pas" + 1)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F50B1] JclHookExcept._ZN13Jclhookexcept19HookedExceptObjProcEPN6System16TExceptionRecordE (Line 395, "JclHookExcept.pas" + 5)
+[0000000000506076] madExcept._ZN9Madexcept17MyExceptObjProc64EPN8Madtypes16TExceptionRecordE
+[0000000000411817] System._ZN6System23_DelphiExceptionHandlerEPNS_16TExceptionRecordEyPvS2_ (Line 20765, "System.pas" + 53)
+[0000000000506021] madExcept._ZN9Madexcept30DelphiExceptionHandlerCallbackEPN8Madtypes16TExceptionRecordEyP8_CONTEXTPv
+[00007FFD8359111F] Unknown function at __chkstk
+[00007FFD8353B474] RtlRaiseException
+[00007FFD8358FC4E] KiUserExceptionDispatcher
+[000000000126FF30] ObjBase._ZN7Objbase11TBaseObject11CheckPlayerEv (Line 2793, "ObjBase.pas" + 1)
+[000000000132269D] ObjPlay._ZN7Objplay11TPlayObject3DieEv (Line 23597, "ObjPlay.pas" + 90)
+[0000000001267D2F] ObjBase._ZN7Objbase11TBaseObject3RunEv (Line 1215, "ObjBase.pas" + 365)
+[0000000001293285] ObjBase._ZN7Objbase13TAnimalObject3RunEv (Line 10390, "ObjBase.pas" + 2)
+[00000000012BC868] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 2939, "ObjPlay.pas" + 1144)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-14 23:58:08:814] [Exception] TBaseObject::Die 2 Except：Access violation at address 000000000126FF30 in module 'M2Server.exe'. Read of address 0000000000000280[000000000126FF30] ObjBase._ZN7Objbase11TBaseObject11CheckPlayerEv (Line 2793, "ObjBase.pas" + 1)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F50B1] JclHookExcept._ZN13Jclhookexcept19HookedExceptObjProcEPN6System16TExceptionRecordE (Line 395, "JclHookExcept.pas" + 5)
+[0000000000506076] madExcept._ZN9Madexcept17MyExceptObjProc64EPN8Madtypes16TExceptionRecordE
+[0000000000411817] System._ZN6System23_DelphiExceptionHandlerEPNS_16TExceptionRecordEyPvS2_ (Line 20765, "System.pas" + 53)
+[0000000000506021] madExcept._ZN9Madexcept30DelphiExceptionHandlerCallbackEPN8Madtypes16TExceptionRecordEyP8_CONTEXTPv
+[00007FFD8359111F] Unknown function at __chkstk
+[00007FFD8353B474] RtlRaiseException
+[00007FFD8358FC4E] KiUserExceptionDispatcher
+[000000000126FF30] ObjBase._ZN7Objbase11TBaseObject11CheckPlayerEv (Line 2793, "ObjBase.pas" + 1)
+[000000000132269D] ObjPlay._ZN7Objplay11TPlayObject3DieEv (Line 23597, "ObjPlay.pas" + 90)
+[0000000001267D2F] ObjBase._ZN7Objbase11TBaseObject3RunEv (Line 1215, "ObjBase.pas" + 365)
+[0000000001293285] ObjBase._ZN7Objbase13TAnimalObject3RunEv (Line 10390, "ObjBase.pas" + 2)
+[00000000012BC868] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 2939, "ObjPlay.pas" + 1144)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-15 00:59:03:016] Socket Err:10061
+
+[2024-09-15 04:19:03:023] Socket Err:10061
+
+[2024-09-15 07:39:03:029] Socket Err:10061
+
+[2024-09-15 10:59:03:015] Socket Err:10061
+
+[2024-09-15 13:30:56:236] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-15 14:19:03:029] Socket Err:10061
+
+[2024-09-15 14:43:12:966] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-15 14:56:45:284] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-15 15:58:43:921] ---------------------线程耗时监控
+[2024-09-15 15:58:43:998] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:58:44:024] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:58:44:084] DbThread(2109)-----------------------------------
+009a898a +16a M2Server.exe FireDAC.Phys.ODBCWrapper  5849 +29 TODBCCommandStatement.Execute
+009b5456 +1b6 M2Server.exe FireDAC.Phys.ODBCBase     2714 +19 TFDPhysODBCCommand.InternalExecute
+00988492 +0a2 M2Server.exe FireDAC.Phys              8196  +9 Process_HandleSystemFailure
+00988635 +045 M2Server.exe FireDAC.Phys              8234  +4 Process_SingleRow
+00989d7b +2bb M2Server.exe FireDAC.Phys              8523 +44 TFDPhysCommand.ExecuteBase
+00987e62 +012 M2Server.exe FireDAC.Phys              8088  +1 TFDPhysCommandAsyncExecute.Execute
+00c0e3da +03a M2Server.exe FireDAC.Stan.Async         173  +6 TFDStanAsyncExecutor.ExecuteOperation
+00c0e8c4 +084 M2Server.exe FireDAC.Stan.Async         268 +12 TFDStanAsyncExecutor.Run
+00980333 +1b3 M2Server.exe FireDAC.Phys              6637 +21 TFDPhysCommand.ExecuteTask
+0098a0d1 +081 M2Server.exe FireDAC.Phys              8574  +2 TFDPhysCommand.Execute
+00a5b197 +197 M2Server.exe FireDAC.Comp.Client       6847 +10 TFDCustomCommand.InternalExecute
+00a5b629 +039 M2Server.exe FireDAC.Comp.Client       6870  +3 TFDCustomCommand.Execute
+00a64d20 +040 M2Server.exe FireDAC.Comp.Client      10087  +3 TFDAdaptedDataSet.DoExecuteSource
+00a13adb +0ab M2Server.exe FireDAC.Comp.DataSet      3185  +8 TFDDataSet.Execute
+00a67f63 +013 M2Server.exe FireDAC.Comp.Client      11525  +1 TFDCustomQuery.ExecSQL
+00efede3 +413 M2Server.exe uThread_Db                1682 +25 TDbThread.AddMail
+00ef6eed +0ed M2Server.exe uThread_Db                 382 +10 TDbThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170 +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70  +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686 +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373  +9 ThreadWrapper
+[2024-09-15 15:58:44:101] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 15:58:46:006] ---------------------线程耗时监控
+[2024-09-15 15:58:46:021] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:58:46:038] MainRunThread(15)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:58:46:051] DbThread(4125)-----------------------------------
+
+[2024-09-15 15:58:46:068] BoxSellDbThread(15)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 15:58:50:323] ---------------------线程耗时监控
+[2024-09-15 15:58:50:339] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:58:50:356] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:58:50:369] DbThread(2063)-----------------------------------
+
+[2024-09-15 15:58:50:385] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:58:53:013] ---------------------线程耗时监控
+[2024-09-15 15:58:53:029] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:58:53:046] MainRunThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:58:53:058] DbThread(4750)-----------------------------------
+
+[2024-09-15 15:58:53:074] BoxSellDbThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 15:58:56:012] ---------------------线程耗时监控
+[2024-09-15 15:58:56:028] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:58:56:045] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:58:56:058] DbThread(7750)-----------------------------------
+
+[2024-09-15 15:58:56:075] BoxSellDbThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:58:59:010] ---------------------线程耗时监控
+[2024-09-15 15:58:59:026] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:58:59:042] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:58:59:061] DbThread(10750)-----------------------------------
+009a898a +16a M2Server.exe FireDAC.Phys.ODBCWrapper  5849 +29 TODBCCommandStatement.Execute
+009b5456 +1b6 M2Server.exe FireDAC.Phys.ODBCBase     2714 +19 TFDPhysODBCCommand.InternalExecute
+00988492 +0a2 M2Server.exe FireDAC.Phys              8196  +9 Process_HandleSystemFailure
+00988635 +045 M2Server.exe FireDAC.Phys              8234  +4 Process_SingleRow
+00989d7b +2bb M2Server.exe FireDAC.Phys              8523 +44 TFDPhysCommand.ExecuteBase
+00987e62 +012 M2Server.exe FireDAC.Phys              8088  +1 TFDPhysCommandAsyncExecute.Execute
+00c0e3da +03a M2Server.exe FireDAC.Stan.Async         173  +6 TFDStanAsyncExecutor.ExecuteOperation
+00c0e8c4 +084 M2Server.exe FireDAC.Stan.Async         268 +12 TFDStanAsyncExecutor.Run
+00980333 +1b3 M2Server.exe FireDAC.Phys              6637 +21 TFDPhysCommand.ExecuteTask
+0098a0d1 +081 M2Server.exe FireDAC.Phys              8574  +2 TFDPhysCommand.Execute
+00a5b197 +197 M2Server.exe FireDAC.Comp.Client       6847 +10 TFDCustomCommand.InternalExecute
+00a5b629 +039 M2Server.exe FireDAC.Comp.Client       6870  +3 TFDCustomCommand.Execute
+00a64d20 +040 M2Server.exe FireDAC.Comp.Client      10087  +3 TFDAdaptedDataSet.DoExecuteSource
+00a13adb +0ab M2Server.exe FireDAC.Comp.DataSet      3185  +8 TFDDataSet.Execute
+00a67f63 +013 M2Server.exe FireDAC.Comp.Client      11525  +1 TFDCustomQuery.ExecSQL
+00efede3 +413 M2Server.exe uThread_Db                1682 +25 TDbThread.AddMail
+00ef6eed +0ed M2Server.exe uThread_Db                 382 +10 TDbThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170 +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70  +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686 +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373  +9 ThreadWrapper
+[2024-09-15 15:58:59:078] BoxSellDbThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 15:59:02:008] ---------------------线程耗时监控
+[2024-09-15 15:59:02:024] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:02:041] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:02:053] DbThread(13735)-----------------------------------
+
+[2024-09-15 15:59:02:069] BoxSellDbThread(15)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 15:59:05:003] ---------------------线程耗时监控
+[2024-09-15 15:59:05:033] Frame-----------------------------------
+00410ceb +00b M2Server.exe System         19726  +1 TMonitor.Exit
+00410d64 +024 M2Server.exe System         19748  +2 TMonitor.Exit
+005d07a1 +2f1 M2Server.exe System.Classes 15658 +66 CheckSynchronize
+[2024-09-15 15:59:05:049] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:05:062] DbThread(16750)-----------------------------------
+
+[2024-09-15 15:59:05:078] BoxSellDbThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:08:009] ---------------------线程耗时监控
+[2024-09-15 15:59:08:025] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:08:042] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:08:061] DbThread(19750)-----------------------------------
+009a898a +16a M2Server.exe FireDAC.Phys.ODBCWrapper  5849 +29 TODBCCommandStatement.Execute
+009b5456 +1b6 M2Server.exe FireDAC.Phys.ODBCBase     2714 +19 TFDPhysODBCCommand.InternalExecute
+00988492 +0a2 M2Server.exe FireDAC.Phys              8196  +9 Process_HandleSystemFailure
+00988635 +045 M2Server.exe FireDAC.Phys              8234  +4 Process_SingleRow
+00989d7b +2bb M2Server.exe FireDAC.Phys              8523 +44 TFDPhysCommand.ExecuteBase
+00987e62 +012 M2Server.exe FireDAC.Phys              8088  +1 TFDPhysCommandAsyncExecute.Execute
+00c0e3da +03a M2Server.exe FireDAC.Stan.Async         173  +6 TFDStanAsyncExecutor.ExecuteOperation
+00c0e8c4 +084 M2Server.exe FireDAC.Stan.Async         268 +12 TFDStanAsyncExecutor.Run
+00980333 +1b3 M2Server.exe FireDAC.Phys              6637 +21 TFDPhysCommand.ExecuteTask
+0098a0d1 +081 M2Server.exe FireDAC.Phys              8574  +2 TFDPhysCommand.Execute
+00a5b197 +197 M2Server.exe FireDAC.Comp.Client       6847 +10 TFDCustomCommand.InternalExecute
+00a5b629 +039 M2Server.exe FireDAC.Comp.Client       6870  +3 TFDCustomCommand.Execute
+00a64d20 +040 M2Server.exe FireDAC.Comp.Client      10087  +3 TFDAdaptedDataSet.DoExecuteSource
+00a13adb +0ab M2Server.exe FireDAC.Comp.DataSet      3185  +8 TFDDataSet.Execute
+00a67f63 +013 M2Server.exe FireDAC.Comp.Client      11525  +1 TFDCustomQuery.ExecSQL
+00efede3 +413 M2Server.exe uThread_Db                1682 +25 TDbThread.AddMail
+00ef6eed +0ed M2Server.exe uThread_Db                 382 +10 TDbThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170 +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70  +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686 +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373  +9 ThreadWrapper
+[2024-09-15 15:59:08:078] BoxSellDbThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 15:59:11:014] ---------------------线程耗时监控
+[2024-09-15 15:59:11:029] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:11:046] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:11:059] DbThread(22750)-----------------------------------
+
+[2024-09-15 15:59:11:076] BoxSellDbThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:14:013] ---------------------线程耗时监控
+[2024-09-15 15:59:14:029] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:14:046] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:14:058] DbThread(25750)-----------------------------------
+
+[2024-09-15 15:59:14:075] BoxSellDbThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 15:59:17:013] ---------------------线程耗时监控
+[2024-09-15 15:59:17:029] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:17:055] MainRunThread(0)-----------------------------------
+0040940e +00e M2Server.exe System        4950   +3 @FreeMem
+00412ef4 +034 M2Server.exe System       25846   +8 @UStrClr
+0141c443 +4c3 M2Server.exe svMain        2396 +134 TMainRunThread.OnRun
+0088bbee +0ee M2Server.exe uThreadPools   166  +13 TThreadPool.ThreadProc
+[2024-09-15 15:59:17:068] DbThread(28750)-----------------------------------
+
+[2024-09-15 15:59:17:084] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 15:59:20:001] ---------------------线程耗时监控
+[2024-09-15 15:59:20:014] Frame-----------------------------------
+00410ceb +00b M2Server.exe System         19726  +1 TMonitor.Exit
+00410d64 +024 M2Server.exe System         19748  +2 TMonitor.Exit
+005d07a1 +2f1 M2Server.exe System.Classes 15658 +66 CheckSynchronize
+[2024-09-15 15:59:20:030] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:20:043] DbThread(31735)-----------------------------------
+
+[2024-09-15 15:59:20:060] BoxSellDbThread(15)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:23:008] ---------------------线程耗时监控
+[2024-09-15 15:59:23:024] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:23:041] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:23:054] DbThread(34735)-----------------------------------
+
+[2024-09-15 15:59:23:070] BoxSellDbThread(15)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 15:59:26:009] ---------------------线程耗时监控
+[2024-09-15 15:59:26:025] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:26:042] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:26:055] DbThread(37750)-----------------------------------
+
+[2024-09-15 15:59:26:071] BoxSellDbThread(15)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:29:009] ---------------------线程耗时监控
+[2024-09-15 15:59:29:041] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:29:058] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:29:075] EnvirThread 0/0(31)flag:50000003  lua: 167899 CallLua:getbaseinfo 12465663-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:29:088] DbThread(40781)-----------------------------------
+
+[2024-09-15 15:59:29:104] BoxSellDbThread(15)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 15:59:32:011] ---------------------线程耗时监控
+[2024-09-15 15:59:32:027] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:32:044] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:32:056] DbThread(43750)-----------------------------------
+
+[2024-09-15 15:59:32:072] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 15:59:35:007] ---------------------线程耗时监控
+[2024-09-15 15:59:35:022] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:35:039] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:35:066] DbThread(46735)-----------------------------------
+009a89b3 +193 M2Server.exe FireDAC.Phys.ODBCWrapper  5851 +31 TODBCCommandStatement.Execute
+009b5a40 +180 M2Server.exe FireDAC.Phys.ODBCBase     2820 +18 TFDPhysODBCCommand.InternalOpen
+00983547 +197 M2Server.exe FireDAC.Phys              7245 +35 TFDPhysCommand.OpenBase
+00982ea8 +008 M2Server.exe FireDAC.Phys              7130  +1 TFDPhysCommandAsyncOpen.Execute
+00c0e3da +03a M2Server.exe FireDAC.Stan.Async         173  +6 TFDStanAsyncExecutor.ExecuteOperation
+00c0e8c4 +084 M2Server.exe FireDAC.Stan.Async         268 +12 TFDStanAsyncExecutor.Run
+00980333 +1b3 M2Server.exe FireDAC.Phys              6637 +21 TFDPhysCommand.ExecuteTask
+009839ae +06e M2Server.exe FireDAC.Phys              7313  +2 TFDPhysCommand.Open
+0098391a +01a M2Server.exe FireDAC.Phys              7303  +2 TFDPhysCommand.OpenBlocked
+009b431d +01d M2Server.exe FireDAC.Phys.ODBCBase     2338  +1 TFDPhysODBCCommand.InternalColInfoStart
+00985546 +6a6 M2Server.exe FireDAC.Phys              7626 +61 TFDPhysCommand.DoDefineDataTable
+009876e2 +0a2 M2Server.exe FireDAC.Phys              8013 +15 TFDPhysCommand.Define
+00c1a439 +0e9 M2Server.exe FireDAC.DApt              2355  +5 TFDDAptTableAdapter.Define
+00a5e6c1 +041 M2Server.exe FireDAC.Comp.Client       7856  +2 TFDCustomTableAdapter.Define
+00a6449d +05d M2Server.exe FireDAC.Comp.Client       9901  +3 TFDAdaptedDataSet.DoDefineDatSManager
+00a0e148 +068 M2Server.exe FireDAC.Comp.DataSet      1508  +3 TFDDataSet.CheckTable
+00a12bef +27f M2Server.exe FireDAC.Comp.DataSet      2947 +35 TFDDataSet.OpenCursor
+00a67710 +040 M2Server.exe FireDAC.Comp.Client      11153  +5 TFDRdbmsDataSet.OpenCursor
+0083f4cf +06f M2Server.exe Data.DB                  12654 +12 TDataSet.SetActive
+00a0e79c +03c M2Server.exe FireDAC.Comp.DataSet      1614  +7 TFDDataSet.SetActive
+0083f270 +010 M2Server.exe Data.DB                  12610  +1 TDataSet.Open
+00efecd8 +308 M2Server.exe uThread_Db                1673 +16 TDbThread.AddMail
+00ef6eed +0ed M2Server.exe uThread_Db                 382 +10 TDbThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170 +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70  +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686 +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373  +9 ThreadWrapper
+[2024-09-15 15:59:35:083] BoxSellDbThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:38:013] ---------------------线程耗时监控
+[2024-09-15 15:59:38:029] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:38:046] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:38:059] DbThread(49750)-----------------------------------
+
+[2024-09-15 15:59:38:075] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 15:59:41:004] ---------------------线程耗时监控
+[2024-09-15 15:59:41:020] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:41:037] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:41:054] DbThread(52735)-----------------------------------
+009a89b3 +193 M2Server.exe FireDAC.Phys.ODBCWrapper  5851 +31 TODBCCommandStatement.Execute
+009b5a40 +180 M2Server.exe FireDAC.Phys.ODBCBase     2820 +18 TFDPhysODBCCommand.InternalOpen
+00983547 +197 M2Server.exe FireDAC.Phys              7245 +35 TFDPhysCommand.OpenBase
+00982ea8 +008 M2Server.exe FireDAC.Phys              7130  +1 TFDPhysCommandAsyncOpen.Execute
+00c0e3da +03a M2Server.exe FireDAC.Stan.Async         173  +6 TFDStanAsyncExecutor.ExecuteOperation
+00c0e8c4 +084 M2Server.exe FireDAC.Stan.Async         268 +12 TFDStanAsyncExecutor.Run
+00980333 +1b3 M2Server.exe FireDAC.Phys              6637 +21 TFDPhysCommand.ExecuteTask
+009839ae +06e M2Server.exe FireDAC.Phys              7313  +2 TFDPhysCommand.Open
+0098391a +01a M2Server.exe FireDAC.Phys              7303  +2 TFDPhysCommand.OpenBlocked
+009b431d +01d M2Server.exe FireDAC.Phys.ODBCBase     2338  +1 TFDPhysODBCCommand.InternalColInfoStart
+00985546 +6a6 M2Server.exe FireDAC.Phys              7626 +61 TFDPhysCommand.DoDefineDataTable
+009876e2 +0a2 M2Server.exe FireDAC.Phys              8013 +15 TFDPhysCommand.Define
+00c1a439 +0e9 M2Server.exe FireDAC.DApt              2355  +5 TFDDAptTableAdapter.Define
+00a5e6c1 +041 M2Server.exe FireDAC.Comp.Client       7856  +2 TFDCustomTableAdapter.Define
+00a6449d +05d M2Server.exe FireDAC.Comp.Client       9901  +3 TFDAdaptedDataSet.DoDefineDatSManager
+00a0e148 +068 M2Server.exe FireDAC.Comp.DataSet      1508  +3 TFDDataSet.CheckTable
+00a12bef +27f M2Server.exe FireDAC.Comp.DataSet      2947 +35 TFDDataSet.OpenCursor
+00a67710 +040 M2Server.exe FireDAC.Comp.Client      11153  +5 TFDRdbmsDataSet.OpenCursor
+0083f4cf +06f M2Server.exe Data.DB                  12654 +12 TDataSet.SetActive
+00a0e79c +03c M2Server.exe FireDAC.Comp.DataSet      1614  +7 TFDDataSet.SetActive
+0083f270 +010 M2Server.exe Data.DB                  12610  +1 TDataSet.Open
+00efecd8 +308 M2Server.exe uThread_Db                1673 +16 TDbThread.AddMail
+00ef6eed +0ed M2Server.exe uThread_Db                 382 +10 TDbThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170 +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70  +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686 +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373  +9 ThreadWrapper
+[2024-09-15 15:59:41:071] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:44:014] ---------------------线程耗时监控
+[2024-09-15 15:59:44:029] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:44:045] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:44:058] DbThread(55750)-----------------------------------
+
+[2024-09-15 15:59:44:074] BoxSellDbThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 15:59:47:011] ---------------------线程耗时监控
+[2024-09-15 15:59:47:026] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:47:042] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:47:061] DbThread(58735)-----------------------------------
+009a89b3 +193 M2Server.exe FireDAC.Phys.ODBCWrapper  5851 +31 TODBCCommandStatement.Execute
+009b5a40 +180 M2Server.exe FireDAC.Phys.ODBCBase     2820 +18 TFDPhysODBCCommand.InternalOpen
+00983547 +197 M2Server.exe FireDAC.Phys              7245 +35 TFDPhysCommand.OpenBase
+00982ea8 +008 M2Server.exe FireDAC.Phys              7130  +1 TFDPhysCommandAsyncOpen.Execute
+00c0e3da +03a M2Server.exe FireDAC.Stan.Async         173  +6 TFDStanAsyncExecutor.ExecuteOperation
+00c0e8c4 +084 M2Server.exe FireDAC.Stan.Async         268 +12 TFDStanAsyncExecutor.Run
+00980333 +1b3 M2Server.exe FireDAC.Phys              6637 +21 TFDPhysCommand.ExecuteTask
+009839ae +06e M2Server.exe FireDAC.Phys              7313  +2 TFDPhysCommand.Open
+0098391a +01a M2Server.exe FireDAC.Phys              7303  +2 TFDPhysCommand.OpenBlocked
+009b431d +01d M2Server.exe FireDAC.Phys.ODBCBase     2338  +1 TFDPhysODBCCommand.InternalColInfoStart
+00985546 +6a6 M2Server.exe FireDAC.Phys              7626 +61 TFDPhysCommand.DoDefineDataTable
+009876e2 +0a2 M2Server.exe FireDAC.Phys              8013 +15 TFDPhysCommand.Define
+00c1a439 +0e9 M2Server.exe FireDAC.DApt              2355  +5 TFDDAptTableAdapter.Define
+00a5e6c1 +041 M2Server.exe FireDAC.Comp.Client       7856  +2 TFDCustomTableAdapter.Define
+00a6449d +05d M2Server.exe FireDAC.Comp.Client       9901  +3 TFDAdaptedDataSet.DoDefineDatSManager
+00a0e148 +068 M2Server.exe FireDAC.Comp.DataSet      1508  +3 TFDDataSet.CheckTable
+00a12bef +27f M2Server.exe FireDAC.Comp.DataSet      2947 +35 TFDDataSet.OpenCursor
+00a67710 +040 M2Server.exe FireDAC.Comp.Client      11153  +5 TFDRdbmsDataSet.OpenCursor
+0083f4cf +06f M2Server.exe Data.DB                  12654 +12 TDataSet.SetActive
+00a0e79c +03c M2Server.exe FireDAC.Comp.DataSet      1614  +7 TFDDataSet.SetActive
+0083f270 +010 M2Server.exe Data.DB                  12610  +1 TDataSet.Open
+00efecd8 +308 M2Server.exe uThread_Db                1673 +16 TDbThread.AddMail
+00ef6eed +0ed M2Server.exe uThread_Db                 382 +10 TDbThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170 +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70  +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686 +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373  +9 ThreadWrapper
+[2024-09-15 15:59:47:077] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:48:887] >>Onrun M2HEART DB线程卡死!!!准备重启,心跳中断[60594]...
+
+[2024-09-15 15:59:50:004] ---------------------线程耗时监控
+[2024-09-15 15:59:50:017] Frame-----------------------------------
+00410ceb +00b M2Server.exe System         19726  +1 TMonitor.Exit
+00410d64 +024 M2Server.exe System         19748  +2 TMonitor.Exit
+005d07a1 +2f1 M2Server.exe System.Classes 15658 +66 CheckSynchronize
+[2024-09-15 15:59:50:033] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:50:052] DbThread(61735)-----------------------------------
+009a898a +16a M2Server.exe FireDAC.Phys.ODBCWrapper  5849 +29 TODBCCommandStatement.Execute
+009b5456 +1b6 M2Server.exe FireDAC.Phys.ODBCBase     2714 +19 TFDPhysODBCCommand.InternalExecute
+00988492 +0a2 M2Server.exe FireDAC.Phys              8196  +9 Process_HandleSystemFailure
+00988635 +045 M2Server.exe FireDAC.Phys              8234  +4 Process_SingleRow
+00989d7b +2bb M2Server.exe FireDAC.Phys              8523 +44 TFDPhysCommand.ExecuteBase
+00987e62 +012 M2Server.exe FireDAC.Phys              8088  +1 TFDPhysCommandAsyncExecute.Execute
+00c0e3da +03a M2Server.exe FireDAC.Stan.Async         173  +6 TFDStanAsyncExecutor.ExecuteOperation
+00c0e8c4 +084 M2Server.exe FireDAC.Stan.Async         268 +12 TFDStanAsyncExecutor.Run
+00980333 +1b3 M2Server.exe FireDAC.Phys              6637 +21 TFDPhysCommand.ExecuteTask
+0098a0d1 +081 M2Server.exe FireDAC.Phys              8574  +2 TFDPhysCommand.Execute
+00a5b197 +197 M2Server.exe FireDAC.Comp.Client       6847 +10 TFDCustomCommand.InternalExecute
+00a5b629 +039 M2Server.exe FireDAC.Comp.Client       6870  +3 TFDCustomCommand.Execute
+00a64d20 +040 M2Server.exe FireDAC.Comp.Client      10087  +3 TFDAdaptedDataSet.DoExecuteSource
+00a13adb +0ab M2Server.exe FireDAC.Comp.DataSet      3185  +8 TFDDataSet.Execute
+00a67f63 +013 M2Server.exe FireDAC.Comp.Client      11525  +1 TFDCustomQuery.ExecSQL
+00efede3 +413 M2Server.exe uThread_Db                1682 +25 TDbThread.AddMail
+00ef6eed +0ed M2Server.exe uThread_Db                 382 +10 TDbThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools               170 +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools                70  +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes           15686 +18 ThreadProc
+00412c8a +03a M2Server.exe System                   25373  +9 ThreadWrapper
+[2024-09-15 15:59:50:068] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:50:413] >>Onrun M2HEART DB线程卡死!!!准备重启,心跳中断[62110]...
+[2024-09-15 15:59:51:922] >>Onrun M2HEART DB线程卡死!!!准备重启,心跳中断[63625]...
+[2024-09-15 15:59:53:008] ---------------------线程耗时监控
+[2024-09-15 15:59:53:024] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:53:040] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:53:053] DbThread(64735)-----------------------------------
+
+[2024-09-15 15:59:53:070] BoxSellDbThread(15)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:53:445] >>Onrun M2HEART DB线程卡死!!!准备重启,心跳中断[65141]...
+[2024-09-15 15:59:53:482] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+[2024-09-15 15:59:54:954] >>Onrun M2HEART DB线程卡死!!!准备重启,心跳中断[66656]...
+
+[2024-09-15 15:59:56:013] ---------------------线程耗时监控
+[2024-09-15 15:59:56:027] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:56:058] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:56:071] DbThread(67766)-----------------------------------
+
+[2024-09-15 15:59:56:087] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:56:478] >>Onrun M2HEART DB线程卡死!!!准备重启,心跳中断[68172]...
+[2024-09-15 15:59:57:982] >>Onrun M2HEART DB线程卡死!!!准备重启,心跳中断[69688]...
+[2024-09-15 15:59:59:014] ---------------------线程耗时监控
+[2024-09-15 15:59:59:029] Frame-----------------------------------
+007d756e +15e M2Server.exe Vcl.Forms 11936 +39 TApplication.Idle
+007d5e43 +023 M2Server.exe Vcl.Forms 11347  +1 TApplication.HandleMessage
+007d628a +0ea M2Server.exe Vcl.Forms 11486 +27 TApplication.Run
+01420e4d +13d M2Server.exe M2Server    120 +13 initialization
+[2024-09-15 15:59:59:044] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:59:057] DbThread(70750)-----------------------------------
+
+[2024-09-15 15:59:59:073] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 15:59:59:497] >>Onrun M2HEART DB线程卡死!!!准备重启,心跳中断[71203]...
+

@@ -1,0 +1,621 @@
+[2024-09-15 16:00:09:553] Socket Err:10061
+
+[2024-09-15 16:00:25:304] Failure: F:\顺天传奇\MirServer\Mir200\map\0110.map could not be loaded.
+[2024-09-15 16:00:25:304] Failure: F:\顺天传奇\MirServer\Mir200\map\0111.map could not be loaded.
+[2024-09-15 16:00:25:304] Failure: F:\顺天传奇\MirServer\Mir200\map\0112.map could not be loaded.
+[2024-09-15 16:00:25:313] Failure: F:\顺天传奇\MirServer\Mir200\map\0108.map could not be loaded.
+[2024-09-15 16:00:25:313] Failure: F:\顺天传奇\MirServer\Mir200\map\0109.map could not be loaded.
+[2024-09-15 16:00:25:313] Failure: F:\顺天传奇\MirServer\Mir200\map\0104.map could not be loaded.
+[2024-09-15 16:00:25:313] Failure: F:\顺天传奇\MirServer\Mir200\map\0107.map could not be loaded.
+[2024-09-15 16:00:25:313] Failure: F:\顺天传奇\MirServer\Mir200\map\0125.map could not be loaded.
+[2024-09-15 16:00:25:313] Failure: F:\顺天传奇\MirServer\Mir200\map\0126.map could not be loaded.
+[2024-09-15 16:00:25:313] Failure: F:\顺天传奇\MirServer\Mir200\map\0103.map could not be loaded.
+[2024-09-15 16:00:25:313] Failure: F:\顺天传奇\MirServer\Mir200\map\0105.map could not be loaded.
+[2024-09-15 16:00:25:313] Failure: F:\顺天传奇\MirServer\Mir200\map\0106.map could not be loaded.
+[2024-09-15 16:00:25:313] Failure: F:\顺天传奇\MirServer\Mir200\map\0101.map could not be loaded.
+[2024-09-15 16:00:25:313] Failure: F:\顺天传奇\MirServer\Mir200\map\0100.map could not be loaded.
+[2024-09-15 16:00:25:313] Failure: F:\顺天传奇\MirServer\Mir200\map\0128.map could not be loaded.
+[2024-09-15 16:00:25:313] Failure: F:\顺天传奇\MirServer\Mir200\map\0129.map could not be loaded.
+[2024-09-15 16:00:25:313] Failure: F:\顺天传奇\MirServer\Mir200\map\0123.map could not be loaded.
+[2024-09-15 16:00:25:313] Failure: F:\顺天传奇\MirServer\Mir200\map\0124.map could not be loaded.
+[2024-09-15 16:00:25:322] Failure: F:\顺天传奇\MirServer\Mir200\map\01141.map could not be loaded.
+[2024-09-15 16:00:25:322] Failure: F:\顺天传奇\MirServer\Mir200\map\01142.map could not be loaded.
+[2024-09-15 16:00:25:322] Failure: F:\顺天传奇\MirServer\Mir200\map\0115.map could not be loaded.
+[2024-09-15 16:00:25:322] Failure: F:\顺天传奇\MirServer\Mir200\map\01152.map could not be loaded.
+[2024-09-15 16:00:25:322] Failure: F:\顺天传奇\MirServer\Mir200\map\0113.map could not be loaded.
+[2024-09-15 16:00:25:322] Failure: F:\顺天传奇\MirServer\Mir200\map\01132.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0135.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0134.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0133.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0119.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0118.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0121.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0127.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0130.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0131.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0136.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0132.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0138.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0141.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0140.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\1.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\2.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0116.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0117.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0120.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\0142.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\d401.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\d411.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\d413.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\d402.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\d414.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\d403.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\d412.map could not be loaded.
+[2024-09-15 16:00:25:341] Failure: F:\顺天传奇\MirServer\Mir200\map\d404.map could not be loaded.
+[2024-09-15 16:00:25:346] Failure: F:\顺天传奇\MirServer\Mir200\map\d405.map could not be loaded.
+[2024-09-15 16:00:25:346] Failure: F:\顺天传奇\MirServer\Mir200\map\d415.map could not be loaded.
+[2024-09-15 16:00:25:346] Failure: F:\顺天传奇\MirServer\Mir200\map\d406.map could not be loaded.
+[2024-09-15 16:00:25:456] Failure: F:\顺天传奇\MirServer\Mir200\map\0143.map could not be loaded.
+[2024-09-15 16:00:25:456] Failure: F:\顺天传奇\MirServer\Mir200\map\0144.map could not be loaded.
+[2024-09-15 16:00:25:456] Failure: F:\顺天传奇\MirServer\Mir200\map\0145.map could not be loaded.
+[2024-09-15 16:00:25:456] Failure: F:\顺天传奇\MirServer\Mir200\map\0146.map could not be loaded.
+[2024-09-15 16:00:25:456] Failure: F:\顺天传奇\MirServer\Mir200\map\0147.map could not be loaded.
+[2024-09-15 16:00:25:456] Failure: F:\顺天传奇\MirServer\Mir200\map\0149.map could not be loaded.
+[2024-09-15 16:00:25:456] Failure: F:\顺天传奇\MirServer\Mir200\map\0158.map could not be loaded.
+[2024-09-15 16:00:25:456] Failure: F:\顺天传奇\MirServer\Mir200\map\0159.map could not be loaded.
+[2024-09-15 16:00:25:456] Failure: F:\顺天传奇\MirServer\Mir200\map\0160.map could not be loaded.
+[2024-09-15 16:00:25:456] Failure: F:\顺天传奇\MirServer\Mir200\map\0161.map could not be loaded.
+[2024-09-15 16:00:25:462] Failure: F:\顺天传奇\MirServer\Mir200\map\0171.map could not be loaded.
+[2024-09-15 16:00:25:476] Failure: F:\顺天传奇\MirServer\Mir200\map\0152.map could not be loaded.
+[2024-09-15 16:00:25:476] Failure: F:\顺天传奇\MirServer\Mir200\map\0153.map could not be loaded.
+[2024-09-15 16:00:25:476] Failure: F:\顺天传奇\MirServer\Mir200\map\0154.map could not be loaded.
+[2024-09-15 16:00:25:476] Failure: F:\顺天传奇\MirServer\Mir200\map\0155.map could not be loaded.
+[2024-09-15 16:00:25:476] Failure: F:\顺天传奇\MirServer\Mir200\map\0156.map could not be loaded.
+[2024-09-15 16:00:25:476] Failure: F:\顺天传奇\MirServer\Mir200\map\d701.map could not be loaded.
+[2024-09-15 16:00:25:508] Failure: F:\顺天传奇\MirServer\Mir200\map\1001.map could not be loaded.
+[2024-09-15 16:00:25:508] Failure: F:\顺天传奇\MirServer\Mir200\map\1003.map could not be loaded.
+[2024-09-15 16:00:25:508] Failure: F:\顺天传奇\MirServer\Mir200\map\1004.map could not be loaded.
+[2024-09-15 16:00:25:508] Failure: F:\顺天传奇\MirServer\Mir200\map\1005.map could not be loaded.
+[2024-09-15 16:00:25:508] Failure: F:\顺天传奇\MirServer\Mir200\map\1006.map could not be loaded.
+[2024-09-15 16:00:25:508] Failure: F:\顺天传奇\MirServer\Mir200\map\1007.map could not be loaded.
+[2024-09-15 16:00:25:508] Failure: F:\顺天传奇\MirServer\Mir200\map\12.map could not be loaded.
+[2024-09-15 16:00:25:555] Failure: F:\顺天传奇\MirServer\Mir200\map\b342.map could not be loaded.
+[2024-09-15 16:00:25:555] Failure: F:\顺天传奇\MirServer\Mir200\map\b343.map could not be loaded.
+[2024-09-15 16:00:25:555] Failure: F:\顺天传奇\MirServer\Mir200\map\b344.map could not be loaded.
+[2024-09-15 16:00:25:555] Failure: F:\顺天传奇\MirServer\Mir200\map\b345.map could not be loaded.
+[2024-09-15 16:00:25:555] Failure: F:\顺天传奇\MirServer\Mir200\map\b346.map could not be loaded.
+[2024-09-15 16:00:25:555] Failure: F:\顺天传奇\MirServer\Mir200\map\b347.map could not be loaded.
+[2024-09-15 16:00:25:622] Failure: F:\顺天传奇\MirServer\Mir200\map\b351.map could not be loaded.
+[2024-09-15 16:00:25:622] Failure: F:\顺天传奇\MirServer\Mir200\map\b352.map could not be loaded.
+[2024-09-15 16:00:25:622] Failure: F:\顺天传奇\MirServer\Mir200\map\b353.map could not be loaded.
+[2024-09-15 16:00:25:622] Failure: F:\顺天传奇\MirServer\Mir200\map\b354.map could not be loaded.
+[2024-09-15 16:00:25:622] Failure: F:\顺天传奇\MirServer\Mir200\map\b355.map could not be loaded.
+[2024-09-15 16:00:25:622] Failure: F:\顺天传奇\MirServer\Mir200\map\b356.map could not be loaded.
+
+[2024-09-15 16:00:28:771] D701 - secret map not found !!
+[2024-09-15 16:00:28:771] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-23360] 当前Thread:26904
+[2024-09-15 16:00:28:771] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-23360] 当前Thread:26904
+[2024-09-15 16:00:28:771] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-23360] 当前Thread:26904
+[2024-09-15 16:00:28:771] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-23360] 当前Thread:26904
+[2024-09-15 16:00:28:890] ---------------------线程耗时监控
+[2024-09-15 16:00:28:998] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2024-09-15 16:00:29:083] Frame-----------------------------------
+01414c3f +1d8f M2Server.exe svMain          1064 +401 TFrmMain.StartTimerTimer
+0073fdf0 +0020 M2Server.exe Vcl.ExtCtrls    3222   +1 TTimer.Timer
+0073fc18 +0038 M2Server.exe Vcl.ExtCtrls    3180   +4 TTimer.WndProc
+005d68d3 +0023 M2Server.exe System.Classes 18335   +8 StdWndProc
+007d5dbe +012e M2Server.exe Vcl.Forms      11317  +23 TApplication.ProcessMessage
+007d5e33 +0013 M2Server.exe Vcl.Forms      11347   +1 TApplication.HandleMessage
+007d628a +00ea M2Server.exe Vcl.Forms      11486  +27 TApplication.Run
+01420e4d +013d M2Server.exe M2Server         120  +13 initialization
+[2024-09-15 16:00:29:101] MainRunThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 16:00:29:128] EnvirThread 0/0(22016)flag:50000004  lua: 0 CallLua:setenvirontimer 59-----------------------------------
+
+[2024-09-15 16:00:29:179] DbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 16:00:29:196] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 16:00:58:326] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-15 19:20:07:017] Socket Err:10061
+
+[2024-09-15 19:48:57:975] Socket Err:10061
+
+[2024-09-15 19:49:13:957] Failure: F:\顺天传奇\MirServer\Mir200\map\0110.map could not be loaded.
+[2024-09-15 19:49:13:957] Failure: F:\顺天传奇\MirServer\Mir200\map\0111.map could not be loaded.
+[2024-09-15 19:49:13:957] Failure: F:\顺天传奇\MirServer\Mir200\map\0112.map could not be loaded.
+[2024-09-15 19:49:13:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0108.map could not be loaded.
+[2024-09-15 19:49:13:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0109.map could not be loaded.
+[2024-09-15 19:49:13:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0104.map could not be loaded.
+[2024-09-15 19:49:13:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0107.map could not be loaded.
+[2024-09-15 19:49:13:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0125.map could not be loaded.
+[2024-09-15 19:49:13:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0126.map could not be loaded.
+[2024-09-15 19:49:13:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0103.map could not be loaded.
+[2024-09-15 19:49:13:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0105.map could not be loaded.
+[2024-09-15 19:49:13:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0106.map could not be loaded.
+[2024-09-15 19:49:13:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0101.map could not be loaded.
+[2024-09-15 19:49:13:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0100.map could not be loaded.
+[2024-09-15 19:49:13:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0128.map could not be loaded.
+[2024-09-15 19:49:13:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0129.map could not be loaded.
+[2024-09-15 19:49:13:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0123.map could not be loaded.
+[2024-09-15 19:49:13:968] Failure: F:\顺天传奇\MirServer\Mir200\map\0124.map could not be loaded.
+[2024-09-15 19:49:13:974] Failure: F:\顺天传奇\MirServer\Mir200\map\01141.map could not be loaded.
+[2024-09-15 19:49:13:975] Failure: F:\顺天传奇\MirServer\Mir200\map\01142.map could not be loaded.
+[2024-09-15 19:49:13:975] Failure: F:\顺天传奇\MirServer\Mir200\map\0115.map could not be loaded.
+[2024-09-15 19:49:13:975] Failure: F:\顺天传奇\MirServer\Mir200\map\01152.map could not be loaded.
+[2024-09-15 19:49:13:975] Failure: F:\顺天传奇\MirServer\Mir200\map\0113.map could not be loaded.
+[2024-09-15 19:49:13:975] Failure: F:\顺天传奇\MirServer\Mir200\map\01132.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0135.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0134.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0133.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0119.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0118.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0121.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0127.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0130.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0131.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0136.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0132.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0138.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0141.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0140.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\1.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\2.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0116.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0117.map could not be loaded.
+[2024-09-15 19:49:13:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0120.map could not be loaded.
+[2024-09-15 19:49:13:995] Failure: F:\顺天传奇\MirServer\Mir200\map\0142.map could not be loaded.
+[2024-09-15 19:49:13:995] Failure: F:\顺天传奇\MirServer\Mir200\map\d401.map could not be loaded.
+[2024-09-15 19:49:13:995] Failure: F:\顺天传奇\MirServer\Mir200\map\d411.map could not be loaded.
+[2024-09-15 19:49:13:995] Failure: F:\顺天传奇\MirServer\Mir200\map\d413.map could not be loaded.
+[2024-09-15 19:49:13:995] Failure: F:\顺天传奇\MirServer\Mir200\map\d402.map could not be loaded.
+[2024-09-15 19:49:13:995] Failure: F:\顺天传奇\MirServer\Mir200\map\d414.map could not be loaded.
+[2024-09-15 19:49:13:995] Failure: F:\顺天传奇\MirServer\Mir200\map\d403.map could not be loaded.
+[2024-09-15 19:49:13:995] Failure: F:\顺天传奇\MirServer\Mir200\map\d412.map could not be loaded.
+[2024-09-15 19:49:13:995] Failure: F:\顺天传奇\MirServer\Mir200\map\d404.map could not be loaded.
+[2024-09-15 19:49:14:000] Failure: F:\顺天传奇\MirServer\Mir200\map\d405.map could not be loaded.
+[2024-09-15 19:49:14:000] Failure: F:\顺天传奇\MirServer\Mir200\map\d415.map could not be loaded.
+[2024-09-15 19:49:14:000] Failure: F:\顺天传奇\MirServer\Mir200\map\d406.map could not be loaded.
+[2024-09-15 19:49:14:106] Failure: F:\顺天传奇\MirServer\Mir200\map\0143.map could not be loaded.
+[2024-09-15 19:49:14:106] Failure: F:\顺天传奇\MirServer\Mir200\map\0144.map could not be loaded.
+[2024-09-15 19:49:14:106] Failure: F:\顺天传奇\MirServer\Mir200\map\0145.map could not be loaded.
+[2024-09-15 19:49:14:106] Failure: F:\顺天传奇\MirServer\Mir200\map\0146.map could not be loaded.
+[2024-09-15 19:49:14:106] Failure: F:\顺天传奇\MirServer\Mir200\map\0147.map could not be loaded.
+[2024-09-15 19:49:14:106] Failure: F:\顺天传奇\MirServer\Mir200\map\0149.map could not be loaded.
+[2024-09-15 19:49:14:106] Failure: F:\顺天传奇\MirServer\Mir200\map\0158.map could not be loaded.
+[2024-09-15 19:49:14:106] Failure: F:\顺天传奇\MirServer\Mir200\map\0159.map could not be loaded.
+[2024-09-15 19:49:14:106] Failure: F:\顺天传奇\MirServer\Mir200\map\0160.map could not be loaded.
+[2024-09-15 19:49:14:106] Failure: F:\顺天传奇\MirServer\Mir200\map\0161.map could not be loaded.
+[2024-09-15 19:49:14:115] Failure: F:\顺天传奇\MirServer\Mir200\map\0171.map could not be loaded.
+[2024-09-15 19:49:14:130] Failure: F:\顺天传奇\MirServer\Mir200\map\0152.map could not be loaded.
+[2024-09-15 19:49:14:130] Failure: F:\顺天传奇\MirServer\Mir200\map\0153.map could not be loaded.
+[2024-09-15 19:49:14:130] Failure: F:\顺天传奇\MirServer\Mir200\map\0154.map could not be loaded.
+[2024-09-15 19:49:14:130] Failure: F:\顺天传奇\MirServer\Mir200\map\0155.map could not be loaded.
+[2024-09-15 19:49:14:130] Failure: F:\顺天传奇\MirServer\Mir200\map\0156.map could not be loaded.
+[2024-09-15 19:49:14:130] Failure: F:\顺天传奇\MirServer\Mir200\map\d701.map could not be loaded.
+[2024-09-15 19:49:14:161] Failure: F:\顺天传奇\MirServer\Mir200\map\1001.map could not be loaded.
+[2024-09-15 19:49:14:162] Failure: F:\顺天传奇\MirServer\Mir200\map\1003.map could not be loaded.
+[2024-09-15 19:49:14:162] Failure: F:\顺天传奇\MirServer\Mir200\map\1004.map could not be loaded.
+[2024-09-15 19:49:14:162] Failure: F:\顺天传奇\MirServer\Mir200\map\1005.map could not be loaded.
+[2024-09-15 19:49:14:162] Failure: F:\顺天传奇\MirServer\Mir200\map\1006.map could not be loaded.
+[2024-09-15 19:49:14:162] Failure: F:\顺天传奇\MirServer\Mir200\map\1007.map could not be loaded.
+[2024-09-15 19:49:14:162] Failure: F:\顺天传奇\MirServer\Mir200\map\12.map could not be loaded.
+[2024-09-15 19:49:14:210] Failure: F:\顺天传奇\MirServer\Mir200\map\b342.map could not be loaded.
+[2024-09-15 19:49:14:210] Failure: F:\顺天传奇\MirServer\Mir200\map\b343.map could not be loaded.
+[2024-09-15 19:49:14:210] Failure: F:\顺天传奇\MirServer\Mir200\map\b344.map could not be loaded.
+[2024-09-15 19:49:14:210] Failure: F:\顺天传奇\MirServer\Mir200\map\b345.map could not be loaded.
+[2024-09-15 19:49:14:210] Failure: F:\顺天传奇\MirServer\Mir200\map\b346.map could not be loaded.
+[2024-09-15 19:49:14:210] Failure: F:\顺天传奇\MirServer\Mir200\map\b347.map could not be loaded.
+[2024-09-15 19:49:14:277] Failure: F:\顺天传奇\MirServer\Mir200\map\b351.map could not be loaded.
+[2024-09-15 19:49:14:277] Failure: F:\顺天传奇\MirServer\Mir200\map\b352.map could not be loaded.
+[2024-09-15 19:49:14:277] Failure: F:\顺天传奇\MirServer\Mir200\map\b353.map could not be loaded.
+[2024-09-15 19:49:14:277] Failure: F:\顺天传奇\MirServer\Mir200\map\b354.map could not be loaded.
+[2024-09-15 19:49:14:277] Failure: F:\顺天传奇\MirServer\Mir200\map\b355.map could not be loaded.
+[2024-09-15 19:49:14:277] Failure: F:\顺天传奇\MirServer\Mir200\map\b356.map could not be loaded.
+
+[2024-09-15 19:49:17:867] D701 - secret map not found !!
+[2024-09-15 19:49:17:867] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-7128] 当前Thread:13180
+[2024-09-15 19:49:17:867] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-7128] 当前Thread:13180
+[2024-09-15 19:49:17:867] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-7128] 当前Thread:13180
+[2024-09-15 19:49:17:867] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-7128] 当前Thread:13180
+[2024-09-15 19:49:17:986] ---------------------线程耗时监控
+[2024-09-15 19:49:18:059] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2024-09-15 19:49:18:154] Frame-----------------------------------
+01414c3f +1d8f M2Server.exe svMain          1064 +401 TFrmMain.StartTimerTimer
+0073fdf0 +0020 M2Server.exe Vcl.ExtCtrls    3222   +1 TTimer.Timer
+0073fc18 +0038 M2Server.exe Vcl.ExtCtrls    3180   +4 TTimer.WndProc
+005d68d3 +0023 M2Server.exe System.Classes 18335   +8 StdWndProc
+007d5dbe +012e M2Server.exe Vcl.Forms      11317  +23 TApplication.ProcessMessage
+007d5e33 +0013 M2Server.exe Vcl.Forms      11347   +1 TApplication.HandleMessage
+007d628a +00ea M2Server.exe Vcl.Forms      11486  +27 TApplication.Run
+01420e4d +013d M2Server.exe M2Server         120  +13 initialization
+[2024-09-15 19:49:18:174] MainRunThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 19:49:18:189] EnvirThread 0/0(22688)flag:50000004  lua: 0 CallLua:require 24-----------------------------------
+01293133 +33 M2Server.exe ObjBase 10373 +1 TAnimalObject.Create
+00e8b9d3 +33 M2Server.exe ObjMon   1537 +1 TGasAttackMonster.Create
+00e8fa93 +33 M2Server.exe ObjMon   2627 +1 TGasMothMonster.Create
+[2024-09-15 19:49:18:208] DbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 19:49:18:227] BoxSellDbThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 19:49:49:743] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-15 21:43:15:696] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-15 21:43:34:326] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-15 21:44:26:071] Socket Err:10061
+
+[2024-09-15 21:44:41:754] Failure: F:\顺天传奇\MirServer\Mir200\map\0110.map could not be loaded.
+[2024-09-15 21:44:41:754] Failure: F:\顺天传奇\MirServer\Mir200\map\0111.map could not be loaded.
+[2024-09-15 21:44:41:754] Failure: F:\顺天传奇\MirServer\Mir200\map\0112.map could not be loaded.
+[2024-09-15 21:44:41:765] Failure: F:\顺天传奇\MirServer\Mir200\map\0108.map could not be loaded.
+[2024-09-15 21:44:41:765] Failure: F:\顺天传奇\MirServer\Mir200\map\0109.map could not be loaded.
+[2024-09-15 21:44:41:765] Failure: F:\顺天传奇\MirServer\Mir200\map\0104.map could not be loaded.
+[2024-09-15 21:44:41:765] Failure: F:\顺天传奇\MirServer\Mir200\map\0107.map could not be loaded.
+[2024-09-15 21:44:41:765] Failure: F:\顺天传奇\MirServer\Mir200\map\0125.map could not be loaded.
+[2024-09-15 21:44:41:765] Failure: F:\顺天传奇\MirServer\Mir200\map\0126.map could not be loaded.
+[2024-09-15 21:44:41:765] Failure: F:\顺天传奇\MirServer\Mir200\map\0103.map could not be loaded.
+[2024-09-15 21:44:41:765] Failure: F:\顺天传奇\MirServer\Mir200\map\0105.map could not be loaded.
+[2024-09-15 21:44:41:765] Failure: F:\顺天传奇\MirServer\Mir200\map\0106.map could not be loaded.
+[2024-09-15 21:44:41:765] Failure: F:\顺天传奇\MirServer\Mir200\map\0101.map could not be loaded.
+[2024-09-15 21:44:41:765] Failure: F:\顺天传奇\MirServer\Mir200\map\0100.map could not be loaded.
+[2024-09-15 21:44:41:765] Failure: F:\顺天传奇\MirServer\Mir200\map\0128.map could not be loaded.
+[2024-09-15 21:44:41:765] Failure: F:\顺天传奇\MirServer\Mir200\map\0129.map could not be loaded.
+[2024-09-15 21:44:41:765] Failure: F:\顺天传奇\MirServer\Mir200\map\0123.map could not be loaded.
+[2024-09-15 21:44:41:765] Failure: F:\顺天传奇\MirServer\Mir200\map\0124.map could not be loaded.
+[2024-09-15 21:44:41:789] Failure: F:\顺天传奇\MirServer\Mir200\map\01141.map could not be loaded.
+[2024-09-15 21:44:41:789] Failure: F:\顺天传奇\MirServer\Mir200\map\01142.map could not be loaded.
+[2024-09-15 21:44:41:789] Failure: F:\顺天传奇\MirServer\Mir200\map\0115.map could not be loaded.
+[2024-09-15 21:44:41:789] Failure: F:\顺天传奇\MirServer\Mir200\map\01152.map could not be loaded.
+[2024-09-15 21:44:41:789] Failure: F:\顺天传奇\MirServer\Mir200\map\0113.map could not be loaded.
+[2024-09-15 21:44:41:789] Failure: F:\顺天传奇\MirServer\Mir200\map\01132.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0135.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0134.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0133.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0119.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0118.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0121.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0127.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0130.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0131.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0136.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0132.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0138.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0141.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0140.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\1.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\2.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0116.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0117.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0120.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\0142.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\d401.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\d411.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\d413.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\d402.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\d414.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\d403.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\d412.map could not be loaded.
+[2024-09-15 21:44:41:825] Failure: F:\顺天传奇\MirServer\Mir200\map\d404.map could not be loaded.
+[2024-09-15 21:44:41:848] Failure: F:\顺天传奇\MirServer\Mir200\map\d405.map could not be loaded.
+[2024-09-15 21:44:41:848] Failure: F:\顺天传奇\MirServer\Mir200\map\d415.map could not be loaded.
+[2024-09-15 21:44:41:848] Failure: F:\顺天传奇\MirServer\Mir200\map\d406.map could not be loaded.
+[2024-09-15 21:44:41:961] Failure: F:\顺天传奇\MirServer\Mir200\map\0143.map could not be loaded.
+[2024-09-15 21:44:41:961] Failure: F:\顺天传奇\MirServer\Mir200\map\0144.map could not be loaded.
+[2024-09-15 21:44:41:961] Failure: F:\顺天传奇\MirServer\Mir200\map\0145.map could not be loaded.
+[2024-09-15 21:44:41:961] Failure: F:\顺天传奇\MirServer\Mir200\map\0146.map could not be loaded.
+[2024-09-15 21:44:41:961] Failure: F:\顺天传奇\MirServer\Mir200\map\0147.map could not be loaded.
+[2024-09-15 21:44:41:974] Failure: F:\顺天传奇\MirServer\Mir200\map\0149.map could not be loaded.
+[2024-09-15 21:44:41:974] Failure: F:\顺天传奇\MirServer\Mir200\map\0158.map could not be loaded.
+[2024-09-15 21:44:41:974] Failure: F:\顺天传奇\MirServer\Mir200\map\0159.map could not be loaded.
+[2024-09-15 21:44:41:974] Failure: F:\顺天传奇\MirServer\Mir200\map\0160.map could not be loaded.
+[2024-09-15 21:44:41:974] Failure: F:\顺天传奇\MirServer\Mir200\map\0161.map could not be loaded.
+[2024-09-15 21:44:41:980] Failure: F:\顺天传奇\MirServer\Mir200\map\0171.map could not be loaded.
+[2024-09-15 21:44:41:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0152.map could not be loaded.
+[2024-09-15 21:44:41:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0153.map could not be loaded.
+[2024-09-15 21:44:41:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0154.map could not be loaded.
+[2024-09-15 21:44:41:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0155.map could not be loaded.
+[2024-09-15 21:44:41:994] Failure: F:\顺天传奇\MirServer\Mir200\map\0156.map could not be loaded.
+[2024-09-15 21:44:41:994] Failure: F:\顺天传奇\MirServer\Mir200\map\d701.map could not be loaded.
+[2024-09-15 21:44:42:025] Failure: F:\顺天传奇\MirServer\Mir200\map\1001.map could not be loaded.
+[2024-09-15 21:44:42:026] Failure: F:\顺天传奇\MirServer\Mir200\map\1003.map could not be loaded.
+[2024-09-15 21:44:42:026] Failure: F:\顺天传奇\MirServer\Mir200\map\1004.map could not be loaded.
+[2024-09-15 21:44:42:026] Failure: F:\顺天传奇\MirServer\Mir200\map\1005.map could not be loaded.
+[2024-09-15 21:44:42:026] Failure: F:\顺天传奇\MirServer\Mir200\map\1006.map could not be loaded.
+[2024-09-15 21:44:42:026] Failure: F:\顺天传奇\MirServer\Mir200\map\1007.map could not be loaded.
+[2024-09-15 21:44:42:026] Failure: F:\顺天传奇\MirServer\Mir200\map\12.map could not be loaded.
+[2024-09-15 21:44:42:851] Failure: F:\顺天传奇\MirServer\Mir200\map\b342.map could not be loaded.
+[2024-09-15 21:44:42:851] Failure: F:\顺天传奇\MirServer\Mir200\map\b343.map could not be loaded.
+[2024-09-15 21:44:42:851] Failure: F:\顺天传奇\MirServer\Mir200\map\b344.map could not be loaded.
+[2024-09-15 21:44:42:851] Failure: F:\顺天传奇\MirServer\Mir200\map\b345.map could not be loaded.
+[2024-09-15 21:44:42:851] Failure: F:\顺天传奇\MirServer\Mir200\map\b346.map could not be loaded.
+[2024-09-15 21:44:42:851] Failure: F:\顺天传奇\MirServer\Mir200\map\b347.map could not be loaded.
+[2024-09-15 21:44:42:924] Failure: F:\顺天传奇\MirServer\Mir200\map\b351.map could not be loaded.
+[2024-09-15 21:44:42:924] Failure: F:\顺天传奇\MirServer\Mir200\map\b352.map could not be loaded.
+[2024-09-15 21:44:42:924] Failure: F:\顺天传奇\MirServer\Mir200\map\b353.map could not be loaded.
+[2024-09-15 21:44:42:924] Failure: F:\顺天传奇\MirServer\Mir200\map\b354.map could not be loaded.
+[2024-09-15 21:44:42:924] Failure: F:\顺天传奇\MirServer\Mir200\map\b355.map could not be loaded.
+[2024-09-15 21:44:42:924] Failure: F:\顺天传奇\MirServer\Mir200\map\b356.map could not be loaded.
+
+[2024-09-15 21:44:45:989] D701 - secret map not found !!
+[2024-09-15 21:44:45:989] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-25768] 当前Thread:13392
+[2024-09-15 21:44:45:989] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-25768] 当前Thread:13392
+[2024-09-15 21:44:45:989] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-25768] 当前Thread:13392
+[2024-09-15 21:44:45:989] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-25768] 当前Thread:13392
+[2024-09-15 21:44:46:087] ---------------------线程耗时监控
+[2024-09-15 21:44:46:174] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2024-09-15 21:44:46:262] Frame-----------------------------------
+01414c3f +1d8f M2Server.exe svMain          1064 +401 TFrmMain.StartTimerTimer
+0073fdf0 +0020 M2Server.exe Vcl.ExtCtrls    3222   +1 TTimer.Timer
+0073fc18 +0038 M2Server.exe Vcl.ExtCtrls    3180   +4 TTimer.WndProc
+005d68d3 +0023 M2Server.exe System.Classes 18335   +8 StdWndProc
+007d5dbe +012e M2Server.exe Vcl.Forms      11317  +23 TApplication.ProcessMessage
+007d5e33 +0013 M2Server.exe Vcl.Forms      11347   +1 TApplication.HandleMessage
+007d628a +00ea M2Server.exe Vcl.Forms      11486  +27 TApplication.Run
+01420e4d +013d M2Server.exe M2Server         120  +13 initialization
+[2024-09-15 21:44:46:286] MainRunThread(16)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 21:44:46:324] EnvirThread 0/0(22687)flag:50000004  lua: 0 CallLua:setenvirontimer 59-----------------------------------
+004074b4 +034 M2Server.exe System           920  +11 LockMediumBlocks
+00407c8a +28a M2Server.exe System          2647 +711 SysGetMem
+004093de +00e M2Server.exe System          4902   +3 @GetMem
+0040f9bc +00c M2Server.exe System         17951   +1 TObject.NewInstance
+004105fe +00e M2Server.exe System         19268   +2 @ClassCreate
+00dafa33 +913 M2Server.exe MonManage        544 +114 TMonManage.AddBaseObject
+00daeb1f +24f M2Server.exe MonManage        347  +89 TMonManage.RegenMonsters
+00db1003 +5a3 M2Server.exe MonManage        934  +80 TMonManage.Run
+010f36a0 +140 M2Server.exe Envir            819  +25 TEnvirnoment.Run
+00ec7902 +982 M2Server.exe uThread_Envir    594 +121 TEnvirThread.OnRun
+0088bc13 +113 M2Server.exe uThreadPools     170  +17 TThreadPool.ThreadProc
+0088b7c6 +026 M2Server.exe uThreadPools      70   +2 TMyThread.Execute
+005d08a0 +040 M2Server.exe System.Classes 15686  +18 ThreadProc
+00412c8a +03a M2Server.exe System         25373   +9 ThreadWrapper
+[2024-09-15 21:44:46:341] DbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+[2024-09-15 21:44:46:360] BoxSellDbThread(0)-----------------------------------
+0088bbee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+0088b7c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+005d08a0 +40 M2Server.exe System.Classes 15686 +18 ThreadProc
+00412c8a +3a M2Server.exe System         25373  +9 ThreadWrapper
+
+[2024-09-15 21:45:05:587] [Exception] TUserEngine::ProcessHumans run Except：'1,2,3,4,5,6,7,8,9,10' is not a valid floating point value[0000000001203861] JclDebug._ZN8Jcldebug17TJclStackInfoListC3EbiPvbS1_S1_ (Line 5510, "JclDebug.pas" + 34)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F5050] JclHookExcept._ZN13Jclhookexcept20HookedRaiseExceptionEjjjPNS_19TExceptionArgumentsE (Line 381, "JclHookExcept.pas" + 14)
+[00000000004120B3] System._ZN6System14_RaiseAtExceptEPNS_7TObjectEPv (Line 22049, "System.pas" + 32)
+[00000000004120D1] System._ZN6System12_RaiseExceptEPNS_7TObjectE (Line 22138, "System.pas" + 2)
+[000000000047E7D2] System.SysUtils._ZN6System8Sysutils15ConvertErrorFmtEPNS_13TResStringRecEPKNS_7TVarRecEi (Line 5674, "System.SysUtils.pas" + 2)
+[000000000048683D] System.SysUtils._ZN6System8Sysutils10StrToFloatENS_13UnicodeStringERKNS0_15TFormatSettingsE (Line 19060, "System.SysUtils.pas" + 3)
+[0000000000A719E1] JsonDataObjects._ZN15Jsondataobjects14TJsonDataValue11GetIntValueEv (Line 2506, "JsonDataObjects.pas" + 6)
+[0000000000A7573E] JsonDataObjects._ZN15Jsondataobjects11TJsonObject6GetIntEN6System13UnicodeStringE (Line 4618, "JsonDataObjects.pas" + 2)
+[0000000001301069] ObjPlay._ZN7Objplay11TPlayObject11ClientSetupEN6System13UnicodeStringE (Line 16501, "ObjPlay.pas" + 8)
+[00000000012C1522] ObjPlay._ZN7Objplay11TPlayObject7OperateEPN7Grobal215TProcessMessageE (Line 3657, "ObjPlay.pas" + 456)
+[00000000012B771E] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 1806, "ObjPlay.pas" + 11)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-15 22:55:32:294] [Exception] TBaseObject::Die 2 Except：Access violation at address 000000000126FF30 in module 'M2Server.exe'. Read of address 0000000000000280[000000000126FF30] ObjBase._ZN7Objbase11TBaseObject11CheckPlayerEv (Line 2793, "ObjBase.pas" + 1)
+[00000000012030B2] JclDebug._ZN8Jcldebug18JclCreateStackListEbiPvbS0_ (Line 5351, "JclDebug.pas" + 1)
+[0000000001202F94] JclDebug._ZN8Jcldebug21DoExceptionStackTraceEPN6System7TObjectEPvbS3_ (Line 5292, "JclDebug.pas" + 20)
+[00000000012060A8] JclDebug._ZN8Jcldebug14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 6742, "JclDebug.pas" + 7)
+[00000000011F4C82] JclHookExcept._ZN13Jclhookexcept13TNotifierItem8DoNotifyEPN6System7TObjectEPvbS4_ (Line 272, "JclHookExcept.pas" + 5)
+[00000000011F4EEB] JclHookExcept._ZN13Jclhookexcept14DoExceptNotifyEPN6System7TObjectEPvbS3_ (Line 339, "JclHookExcept.pas" + 13)
+[00000000011F50B1] JclHookExcept._ZN13Jclhookexcept19HookedExceptObjProcEPN6System16TExceptionRecordE (Line 395, "JclHookExcept.pas" + 5)
+[0000000000506076] madExcept._ZN9Madexcept17MyExceptObjProc64EPN8Madtypes16TExceptionRecordE
+[0000000000411817] System._ZN6System23_DelphiExceptionHandlerEPNS_16TExceptionRecordEyPvS2_ (Line 20765, "System.pas" + 53)
+[0000000000506021] madExcept._ZN9Madexcept30DelphiExceptionHandlerCallbackEPN8Madtypes16TExceptionRecordEyP8_CONTEXTPv
+[00007FFD8359111F] Unknown function at __chkstk
+[00007FFD8353B474] RtlRaiseException
+[00007FFD8358FC4E] KiUserExceptionDispatcher
+[000000000126FF30] ObjBase._ZN7Objbase11TBaseObject11CheckPlayerEv (Line 2793, "ObjBase.pas" + 1)
+[000000000132269D] ObjPlay._ZN7Objplay11TPlayObject3DieEv (Line 23597, "ObjPlay.pas" + 90)
+[0000000001267D2F] ObjBase._ZN7Objbase11TBaseObject3RunEv (Line 1215, "ObjBase.pas" + 365)
+[0000000001293285] ObjBase._ZN7Objbase13TAnimalObject3RunEv (Line 10390, "ObjBase.pas" + 2)
+[00000000012BC868] ObjPlay._ZN7Objplay11TPlayObject3RunEv (Line 2939, "ObjPlay.pas" + 1144)
+[00000000010E5B2A] PlayManage._ZN10Playmanage12TPlayManager9RunPlayerEv (Line 200, "playManage.pas" + 92)
+[00000000010E55CA] PlayManage._ZN10Playmanage12TPlayManager3RunEv (Line 78, "playManage.pas" + 2)
+[00000000010F364D] Envir._ZN5Envir12TEnvirnoment3RunEv (Line 811, "Envir.pas" + 17)
+[0000000000EC7907] uThread_Envir._ZN13Uthread_envir12TEnvirThread5OnRunEv (Line 594, "uThread_Envir.pas" + 121)
+[000000000088BC16] uThreadPools._ZN12Uthreadpools11TThreadPool10ThreadProcEv (Line 171, "uThreadPools.pas" + 18)
+[000000000088B7CB] uThreadPools._ZN12Uthreadpools9TMyThread7ExecuteEv (Line 71, "uThreadPools.pas" + 3)
+[0000000000506D3A] madExcept._ZN9Madexcept20HookedTThreadExecuteEPvS0_
+[00000000005D08A3] System.Classes._ZN6System7Classes10ThreadProcEPNS0_7TThreadE (Line 15686, "System.Classes.pas" + 18)
+[0000000000412C8D] System._ZN6System13ThreadWrapperEPv (Line 25373, "System.pas" + 9)
+[0000000000506C0F] madExcept._ZN9Madexcept17ThreadExceptFrameEPNS_11TThreadInfoE
+[00007FFD823D6FD4] BaseThreadInitThunk
+[00007FFD8353CEC1] RtlUserThreadStart
+
+
+[2024-09-16 01:04:26:023] Socket Err:10061
+
+[2024-09-16 04:24:26:023] Socket Err:10061
+
+[2024-09-16 07:44:26:026] Socket Err:10061
+
+[2024-09-16 11:04:26:021] Socket Err:10061
+
+[2024-09-16 14:24:26:023] Socket Err:10061
+
+[2024-09-16 17:44:26:018] Socket Err:10061
+
+[2024-09-16 21:04:26:030] Socket Err:10061
+
+[2024-09-17 00:24:26:037] Socket Err:10061
+
+[2024-09-17 03:44:26:026] Socket Err:10061
+
+[2024-09-17 07:04:26:040] Socket Err:10061
+
+[2024-09-17 10:24:26:013] Socket Err:10061
+
+[2024-09-17 13:44:26:027] Socket Err:10061
+
+[2024-09-17 17:04:26:023] Socket Err:10061
+
+[2024-09-17 20:24:26:032] Socket Err:10061
+
+[2024-09-17 23:44:26:035] Socket Err:10061
+
+[2024-09-18 03:04:26:019] Socket Err:10061
+
+[2024-09-18 06:24:26:026] Socket Err:10061
+
+[2024-09-18 09:44:26:028] Socket Err:10061
+
+[2024-09-18 13:04:26:046] Socket Err:10061
+

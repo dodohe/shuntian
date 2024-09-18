@@ -1,0 +1,12 @@
+[2024-09-12 16:42:43:099] NPC:[四象之力]\伏羲 ID:4 脚本执行 @MAIN player:玩家名字 耗时:32; NpcThreadId:25692, CurPlayThreadId:25692
+C(T/C)=
+A(T/C)=773-32/1/ 
+
+[2024-09-12 18:56:17:891] NPC:天星师 ID:2 脚本执行 @MAIN player:玩家名字 耗时:31; NpcThreadId:25692, CurPlayThreadId:25692
+C(T/C)=
+A(T/C)=773-31/1/ 
+
+[2024-09-12 22:34:53:261] NPC:装备增幅 ID:114 脚本执行 @MAIN player:玩家名字 耗时:31; NpcThreadId:25764, CurPlayThreadId:25764
+C(T/C)=
+A(T/C)=773-31/1/ 
+

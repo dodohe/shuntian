@@ -1,0 +1,29 @@
+[2024-09-15 17:01:52:331] LuaNPC:玩家名字 ID:999999999 执行 takeoffex player:玩家名字 耗时：188; NpcThreadId: 23360, CurPlayThreadId: 23360
+
+[2024-09-15 19:35:38:897] >>>>>>HumTime id:0  onTimer1-16 
+
+[2024-09-15 21:16:28:324] LuaNPC:玩家名字 ID:999999999 执行 takeonex player:玩家名字 耗时：47; NpcThreadId: 7128, CurPlayThreadId: 7128
+
+[2024-09-15 21:24:53:171] LuaNPC:玩家名字 ID:999999999 执行 takeoffex player:玩家名字 耗时：157; NpcThreadId: 7128, CurPlayThreadId: 7128
+
+[2024-09-15 21:32:47:594] Func Fail, obj is nil: GetBaseInfo Chrid:  Npc:  tc:stack traceback:
+	[C]: in function 'getbaseinfo'
+	F:\顺天传奇\MirServer\Mir200\Envir/Market_Def/zh.lua:184: in function 'getname'
+	...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2752: in function <...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2750>
+[2024-09-15 21:32:47:594] Func Fail, obj is nil: GetBaseInfo Chrid:  Npc:  tc:stack traceback:
+	[C]: in function 'getbaseinfo'
+	F:\顺天传奇\MirServer\Mir200\Envir/Market_Def/zh.lua:184: in function 'getname'
+	...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2752: in function <...奇\MirServer\Mir200\Envir\Market_Def\QFunction-0.lua:2750>
+
+[2024-09-15 21:46:25:635] LuaNPC:玩家名字 ID:999999999 执行 takeonex player:玩家名字 耗时：31; NpcThreadId: 25768, CurPlayThreadId: 25768
+
+[2024-09-16 02:57:46:287] >>>>>>HumTime id:0  onTimer1-16 
+
+[2024-09-16 05:02:38:365] >>>>>>HumTime id:0  onTimer1-16 
+
+[2024-09-16 16:18:43:302] >>>>>>HumTime id:0  onTimer1-15 
+
+[2024-09-17 00:00:00:247] LuaNPC:玩家名字 ID:999999999 执行 resetday player:玩家名字 耗时：31; NpcThreadId: 25768, CurPlayThreadId: 25768
+
+[2024-09-17 11:49:47:736] LuaNPC:玩家名字 ID:999999999 执行 magselffunc25 player:玩家名字 耗时：31; NpcThreadId: 25768, CurPlayThreadId: 25768
+

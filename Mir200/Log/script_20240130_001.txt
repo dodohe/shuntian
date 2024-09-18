@@ -1,0 +1,380 @@
+[2024-01-30 17:03:41:306] LuaNPC:玩家名字 ID:999999999 执行 takeonex player:玩家名字 耗时：94; NpcThreadId: 15832, CurPlayThreadId: 15832
+
+[2024-01-30 17:12:27:551] LuaNPC:玩家名字 ID:999999999 执行 takeonex player:玩家名字 耗时：63; NpcThreadId: 15832, CurPlayThreadId: 15832
+[2024-01-30 17:12:27:551] LuaNPC:玩家名字 ID:999999999 执行 playlevelup player:玩家名字 耗时：78; NpcThreadId: 15832, CurPlayThreadId: 15832
+
+[2024-01-30 17:13:04:714] LuaNPC:玩家名字 ID:999999999 执行 tubiao_gongzonghao player:玩家名字 耗时：31; NpcThreadId: 15832, CurPlayThreadId: 15832
+
+[2024-01-30 17:14:03:089] NPC:「武林至尊」 ID:21 脚本执行 @MAIN player:玩家名字 耗时:31; NpcThreadId:15832, CurPlayThreadId:15832
+C(T/C)=
+A(T/C)=773-31/1/ 
+
+[2024-01-30 17:14:31:769] NPC:[奇经八脉]\孙思邈 ID:12 脚本执行 @MAIN player:玩家名字 耗时:32; NpcThreadId:15832, CurPlayThreadId:15832
+C(T/C)=
+A(T/C)=773-32/1/ 
+
+[2024-01-30 17:26:25:727] LuaNPC:阿斯顿 ID:999999999 执行 takeonex player:阿斯顿 耗时：31; NpcThreadId: 17228, CurPlayThreadId: 17228
+
+[2024-01-30 17:39:27:207] LuaNPC:阿瑟东 ID:999999999 执行 tubiao_shousha player:阿瑟东 耗时：47; NpcThreadId: 17232, CurPlayThreadId: 17232
+[2024-01-30 17:39:28:070] LuaNPC:阿瑟东 ID:999999999 执行 tubiao_libao player:阿瑟东 耗时：32; NpcThreadId: 17232, CurPlayThreadId: 17232
+[2024-01-30 17:39:29:953] LuaNPC:阿瑟东 ID:999999999 执行 tubiao_gonglue player:阿瑟东 耗时：62; NpcThreadId: 17232, CurPlayThreadId: 17232
+
+[2024-01-30 17:41:10:934] LuaNPC:阿瑟东 ID:999999999 执行 struckdamage player:阿瑟东 耗时：31; NpcThreadId: 17232, CurPlayThreadId: 17232
+
+[2024-01-30 17:41:17:105] LuaNPC:阿瑟东 ID:999999999 执行 takeoffex player:阿瑟东 耗时：31; NpcThreadId: 17232, CurPlayThreadId: 17232
+[2024-01-30 17:41:17:160] LuaNPC:阿瑟东 ID:999999999 执行 takeonex player:阿瑟东 耗时：47; NpcThreadId: 17232, CurPlayThreadId: 17232
+[2024-01-30 17:41:17:167] LuaNPC:阿瑟东 ID:999999999 执行 playlevelup player:阿瑟东 耗时：93; NpcThreadId: 17232, CurPlayThreadId: 17232
+
+[2024-01-30 17:41:32:932] NPC:[奇经八脉]\孙思邈 ID:12 脚本执行 @MAIN player:阿瑟东 耗时:31; NpcThreadId:17232, CurPlayThreadId:17232
+C(T/C)=
+A(T/C)=773-31/1/ 
+
+[2024-01-30 17:41:37:747] NPC:江湖救急 ID:49 脚本执行 @MAIN player:阿瑟东 耗时:31; NpcThreadId:17232, CurPlayThreadId:17232
+C(T/C)=
+A(T/C)=773-31/1/ 
+
+[2024-01-30 17:43:34:880] LuaNPC:老板来了 ID:999999999 执行 takeonex player:老板来了 耗时：31; NpcThreadId: 17232, CurPlayThreadId: 17232
+[2024-01-30 17:43:34:881] LuaNPC:老板来了 ID:999999999 执行 playlevelup player:老板来了 耗时：47; NpcThreadId: 17232, CurPlayThreadId: 17232
+
+[2024-01-30 17:43:37:930] LuaNPC:老板来了 ID:999999999 执行 tubiao_huodong player:老板来了 耗时：31; NpcThreadId: 17232, CurPlayThreadId: 17232
+
+[2024-01-30 17:45:04:227] NPC:七星塔 ID:25 脚本执行 @MAIN player:老板来了 耗时:47; NpcThreadId:17232, CurPlayThreadId:17232
+C(T/C)=
+A(T/C)=773-47/1/ 
+
+[2024-01-30 17:45:09:252] NPC:剑指沙城 ID:88 脚本执行 @MAIN player:老板来了 耗时:31; NpcThreadId:17232, CurPlayThreadId:17232
+C(T/C)=
+A(T/C)=773-31/1/ 
+
+[2024-01-30 17:45:33:202] NPC:技能传承者 ID:16 脚本执行 @MAIN player:老板来了 耗时:31; NpcThreadId:17232, CurPlayThreadId:17232
+C(T/C)=
+A(T/C)=773-31/1/ 
+
+[2024-01-30 17:45:46:780] NPC:驯兽师 ID:46 脚本执行 @MAIN player:老板来了 耗时:31; NpcThreadId:17232, CurPlayThreadId:17232
+C(T/C)=
+A(T/C)=773-31/1/ 
+
+[2024-01-30 18:37:41:878] NPC:武器合成 ID:42 脚本执行 @MAIN player:老板来了 耗时:31; NpcThreadId:15324, CurPlayThreadId:15324
+C(T/C)=
+A(T/C)=773-31/1/ 
+
+[2024-01-30 18:38:52:504] NPC:比奇国王 ID:1 脚本执行 @MAIN player:老板来了 耗时:47; NpcThreadId:15324, CurPlayThreadId:15324
+C(T/C)=
+A(T/C)=773-47/1/ 
+
+[2024-01-30 18:39:03:529] NPC:比奇传送员 ID:75 脚本执行 @MAIN player:老板来了 耗时:31; NpcThreadId:15324, CurPlayThreadId:15324
+C(T/C)=
+A(T/C)=773-31/1/ 
+
+[2024-01-30 22:31:09:083] LuaNPC:东风股份 ID:999999999 执行 takeonex player:东风股份 耗时：31; NpcThreadId: 8108, CurPlayThreadId: 8108
+[2024-01-30 22:31:09:084] LuaNPC:东风股份 ID:999999999 执行 playlevelup player:东风股份 耗时：47; NpcThreadId: 8108, CurPlayThreadId: 8108
+
+[2024-01-30 22:46:56:741] >>>Lua跨线程调用[QFunction]-pkpointchanged:8108-24048
+[2024-01-30 22:46:56:741] >>>Lua跨线程调用[QFunction]-moneychange2:8108-24048
+[2024-01-30 22:46:56:741] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetConst
+[2024-01-30 22:46:56:741] Func Fail, obj is nil: GetConst Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getconst'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:316: in function 'getispc'
+	...\MirServer\Mir200\Envir/Market_Def/denglujiemian.lua:717: in function 'bagxianshi'
+	.\Envir\Market_Def\QFunction-0.lua:3054: in function <.\Envir\Market_Def\QFunction-0.lua:3053>
+[2024-01-30 22:46:56:741] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:AddButton
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: AddButton Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'addbutton'
+	...\MirServer\Mir200\Envir/Market_Def/denglujiemian.lua:750: in function 'bagxianshi'
+	.\Envir\Market_Def\QFunction-0.lua:3054: in function <.\Envir\Market_Def\QFunction-0.lua:3053>
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetConst
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: GetConst Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getconst'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:316: in function 'getispc'
+	...\MirServer\Mir200\Envir/Market_Def/denglujiemian.lua:753: in function 'bagxianshi'
+	.\Envir\Market_Def\QFunction-0.lua:3054: in function <.\Envir\Market_Def\QFunction-0.lua:3053>
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetBindMoney
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: GetBindMoney Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getbindmoney'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:630: in function 'getbindgold'
+	...\MirServer\Mir200\Envir/Market_Def/denglujiemian.lua:757: in function 'bagxianshi'
+	.\Envir\Market_Def\QFunction-0.lua:3054: in function <.\Envir\Market_Def\QFunction-0.lua:3053>
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:AddButton
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: AddButton Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'addbutton'
+	...\MirServer\Mir200\Envir/Market_Def/denglujiemian.lua:766: in function 'bagxianshi'
+	.\Envir\Market_Def\QFunction-0.lua:3054: in function <.\Envir\Market_Def\QFunction-0.lua:3053>
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:QueryMoney
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: QueryMoney Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'querymoney'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:679: in function 'getingot'
+	.\Envir\Market_Def\QFunction-0.lua:3055: in function <.\Envir\Market_Def\QFunction-0.lua:3053>
+[2024-01-30 22:46:56:742] >>>Lua跨线程调用[QFunction]-moneychange5:8108-24048
+[2024-01-30 22:46:56:742] >>>Lua跨线程调用[QFunction]-moneychange5:8108-24048
+[2024-01-30 22:46:56:742] >>>Lua跨线程调用[QFunction]-playlevelup:8108-24048
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:iniplayvar
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: iniplayvar Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'iniplayvar'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:16: in function 'setint'
+	.\Envir\Market_Def\QFunction-0.lua:288: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:SetPlayVar
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: SetPlayVar Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'setplayvar'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:17: in function 'setint'
+	.\Envir\Market_Def\QFunction-0.lua:288: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:iniplayvar
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: iniplayvar Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'iniplayvar'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:16: in function 'setint'
+	.\Envir\Market_Def\QFunction-0.lua:293: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:SetPlayVar
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: SetPlayVar Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'setplayvar'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:17: in function 'setint'
+	.\Envir\Market_Def\QFunction-0.lua:293: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:SetIcon
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: SetIcon Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'seticon'
+	.\Envir\Market_Def\QFunction-0.lua:267: in function 'hezichenghao'
+	.\Envir\Market_Def\QFunction-0.lua:294: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetSkillInfo
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: GetSkillInfo Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getskillinfo'
+	.\Envir\Market_Def\QFunction-0.lua:296: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:iniplayvar
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: iniplayvar Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'iniplayvar'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:3: in function 'getint'
+	.\Envir\Market_Def\QFunction-0.lua:301: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetPlayVar
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: GetPlayVar Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getplayvar'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:4: in function 'getint'
+	.\Envir\Market_Def\QFunction-0.lua:301: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:46:56:742] >>>Lua跨线程调用[QFunction]-sendability:8108-24048
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: HasBuff Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	...火龙\MirServer\Mir200\Envir/Market_Def/dingshiqi.lua:1419: in function 'xinyunbeigong'
+	.\Envir\Market_Def\QFunction-0.lua:4533: in function <.\Envir\Market_Def\QFunction-0.lua:4531>
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: HasBuff Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	...火龙\MirServer\Mir200\Envir/Market_Def/dingshiqi.lua:1423: in function 'xinyunbeigong'
+	.\Envir\Market_Def\QFunction-0.lua:4533: in function <.\Envir\Market_Def\QFunction-0.lua:4531>
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: HasBuff Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	...火龙\MirServer\Mir200\Envir/Market_Def/dingshiqi.lua:1427: in function 'xinyunbeigong'
+	.\Envir\Market_Def\QFunction-0.lua:4533: in function <.\Envir\Market_Def\QFunction-0.lua:4531>
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: HasBuff Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	...火龙\MirServer\Mir200\Envir/Market_Def/dingshiqi.lua:1431: in function 'xinyunbeigong'
+	.\Envir\Market_Def\QFunction-0.lua:4533: in function <.\Envir\Market_Def\QFunction-0.lua:4531>
+[2024-01-30 22:46:56:742] Thread-Protect ChrName:东风股份 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetUseBonusPoint
+[2024-01-30 22:46:56:742] Func Fail, obj is nil: GetUseBonusPoint Chrid: 047000002A7100008020095100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getusebonuspoint'
+	.\Envir\Market_Def\QFunction-0.lua:4541: in function 'xueliangjisuan'
+	.\Envir\Market_Def\QFunction-0.lua:4534: in function <.\Envir\Market_Def\QFunction-0.lua:4531>
+
+[2024-01-30 22:53:03:047] LuaNPC:电饭锅 ID:999999999 执行 takeonex player:电饭锅 耗时：32; NpcThreadId: 8108, CurPlayThreadId: 8108
+[2024-01-30 22:53:03:047] LuaNPC:电饭锅 ID:999999999 执行 playlevelup player:电饭锅 耗时：47; NpcThreadId: 8108, CurPlayThreadId: 8108
+
+[2024-01-30 22:58:23:365] >>>Lua跨线程调用[QFunction]-pkpointchanged:8108-24048
+[2024-01-30 22:58:23:365] >>>Lua跨线程调用[QFunction]-moneychange2:8108-24048
+[2024-01-30 22:58:23:365] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetConst
+[2024-01-30 22:58:23:365] Func Fail, obj is nil: GetConst Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getconst'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:316: in function 'getispc'
+	...\MirServer\Mir200\Envir/Market_Def/denglujiemian.lua:717: in function 'bagxianshi'
+	.\Envir\Market_Def\QFunction-0.lua:3054: in function <.\Envir\Market_Def\QFunction-0.lua:3053>
+[2024-01-30 22:58:23:365] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:AddButton
+[2024-01-30 22:58:23:365] Func Fail, obj is nil: AddButton Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'addbutton'
+	...\MirServer\Mir200\Envir/Market_Def/denglujiemian.lua:750: in function 'bagxianshi'
+	.\Envir\Market_Def\QFunction-0.lua:3054: in function <.\Envir\Market_Def\QFunction-0.lua:3053>
+[2024-01-30 22:58:23:365] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetConst
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: GetConst Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getconst'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:316: in function 'getispc'
+	...\MirServer\Mir200\Envir/Market_Def/denglujiemian.lua:753: in function 'bagxianshi'
+	.\Envir\Market_Def\QFunction-0.lua:3054: in function <.\Envir\Market_Def\QFunction-0.lua:3053>
+[2024-01-30 22:58:23:366] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetBindMoney
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: GetBindMoney Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getbindmoney'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:630: in function 'getbindgold'
+	...\MirServer\Mir200\Envir/Market_Def/denglujiemian.lua:757: in function 'bagxianshi'
+	.\Envir\Market_Def\QFunction-0.lua:3054: in function <.\Envir\Market_Def\QFunction-0.lua:3053>
+[2024-01-30 22:58:23:366] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:AddButton
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: AddButton Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'addbutton'
+	...\MirServer\Mir200\Envir/Market_Def/denglujiemian.lua:766: in function 'bagxianshi'
+	.\Envir\Market_Def\QFunction-0.lua:3054: in function <.\Envir\Market_Def\QFunction-0.lua:3053>
+[2024-01-30 22:58:23:366] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:QueryMoney
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: QueryMoney Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'querymoney'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:679: in function 'getingot'
+	.\Envir\Market_Def\QFunction-0.lua:3055: in function <.\Envir\Market_Def\QFunction-0.lua:3053>
+[2024-01-30 22:58:23:366] >>>Lua跨线程调用[QFunction]-moneychange5:8108-24048
+[2024-01-30 22:58:23:366] >>>Lua跨线程调用[QFunction]-playlevelup:8108-24048
+[2024-01-30 22:58:23:366] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:iniplayvar
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: iniplayvar Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'iniplayvar'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:16: in function 'setint'
+	.\Envir\Market_Def\QFunction-0.lua:293: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:58:23:366] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:SetPlayVar
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: SetPlayVar Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'setplayvar'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:17: in function 'setint'
+	.\Envir\Market_Def\QFunction-0.lua:293: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:58:23:366] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: HasBuff Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	.\Envir\Market_Def\QFunction-0.lua:266: in function 'hezichenghao'
+	.\Envir\Market_Def\QFunction-0.lua:294: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:58:23:366] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: HasBuff Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	.\Envir\Market_Def\QFunction-0.lua:266: in function 'hezichenghao'
+	.\Envir\Market_Def\QFunction-0.lua:294: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:58:23:366] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetSkillInfo
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: GetSkillInfo Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getskillinfo'
+	.\Envir\Market_Def\QFunction-0.lua:296: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:58:23:366] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:iniplayvar
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: iniplayvar Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'iniplayvar'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:3: in function 'getint'
+	.\Envir\Market_Def\QFunction-0.lua:301: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:58:23:366] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetPlayVar
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: GetPlayVar Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getplayvar'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:4: in function 'getint'
+	.\Envir\Market_Def\QFunction-0.lua:301: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:58:23:366] >>>Lua跨线程调用[QFunction]-sendability:8108-24048
+[2024-01-30 22:58:23:366] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: HasBuff Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	...火龙\MirServer\Mir200\Envir/Market_Def/dingshiqi.lua:1419: in function 'xinyunbeigong'
+	.\Envir\Market_Def\QFunction-0.lua:4533: in function <.\Envir\Market_Def\QFunction-0.lua:4531>
+[2024-01-30 22:58:23:366] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: HasBuff Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	...火龙\MirServer\Mir200\Envir/Market_Def/dingshiqi.lua:1423: in function 'xinyunbeigong'
+	.\Envir\Market_Def\QFunction-0.lua:4533: in function <.\Envir\Market_Def\QFunction-0.lua:4531>
+[2024-01-30 22:58:23:366] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: HasBuff Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	...火龙\MirServer\Mir200\Envir/Market_Def/dingshiqi.lua:1427: in function 'xinyunbeigong'
+	.\Envir\Market_Def\QFunction-0.lua:4533: in function <.\Envir\Market_Def\QFunction-0.lua:4531>
+[2024-01-30 22:58:23:366] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: HasBuff Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	...火龙\MirServer\Mir200\Envir/Market_Def/dingshiqi.lua:1431: in function 'xinyunbeigong'
+	.\Envir\Market_Def\QFunction-0.lua:4533: in function <.\Envir\Market_Def\QFunction-0.lua:4531>
+[2024-01-30 22:58:23:366] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetUseBonusPoint
+[2024-01-30 22:58:23:366] Func Fail, obj is nil: GetUseBonusPoint Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getusebonuspoint'
+	.\Envir\Market_Def\QFunction-0.lua:4541: in function 'xueliangjisuan'
+	.\Envir\Market_Def\QFunction-0.lua:4534: in function <.\Envir\Market_Def\QFunction-0.lua:4531>
+
+[2024-01-30 22:58:38:885] >>>Lua跨线程调用[QFunction]-pkpointchanged:8108-24048
+[2024-01-30 22:58:38:886] >>>Lua跨线程调用[QFunction]-moneychange7:8108-24048
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetConst
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: GetConst Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getconst'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:316: in function 'getispc'
+	...\MirServer\Mir200\Envir/Market_Def/denglujiemian.lua:717: in function 'bagxianshi'
+	.\Envir\Market_Def\QFunction-0.lua:3066: in function <.\Envir\Market_Def\QFunction-0.lua:3065>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:AddButton
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: AddButton Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'addbutton'
+	...\MirServer\Mir200\Envir/Market_Def/denglujiemian.lua:750: in function 'bagxianshi'
+	.\Envir\Market_Def\QFunction-0.lua:3066: in function <.\Envir\Market_Def\QFunction-0.lua:3065>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetConst
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: GetConst Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getconst'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:316: in function 'getispc'
+	...\MirServer\Mir200\Envir/Market_Def/denglujiemian.lua:753: in function 'bagxianshi'
+	.\Envir\Market_Def\QFunction-0.lua:3066: in function <.\Envir\Market_Def\QFunction-0.lua:3065>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetBindMoney
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: GetBindMoney Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getbindmoney'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:630: in function 'getbindgold'
+	...\MirServer\Mir200\Envir/Market_Def/denglujiemian.lua:757: in function 'bagxianshi'
+	.\Envir\Market_Def\QFunction-0.lua:3066: in function <.\Envir\Market_Def\QFunction-0.lua:3065>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:AddButton
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: AddButton Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'addbutton'
+	...\MirServer\Mir200\Envir/Market_Def/denglujiemian.lua:766: in function 'bagxianshi'
+	.\Envir\Market_Def\QFunction-0.lua:3066: in function <.\Envir\Market_Def\QFunction-0.lua:3065>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:QueryMoney
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: QueryMoney Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'querymoney'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:651: in function 'getgold'
+	.\Envir\Market_Def\QFunction-0.lua:3067: in function <.\Envir\Market_Def\QFunction-0.lua:3065>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:ChangeMoney
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: ChangeMoney Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'changemoney'
+	.\Envir\Market_Def\QFunction-0.lua:3067: in function <.\Envir\Market_Def\QFunction-0.lua:3065>
+[2024-01-30 22:58:38:886] >>>Lua跨线程调用[QFunction]-playlevelup:8108-24048
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:iniplayvar
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: iniplayvar Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'iniplayvar'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:16: in function 'setint'
+	.\Envir\Market_Def\QFunction-0.lua:293: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:SetPlayVar
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: SetPlayVar Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'setplayvar'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:17: in function 'setint'
+	.\Envir\Market_Def\QFunction-0.lua:293: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: HasBuff Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	.\Envir\Market_Def\QFunction-0.lua:266: in function 'hezichenghao'
+	.\Envir\Market_Def\QFunction-0.lua:294: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: HasBuff Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	.\Envir\Market_Def\QFunction-0.lua:266: in function 'hezichenghao'
+	.\Envir\Market_Def\QFunction-0.lua:294: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetSkillInfo
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: GetSkillInfo Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getskillinfo'
+	.\Envir\Market_Def\QFunction-0.lua:296: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:iniplayvar
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: iniplayvar Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'iniplayvar'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:3: in function 'getint'
+	.\Envir\Market_Def\QFunction-0.lua:301: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetPlayVar
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: GetPlayVar Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getplayvar'
+	E:\80火龙\MirServer\Mir200\Envir/Market_Def/zh.lua:4: in function 'getint'
+	.\Envir\Market_Def\QFunction-0.lua:301: in function <.\Envir\Market_Def\QFunction-0.lua:286>
+[2024-01-30 22:58:38:886] >>>Lua跨线程调用[QFunction]-sendability:8108-24048
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: HasBuff Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	...火龙\MirServer\Mir200\Envir/Market_Def/dingshiqi.lua:1419: in function 'xinyunbeigong'
+	.\Envir\Market_Def\QFunction-0.lua:4533: in function <.\Envir\Market_Def\QFunction-0.lua:4531>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: HasBuff Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	...火龙\MirServer\Mir200\Envir/Market_Def/dingshiqi.lua:1423: in function 'xinyunbeigong'
+	.\Envir\Market_Def\QFunction-0.lua:4533: in function <.\Envir\Market_Def\QFunction-0.lua:4531>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: HasBuff Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	...火龙\MirServer\Mir200\Envir/Market_Def/dingshiqi.lua:1427: in function 'xinyunbeigong'
+	.\Envir\Market_Def\QFunction-0.lua:4533: in function <.\Envir\Market_Def\QFunction-0.lua:4531>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:HasBuff
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: HasBuff Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'hasbuff'
+	...火龙\MirServer\Mir200\Envir/Market_Def/dingshiqi.lua:1431: in function 'xinyunbeigong'
+	.\Envir\Market_Def\QFunction-0.lua:4533: in function <.\Envir\Market_Def\QFunction-0.lua:4531>
+[2024-01-30 22:58:38:886] Thread-Protect ChrName:电饭锅 NpcName:QFunction ChrTid:0 NpcTid:0 Call:GetUseBonusPoint
+[2024-01-30 22:58:38:886] Func Fail, obj is nil: GetUseBonusPoint Chrid: 55700000D375000030280E5100000000 Npc: QFunction tc:stack traceback:
+	[C]: in function 'getusebonuspoint'
+	.\Envir\Market_Def\QFunction-0.lua:4541: in function 'xueliangjisuan'
+	.\Envir\Market_Def\QFunction-0.lua:4534: in function <.\Envir\Market_Def\QFunction-0.lua:4531>
+
+[2024-01-30 23:20:26:539] LuaNPC:电饭锅发 ID:999999999 执行 takeonex player:电饭锅发 耗时：31; NpcThreadId: 8108, CurPlayThreadId: 8108
+[2024-01-30 23:20:26:539] LuaNPC:电饭锅发 ID:999999999 执行 playlevelup player:电饭锅发 耗时：47; NpcThreadId: 8108, CurPlayThreadId: 8108
+

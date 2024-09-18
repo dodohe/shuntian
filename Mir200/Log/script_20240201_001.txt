@@ -1,0 +1,3 @@
+[2024-02-01 16:34:02:578] LuaNPC:玩家名字 ID:999999999 执行 takeonex player:玩家名字 耗时：31; NpcThreadId: 2988, CurPlayThreadId: 2988
+[2024-02-01 16:34:02:579] LuaNPC:玩家名字 ID:999999999 执行 playlevelup player:玩家名字 耗时：47; NpcThreadId: 2988, CurPlayThreadId: 2988
+

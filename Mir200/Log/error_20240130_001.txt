@@ -1,0 +1,1417 @@
+[2024-01-30 16:50:24:675] Socket Err:10061
+
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0122.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0110.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0111.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0112.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0102.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0108.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0109.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0104.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0107.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0125.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0126.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0103.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0105.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0106.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0101.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0100.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0128.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0129.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0123.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0124.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0114.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\01141.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\01142.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0115.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\01152.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0113.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\01132.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0137.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0139.map could not be loaded.
+[2024-01-30 16:50:39:587] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0135.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0134.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0133.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0119.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0118.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0121.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0127.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0130.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0131.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0136.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0132.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0138.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0141.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0140.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\1.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\2.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0116.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0117.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0120.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0142.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d401.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d411.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d413.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d402.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d414.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d403.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d412.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d404.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d416.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d405.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d415.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d406.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\3.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0143.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0144.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0145.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0146.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0147.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0148.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0149.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0158.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0159.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0160.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0161.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0170.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0171.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0150.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0151.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0152.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0153.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0154.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0155.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0156.map could not be loaded.
+[2024-01-30 16:50:39:588] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0162.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d701.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\11.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\1001.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\1002.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\1003.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\1004.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\1005.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\1006.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\1007.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\12.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\4.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b341.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\m100.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\ddnb.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b342.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b343.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b344.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b345.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b346.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b347.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\5.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b351.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b352.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b353.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b354.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b355.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b356.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d601.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d618.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d606.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d609.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d022.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d023.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d024.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d021.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d022.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d713.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d714.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d715.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d716.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d717.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\f010.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71601.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71602.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71603.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71604.map could not be loaded.
+[2024-01-30 16:50:39:589] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71605.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71606.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71607.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71608.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71609.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71610.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71611.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71612.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71613.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71614.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71615.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71616.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71617.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71618.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71619.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71620.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71621.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71622.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71623.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71624.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71625.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\D71650.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\D71651.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\D71652.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\D71653.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2008.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2010.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2011.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2012.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2013.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2001.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\dm002.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d505.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5071.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5072.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5073.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5074.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d515.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\f002.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2063.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2064.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2067.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d416.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\bsrlm05.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2073.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2075.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2076.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2078.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2079.map could not be loaded.
+[2024-01-30 16:50:39:590] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\t115.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2073.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d1004.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d10051.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d10052.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d10061.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d10062.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\t1061.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2083.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2083.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2083.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2083.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\6.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\63.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\631.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\632.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\64.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\65.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\66.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b341.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\h201.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\h202.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\h203.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\h204.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\h106.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\m100.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d10071.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2005.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2005.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2006.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\f013.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\ga1.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\mhyj1.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\mhyj2.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\mhyj3.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\ygcx1.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\ygcx2.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\ygcx3.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\txmk1.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\txmk2.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\txmk3.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\dlsy1.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\dlsy2.map could not be loaded.
+[2024-01-30 16:50:39:591] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\dlsy3.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\dlsy4.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\thg1.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\thg2.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\thg3.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\thg4.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\ymgm1.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\ymgm4.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\ymgm2.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\rydy1.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\rydy2.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\rydy3.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\rydy4.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\fdgc1.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\fdgc5.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\fdgc2.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\fdgc4.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\wyzz01.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\ngrly.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\ngrly.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\ngrly.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\ngrly.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\jjhl1.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\jjhl2.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\jjhl3.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\jjhl4.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\jjhl5.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\ngudong03.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\hero1.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d716.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2070.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d71652.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\em000.map could not be loaded.
+[2024-01-30 16:50:39:592] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d10071.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2073.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\grly.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\m001.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\f011.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d608.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\lhsd.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\xrzc.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d715.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d715.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d715.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d715.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0162.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0162.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0102.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0102.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0102.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0102.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0102.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2010.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5061.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5062.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5063.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5064.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5065.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5066.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5067.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5068.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5069.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0157.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d2083.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5061.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5062.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5063.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5064.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5065.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5066.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5067.map could not be loaded.
+[2024-01-30 16:50:39:593] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5068.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5069.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5061.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5062.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5063.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5064.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5065.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5066.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5067.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5068.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5069.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5061.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5062.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5063.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5064.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5065.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5066.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5067.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5068.map could not be loaded.
+[2024-01-30 16:50:39:594] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d5069.map could not be loaded.
+
+[2024-01-30 16:50:41:523] 0150 No map found. ( No inner wall map of wall conquest war )
+[2024-01-30 16:50:41:523] D701 - secret map not found !!
+[2024-01-30 16:50:41:651] ---------------------线程耗时监控
+[2024-01-30 16:50:41:725] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2024-01-30 16:50:41:996] Frame-----------------------------------
+0163003d +1ded M2Server.exe svMain          1069 +405 TFrmMain.StartTimerTimer
+00780e40 +0020 M2Server.exe Vcl.ExtCtrls    3193   +1 TTimer.Timer
+00780c68 +0038 M2Server.exe Vcl.ExtCtrls    3151   +4 TTimer.WndProc
+00572323 +0023 M2Server.exe System.Classes 18192   +8 StdWndProc
+0084636e +012e M2Server.exe Vcl.Forms      11028  +23 TApplication.ProcessMessage
+008463e3 +0013 M2Server.exe Vcl.Forms      11058   +1 TApplication.HandleMessage
+00846831 +00e1 M2Server.exe Vcl.Forms      11196  +26 TApplication.Run
+0163c87d +013d M2Server.exe M2Server         120  +13 initialization
+[2024-01-30 16:50:42:008] MainRunThread(0)-----------------------------------
+009086ee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+009082c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+0056c4c0 +40 M2Server.exe System.Classes 15573 +18 ThreadProc
+00412b2a +3a M2Server.exe System         25380  +9 ThreadWrapper
+[2024-01-30 16:50:42:020] DbThread(0)-----------------------------------
+009086ee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+009082c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+0056c4c0 +40 M2Server.exe System.Classes 15573 +18 ThreadProc
+00412b2a +3a M2Server.exe System         25380  +9 ThreadWrapper
+[2024-01-30 16:50:42:031] BoxSellDbThread(0)-----------------------------------
+009086ee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+009082c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+0056c4c0 +40 M2Server.exe System.Classes 15573 +18 ThreadProc
+00412b2a +3a M2Server.exe System         25380  +9 ThreadWrapper
+
+[2024-01-30 17:01:48:959] Socket Err:10061
+
+[2024-01-30 17:02:04:610] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0110.map could not be loaded.
+[2024-01-30 17:02:04:610] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0111.map could not be loaded.
+[2024-01-30 17:02:04:610] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0112.map could not be loaded.
+[2024-01-30 17:02:04:631] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0108.map could not be loaded.
+[2024-01-30 17:02:04:631] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0109.map could not be loaded.
+[2024-01-30 17:02:04:631] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0104.map could not be loaded.
+[2024-01-30 17:02:04:631] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0107.map could not be loaded.
+[2024-01-30 17:02:04:631] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0125.map could not be loaded.
+[2024-01-30 17:02:04:631] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0126.map could not be loaded.
+[2024-01-30 17:02:04:631] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0103.map could not be loaded.
+[2024-01-30 17:02:04:631] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0105.map could not be loaded.
+[2024-01-30 17:02:04:631] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0106.map could not be loaded.
+[2024-01-30 17:02:04:631] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0101.map could not be loaded.
+[2024-01-30 17:02:04:631] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0100.map could not be loaded.
+[2024-01-30 17:02:04:631] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0128.map could not be loaded.
+[2024-01-30 17:02:04:631] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0129.map could not be loaded.
+[2024-01-30 17:02:04:631] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0123.map could not be loaded.
+[2024-01-30 17:02:04:631] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0124.map could not be loaded.
+[2024-01-30 17:02:04:638] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\01141.map could not be loaded.
+[2024-01-30 17:02:04:638] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\01142.map could not be loaded.
+[2024-01-30 17:02:04:638] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0115.map could not be loaded.
+[2024-01-30 17:02:04:638] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\01152.map could not be loaded.
+[2024-01-30 17:02:04:638] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0113.map could not be loaded.
+[2024-01-30 17:02:04:638] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\01132.map could not be loaded.
+[2024-01-30 17:02:04:639] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0135.map could not be loaded.
+[2024-01-30 17:02:04:639] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0134.map could not be loaded.
+[2024-01-30 17:02:04:639] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0133.map could not be loaded.
+[2024-01-30 17:02:04:639] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0119.map could not be loaded.
+[2024-01-30 17:02:04:639] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0118.map could not be loaded.
+[2024-01-30 17:02:04:639] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0121.map could not be loaded.
+[2024-01-30 17:02:04:639] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0127.map could not be loaded.
+[2024-01-30 17:02:04:639] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0130.map could not be loaded.
+[2024-01-30 17:02:04:639] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0131.map could not be loaded.
+[2024-01-30 17:02:04:639] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0136.map could not be loaded.
+[2024-01-30 17:02:04:639] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0132.map could not be loaded.
+[2024-01-30 17:02:04:639] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0138.map could not be loaded.
+[2024-01-30 17:02:04:639] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0141.map could not be loaded.
+[2024-01-30 17:02:04:640] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0140.map could not be loaded.
+[2024-01-30 17:02:04:640] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\1.map could not be loaded.
+[2024-01-30 17:02:04:640] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\2.map could not be loaded.
+[2024-01-30 17:02:04:640] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0116.map could not be loaded.
+[2024-01-30 17:02:04:640] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0117.map could not be loaded.
+[2024-01-30 17:02:04:640] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0120.map could not be loaded.
+[2024-01-30 17:02:04:640] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0142.map could not be loaded.
+[2024-01-30 17:02:04:640] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d401.map could not be loaded.
+[2024-01-30 17:02:04:640] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d411.map could not be loaded.
+[2024-01-30 17:02:04:640] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d413.map could not be loaded.
+[2024-01-30 17:02:04:640] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d402.map could not be loaded.
+[2024-01-30 17:02:04:640] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d414.map could not be loaded.
+[2024-01-30 17:02:04:640] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d403.map could not be loaded.
+[2024-01-30 17:02:04:640] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d412.map could not be loaded.
+[2024-01-30 17:02:04:640] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d404.map could not be loaded.
+[2024-01-30 17:02:04:648] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d405.map could not be loaded.
+[2024-01-30 17:02:04:648] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d415.map could not be loaded.
+[2024-01-30 17:02:04:649] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d406.map could not be loaded.
+[2024-01-30 17:02:04:775] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0143.map could not be loaded.
+[2024-01-30 17:02:04:775] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0144.map could not be loaded.
+[2024-01-30 17:02:04:775] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0145.map could not be loaded.
+[2024-01-30 17:02:04:775] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0146.map could not be loaded.
+[2024-01-30 17:02:04:775] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0147.map could not be loaded.
+[2024-01-30 17:02:04:782] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0149.map could not be loaded.
+[2024-01-30 17:02:04:782] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0158.map could not be loaded.
+[2024-01-30 17:02:04:782] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0159.map could not be loaded.
+[2024-01-30 17:02:04:782] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0160.map could not be loaded.
+[2024-01-30 17:02:04:782] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0161.map could not be loaded.
+[2024-01-30 17:02:04:782] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0171.map could not be loaded.
+[2024-01-30 17:02:04:783] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0152.map could not be loaded.
+[2024-01-30 17:02:04:783] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0153.map could not be loaded.
+[2024-01-30 17:02:04:783] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0154.map could not be loaded.
+[2024-01-30 17:02:04:783] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0155.map could not be loaded.
+[2024-01-30 17:02:04:783] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\0156.map could not be loaded.
+[2024-01-30 17:02:04:783] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\d701.map could not be loaded.
+[2024-01-30 17:02:04:817] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\1001.map could not be loaded.
+[2024-01-30 17:02:04:818] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\1003.map could not be loaded.
+[2024-01-30 17:02:04:818] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\1004.map could not be loaded.
+[2024-01-30 17:02:04:818] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\1005.map could not be loaded.
+[2024-01-30 17:02:04:818] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\1006.map could not be loaded.
+[2024-01-30 17:02:04:818] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\1007.map could not be loaded.
+[2024-01-30 17:02:04:818] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\12.map could not be loaded.
+[2024-01-30 17:02:04:856] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b342.map could not be loaded.
+[2024-01-30 17:02:04:856] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b343.map could not be loaded.
+[2024-01-30 17:02:04:856] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b344.map could not be loaded.
+[2024-01-30 17:02:04:856] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b345.map could not be loaded.
+[2024-01-30 17:02:04:856] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b346.map could not be loaded.
+[2024-01-30 17:02:04:856] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b347.map could not be loaded.
+[2024-01-30 17:02:04:951] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b351.map could not be loaded.
+[2024-01-30 17:02:04:951] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b352.map could not be loaded.
+[2024-01-30 17:02:04:951] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b353.map could not be loaded.
+[2024-01-30 17:02:04:951] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b354.map could not be loaded.
+[2024-01-30 17:02:04:951] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b355.map could not be loaded.
+[2024-01-30 17:02:04:951] Failure: D:\996版本\顺天\996M2(2023.03.23.0_64位)[0630]\Mir200\map\b356.map could not be loaded.
+
+[2024-01-30 17:02:07:844] D701 - secret map not found !!
+[2024-01-30 17:02:07:844] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-15832] 当前Thread:17136
+[2024-01-30 17:02:07:844] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-15832] 当前Thread:17136
+[2024-01-30 17:02:07:844] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-15832] 当前Thread:17136
+[2024-01-30 17:02:07:844] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-15832] 当前Thread:17136
+[2024-01-30 17:02:08:013] ---------------------线程耗时监控
+[2024-01-30 17:02:08:020] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2024-01-30 17:02:08:479] Frame-----------------------------------
+0163003d +1ded M2Server.exe svMain          1069 +405 TFrmMain.StartTimerTimer
+00780e40 +0020 M2Server.exe Vcl.ExtCtrls    3193   +1 TTimer.Timer
+00780c68 +0038 M2Server.exe Vcl.ExtCtrls    3151   +4 TTimer.WndProc
+00572323 +0023 M2Server.exe System.Classes 18192   +8 StdWndProc
+0084636e +012e M2Server.exe Vcl.Forms      11028  +23 TApplication.ProcessMessage
+008463e3 +0013 M2Server.exe Vcl.Forms      11058   +1 TApplication.HandleMessage
+00846831 +00e1 M2Server.exe Vcl.Forms      11196  +26 TApplication.Run
+0163c87d +013d M2Server.exe M2Server         120  +13 initialization
+[2024-01-30 17:02:08:498] MainRunThread(0)-----------------------------------
+009086ee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+009082c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+0056c4c0 +40 M2Server.exe System.Classes 15573 +18 ThreadProc
+00412b2a +3a M2Server.exe System         25380  +9 ThreadWrapper
+[2024-01-30 17:02:08:519] DbThread(16)-----------------------------------
+009086ee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+009082c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+0056c4c0 +40 M2Server.exe System.Classes 15573 +18 ThreadProc
+00412b2a +3a M2Server.exe System         25380  +9 ThreadWrapper
+[2024-01-30 17:02:08:539] BoxSellDbThread(16)-----------------------------------
+009086ee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+009082c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+0056c4c0 +40 M2Server.exe System.Classes 15573 +18 ThreadProc
+00412b2a +3a M2Server.exe System         25380  +9 ThreadWrapper
+
+[2024-01-30 17:24:33:566] Socket Err:10061
+
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0110.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0111.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0112.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0108.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0109.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0104.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0107.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0125.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0126.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0103.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0105.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0106.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0101.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0100.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0128.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0129.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0123.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0124.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\01141.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\01142.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0115.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\01152.map could not be loaded.
+[2024-01-30 17:24:48:730] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0113.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\01132.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0135.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0134.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0133.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0119.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0118.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0121.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0127.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0130.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0131.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0136.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0132.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0138.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0141.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0140.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\1.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\2.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0116.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0117.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0120.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0142.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d401.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d411.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d413.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d402.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d414.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d403.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d412.map could not be loaded.
+[2024-01-30 17:24:48:731] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d404.map could not be loaded.
+[2024-01-30 17:24:48:732] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d405.map could not be loaded.
+[2024-01-30 17:24:48:732] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d415.map could not be loaded.
+[2024-01-30 17:24:48:732] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d406.map could not be loaded.
+[2024-01-30 17:24:48:761] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0143.map could not be loaded.
+[2024-01-30 17:24:48:761] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0144.map could not be loaded.
+[2024-01-30 17:24:48:761] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0145.map could not be loaded.
+[2024-01-30 17:24:48:761] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0146.map could not be loaded.
+[2024-01-30 17:24:48:761] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0147.map could not be loaded.
+[2024-01-30 17:24:48:762] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0149.map could not be loaded.
+[2024-01-30 17:24:48:762] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0158.map could not be loaded.
+[2024-01-30 17:24:48:762] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0159.map could not be loaded.
+[2024-01-30 17:24:48:762] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0160.map could not be loaded.
+[2024-01-30 17:24:48:762] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0161.map could not be loaded.
+[2024-01-30 17:24:48:762] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0171.map could not be loaded.
+[2024-01-30 17:24:48:762] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0152.map could not be loaded.
+[2024-01-30 17:24:48:762] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0153.map could not be loaded.
+[2024-01-30 17:24:48:762] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0154.map could not be loaded.
+[2024-01-30 17:24:48:762] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0155.map could not be loaded.
+[2024-01-30 17:24:48:762] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0156.map could not be loaded.
+[2024-01-30 17:24:48:762] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d701.map could not be loaded.
+[2024-01-30 17:24:48:769] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\1001.map could not be loaded.
+[2024-01-30 17:24:48:769] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\1003.map could not be loaded.
+[2024-01-30 17:24:48:769] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\1004.map could not be loaded.
+[2024-01-30 17:24:48:769] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\1005.map could not be loaded.
+[2024-01-30 17:24:48:769] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\1006.map could not be loaded.
+[2024-01-30 17:24:48:769] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\1007.map could not be loaded.
+[2024-01-30 17:24:48:769] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\12.map could not be loaded.
+[2024-01-30 17:24:48:777] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b342.map could not be loaded.
+[2024-01-30 17:24:48:777] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b343.map could not be loaded.
+[2024-01-30 17:24:48:777] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b344.map could not be loaded.
+[2024-01-30 17:24:48:777] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b345.map could not be loaded.
+[2024-01-30 17:24:48:777] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b346.map could not be loaded.
+[2024-01-30 17:24:48:777] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b347.map could not be loaded.
+[2024-01-30 17:24:48:792] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b351.map could not be loaded.
+[2024-01-30 17:24:48:792] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b352.map could not be loaded.
+[2024-01-30 17:24:48:792] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b353.map could not be loaded.
+[2024-01-30 17:24:48:792] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b354.map could not be loaded.
+[2024-01-30 17:24:48:792] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b355.map could not be loaded.
+[2024-01-30 17:24:48:792] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b356.map could not be loaded.
+
+[2024-01-30 17:24:50:866] D701 - secret map not found !!
+[2024-01-30 17:24:50:866] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-17228] 当前Thread:16792
+[2024-01-30 17:24:50:866] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-17228] 当前Thread:16792
+[2024-01-30 17:24:50:866] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-17228] 当前Thread:16792
+[2024-01-30 17:24:50:866] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-17228] 当前Thread:16792
+[2024-01-30 17:24:51:013] ---------------------线程耗时监控
+[2024-01-30 17:24:51:076] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2024-01-30 17:24:51:485] Frame-----------------------------------
+0163003d +1ded M2Server.exe svMain          1069 +405 TFrmMain.StartTimerTimer
+00780e40 +0020 M2Server.exe Vcl.ExtCtrls    3193   +1 TTimer.Timer
+00780c68 +0038 M2Server.exe Vcl.ExtCtrls    3151   +4 TTimer.WndProc
+00572323 +0023 M2Server.exe System.Classes 18192   +8 StdWndProc
+0084636e +012e M2Server.exe Vcl.Forms      11028  +23 TApplication.ProcessMessage
+008463e3 +0013 M2Server.exe Vcl.Forms      11058   +1 TApplication.HandleMessage
+00846831 +00e1 M2Server.exe Vcl.Forms      11196  +26 TApplication.Run
+0163c87d +013d M2Server.exe M2Server         120  +13 initialization
+[2024-01-30 17:24:51:503] MainRunThread(0)-----------------------------------
+009086ee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+009082c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+0056c4c0 +40 M2Server.exe System.Classes 15573 +18 ThreadProc
+00412b2a +3a M2Server.exe System         25380  +9 ThreadWrapper
+[2024-01-30 17:24:51:520] DbThread(16)-----------------------------------
+009086ee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+009082c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+0056c4c0 +40 M2Server.exe System.Classes 15573 +18 ThreadProc
+00412b2a +3a M2Server.exe System         25380  +9 ThreadWrapper
+[2024-01-30 17:24:51:542] BoxSellDbThread(16)-----------------------------------
+009086ee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+009082c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+0056c4c0 +40 M2Server.exe System.Classes 15573 +18 ThreadProc
+00412b2a +3a M2Server.exe System         25380  +9 ThreadWrapper
+
+[2024-01-30 17:32:52:034] Socket Err:10061
+
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0110.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0111.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0112.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0108.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0109.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0104.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0107.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0125.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0126.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0103.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0105.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0106.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0101.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0100.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0128.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0129.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0123.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0124.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\01141.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\01142.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0115.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\01152.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0113.map could not be loaded.
+[2024-01-30 17:33:07:257] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\01132.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0135.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0134.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0133.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0119.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0118.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0121.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0127.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0130.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0131.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0136.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0132.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0138.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0141.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0140.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\1.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\2.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0116.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0117.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0120.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0142.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d401.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d411.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d413.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d402.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d414.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d403.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d412.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d404.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d405.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d415.map could not be loaded.
+[2024-01-30 17:33:07:258] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d406.map could not be loaded.
+[2024-01-30 17:33:07:287] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0143.map could not be loaded.
+[2024-01-30 17:33:07:287] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0144.map could not be loaded.
+[2024-01-30 17:33:07:287] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0145.map could not be loaded.
+[2024-01-30 17:33:07:287] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0146.map could not be loaded.
+[2024-01-30 17:33:07:287] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0147.map could not be loaded.
+[2024-01-30 17:33:07:287] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0149.map could not be loaded.
+[2024-01-30 17:33:07:287] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0158.map could not be loaded.
+[2024-01-30 17:33:07:287] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0159.map could not be loaded.
+[2024-01-30 17:33:07:287] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0160.map could not be loaded.
+[2024-01-30 17:33:07:287] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0161.map could not be loaded.
+[2024-01-30 17:33:07:287] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0171.map could not be loaded.
+[2024-01-30 17:33:07:288] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0152.map could not be loaded.
+[2024-01-30 17:33:07:288] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0153.map could not be loaded.
+[2024-01-30 17:33:07:288] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0154.map could not be loaded.
+[2024-01-30 17:33:07:288] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0155.map could not be loaded.
+[2024-01-30 17:33:07:288] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\0156.map could not be loaded.
+[2024-01-30 17:33:07:288] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\d701.map could not be loaded.
+[2024-01-30 17:33:07:294] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\1001.map could not be loaded.
+[2024-01-30 17:33:07:294] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\1003.map could not be loaded.
+[2024-01-30 17:33:07:294] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\1004.map could not be loaded.
+[2024-01-30 17:33:07:294] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\1005.map could not be loaded.
+[2024-01-30 17:33:07:294] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\1006.map could not be loaded.
+[2024-01-30 17:33:07:294] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\1007.map could not be loaded.
+[2024-01-30 17:33:07:294] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\12.map could not be loaded.
+[2024-01-30 17:33:07:302] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b342.map could not be loaded.
+[2024-01-30 17:33:07:302] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b343.map could not be loaded.
+[2024-01-30 17:33:07:302] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b344.map could not be loaded.
+[2024-01-30 17:33:07:302] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b345.map could not be loaded.
+[2024-01-30 17:33:07:302] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b346.map could not be loaded.
+[2024-01-30 17:33:07:302] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b347.map could not be loaded.
+[2024-01-30 17:33:07:316] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b351.map could not be loaded.
+[2024-01-30 17:33:07:316] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b352.map could not be loaded.
+[2024-01-30 17:33:07:316] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b353.map could not be loaded.
+[2024-01-30 17:33:07:316] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b354.map could not be loaded.
+[2024-01-30 17:33:07:316] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b355.map could not be loaded.
+[2024-01-30 17:33:07:316] Failure: D:\996版本\顺天\996M2(2023.06.28.0_64位)[0911]\Mir200\map\b356.map could not be loaded.
+
+[2024-01-30 17:33:09:380] D701 - secret map not found !!
+[2024-01-30 17:33:09:380] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-17672] 当前Thread:6440
+[2024-01-30 17:33:09:380] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-17672] 当前Thread:6440
+[2024-01-30 17:33:09:380] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-17672] 当前Thread:6440
+[2024-01-30 17:33:09:380] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-17672] 当前Thread:6440
+[2024-01-30 17:33:09:482] ---------------------线程耗时监控
+[2024-01-30 17:33:09:602] [Exception]TIdHttpBoxTitleThread.Execute Error1 {"code":"40006","data":[],"msg":"domain解析错误"}
+[2024-01-30 17:33:09:930] Frame-----------------------------------
+0163003d +1ded M2Server.exe svMain          1069 +405 TFrmMain.StartTimerTimer
+00780e40 +0020 M2Server.exe Vcl.ExtCtrls    3193   +1 TTimer.Timer
+00780c68 +0038 M2Server.exe Vcl.ExtCtrls    3151   +4 TTimer.WndProc
+00572323 +0023 M2Server.exe System.Classes 18192   +8 StdWndProc
+0084636e +012e M2Server.exe Vcl.Forms      11028  +23 TApplication.ProcessMessage
+008463e3 +0013 M2Server.exe Vcl.Forms      11058   +1 TApplication.HandleMessage
+00846831 +00e1 M2Server.exe Vcl.Forms      11196  +26 TApplication.Run
+0163c87d +013d M2Server.exe M2Server         120  +13 initialization
+[2024-01-30 17:33:09:948] MainRunThread(0)-----------------------------------
+009086ee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+009082c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+0056c4c0 +40 M2Server.exe System.Classes 15573 +18 ThreadProc
+00412b2a +3a M2Server.exe System         25380  +9 ThreadWrapper
+[2024-01-30 17:33:09:966] DbThread(0)-----------------------------------
+009086ee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+009082c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+0056c4c0 +40 M2Server.exe System.Classes 15573 +18 ThreadProc
+00412b2a +3a M2Server.exe System         25380  +9 ThreadWrapper
+[2024-01-30 17:33:09:983] BoxSellDbThread(0)-----------------------------------
+009086ee +ee M2Server.exe uThreadPools     166 +13 TThreadPool.ThreadProc
+009082c6 +26 M2Server.exe uThreadPools      70  +2 TMyThread.Execute
+0056c4c0 +40 M2Server.exe System.Classes 15573 +18 ThreadProc
+00412b2a +3a M2Server.exe System         25380  +9 ThreadWrapper
+
+[2024-01-30 17:35:49:648] Socket Err:10061
+
+[2024-01-30 17:36:05:877] Failure: .\Map\0110.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0111.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0112.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0108.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0109.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0104.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0107.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0125.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0126.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0103.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0105.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0106.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0101.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0100.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0128.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0129.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0123.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0124.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\01141.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\01142.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0115.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\01152.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0113.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\01132.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0135.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0134.map could not be loaded.
+[2024-01-30 17:36:05:877] Failure: .\Map\0133.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\0119.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\0118.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\0121.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\0127.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\0130.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\0131.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\0136.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\0132.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\0138.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\0141.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\0140.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\1.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\2.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\0116.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\0117.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\0120.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\0142.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\d401.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\d411.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\d413.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\d402.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\d414.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\d403.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\d412.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\d404.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\d405.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\d415.map could not be loaded.
+[2024-01-30 17:36:05:878] Failure: .\Map\d406.map could not be loaded.
+[2024-01-30 17:36:05:908] Failure: .\Map\0143.map could not be loaded.
+[2024-01-30 17:36:05:908] Failure: .\Map\0144.map could not be loaded.
+[2024-01-30 17:36:05:908] Failure: .\Map\0145.map could not be loaded.
+[2024-01-30 17:36:05:908] Failure: .\Map\0146.map could not be loaded.
+[2024-01-30 17:36:05:908] Failure: .\Map\0147.map could not be loaded.
+[2024-01-30 17:36:05:908] Failure: .\Map\0149.map could not be loaded.
+[2024-01-30 17:36:05:908] Failure: .\Map\0158.map could not be loaded.
+[2024-01-30 17:36:05:908] Failure: .\Map\0159.map could not be loaded.
+[2024-01-30 17:36:05:908] Failure: .\Map\0160.map could not be loaded.
+[2024-01-30 17:36:05:908] Failure: .\Map\0161.map could not be loaded.
+[2024-01-30 17:36:05:908] Failure: .\Map\0171.map could not be loaded.
+[2024-01-30 17:36:05:909] Failure: .\Map\0152.map could not be loaded.
+[2024-01-30 17:36:05:909] Failure: .\Map\0153.map could not be loaded.
+[2024-01-30 17:36:05:909] Failure: .\Map\0154.map could not be loaded.
+[2024-01-30 17:36:05:909] Failure: .\Map\0155.map could not be loaded.
+[2024-01-30 17:36:05:909] Failure: .\Map\0156.map could not be loaded.
+[2024-01-30 17:36:05:909] Failure: .\Map\d701.map could not be loaded.
+[2024-01-30 17:36:05:916] Failure: .\Map\1001.map could not be loaded.
+[2024-01-30 17:36:05:916] Failure: .\Map\1003.map could not be loaded.
+[2024-01-30 17:36:05:916] Failure: .\Map\1004.map could not be loaded.
+[2024-01-30 17:36:05:916] Failure: .\Map\1005.map could not be loaded.
+[2024-01-30 17:36:05:916] Failure: .\Map\1006.map could not be loaded.
+[2024-01-30 17:36:05:916] Failure: .\Map\1007.map could not be loaded.
+[2024-01-30 17:36:05:916] Failure: .\Map\12.map could not be loaded.
+[2024-01-30 17:36:05:924] Failure: .\Map\b342.map could not be loaded.
+[2024-01-30 17:36:05:924] Failure: .\Map\b343.map could not be loaded.
+[2024-01-30 17:36:05:924] Failure: .\Map\b344.map could not be loaded.
+[2024-01-30 17:36:05:924] Failure: .\Map\b345.map could not be loaded.
+[2024-01-30 17:36:05:924] Failure: .\Map\b346.map could not be loaded.
+[2024-01-30 17:36:05:925] Failure: .\Map\b347.map could not be loaded.
+[2024-01-30 17:36:05:939] Failure: .\Map\b351.map could not be loaded.
+[2024-01-30 17:36:05:939] Failure: .\Map\b352.map could not be loaded.
+[2024-01-30 17:36:05:939] Failure: .\Map\b353.map could not be loaded.
+[2024-01-30 17:36:05:939] Failure: .\Map\b354.map could not be loaded.
+[2024-01-30 17:36:05:939] Failure: .\Map\b355.map could not be loaded.
+[2024-01-30 17:36:05:939] Failure: .\Map\b356.map could not be loaded.
+
+[2024-01-30 17:36:08:744] D701 - secret map not found !!
+[2024-01-30 17:36:08:744] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-17232] 当前Thread:17268
+[2024-01-30 17:36:08:745] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-17232] 当前Thread:17268
+[2024-01-30 17:36:08:745] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-17232] 当前Thread:17268
+[2024-01-30 17:36:08:745] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-17232] 当前Thread:17268
+[2024-01-30 17:36:08:893] ---------------------线程耗时监控
+[2024-01-30 17:36:09:323] Frame-----------------------------------
+01ad35e5 +4b5 M2Server.exe svMain          2602  +47 TMainRunThread.LoadPlayerVarList
+006b9a02 +062 M2Server.exe Vcl.ComCtrls   35733   +5 TComboBoxExStyleHook.Create
+006b982a +ada M2Server.exe Vcl.ComCtrls   34543 +132 TStatusBarStyleHook.Paint
+0053ac96 +0c6 M2Server.exe System.Classes 17535   +8 TComponent.GetObservers
+[2024-01-30 17:36:09:343] MainRunThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 17:36:09:361] DbThread(16)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 17:36:09:379] BoxSellDbThread(15)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+
+[2024-01-30 18:35:45:731] Socket Err:10061
+
+[2024-01-30 18:36:01:865] Failure: .\Map\0110.map could not be loaded.
+[2024-01-30 18:36:01:865] Failure: .\Map\0111.map could not be loaded.
+[2024-01-30 18:36:01:865] Failure: .\Map\0112.map could not be loaded.
+[2024-01-30 18:36:01:865] Failure: .\Map\0108.map could not be loaded.
+[2024-01-30 18:36:01:865] Failure: .\Map\0109.map could not be loaded.
+[2024-01-30 18:36:01:865] Failure: .\Map\0104.map could not be loaded.
+[2024-01-30 18:36:01:865] Failure: .\Map\0107.map could not be loaded.
+[2024-01-30 18:36:01:865] Failure: .\Map\0125.map could not be loaded.
+[2024-01-30 18:36:01:865] Failure: .\Map\0126.map could not be loaded.
+[2024-01-30 18:36:01:865] Failure: .\Map\0103.map could not be loaded.
+[2024-01-30 18:36:01:865] Failure: .\Map\0105.map could not be loaded.
+[2024-01-30 18:36:01:865] Failure: .\Map\0106.map could not be loaded.
+[2024-01-30 18:36:01:865] Failure: .\Map\0101.map could not be loaded.
+[2024-01-30 18:36:01:865] Failure: .\Map\0100.map could not be loaded.
+[2024-01-30 18:36:01:865] Failure: .\Map\0128.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0129.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0123.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0124.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\01141.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\01142.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0115.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\01152.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0113.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\01132.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0135.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0134.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0133.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0119.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0118.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0121.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0127.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0130.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0131.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0136.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0132.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0138.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0141.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0140.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\1.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\2.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0116.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0117.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0120.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\0142.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\d401.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\d411.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\d413.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\d402.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\d414.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\d403.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\d412.map could not be loaded.
+[2024-01-30 18:36:01:866] Failure: .\Map\d404.map could not be loaded.
+[2024-01-30 18:36:01:867] Failure: .\Map\d405.map could not be loaded.
+[2024-01-30 18:36:01:867] Failure: .\Map\d415.map could not be loaded.
+[2024-01-30 18:36:01:867] Failure: .\Map\d406.map could not be loaded.
+[2024-01-30 18:36:01:896] Failure: .\Map\0143.map could not be loaded.
+[2024-01-30 18:36:01:896] Failure: .\Map\0144.map could not be loaded.
+[2024-01-30 18:36:01:896] Failure: .\Map\0145.map could not be loaded.
+[2024-01-30 18:36:01:896] Failure: .\Map\0146.map could not be loaded.
+[2024-01-30 18:36:01:896] Failure: .\Map\0147.map could not be loaded.
+[2024-01-30 18:36:01:897] Failure: .\Map\0149.map could not be loaded.
+[2024-01-30 18:36:01:897] Failure: .\Map\0158.map could not be loaded.
+[2024-01-30 18:36:01:897] Failure: .\Map\0159.map could not be loaded.
+[2024-01-30 18:36:01:897] Failure: .\Map\0160.map could not be loaded.
+[2024-01-30 18:36:01:897] Failure: .\Map\0161.map could not be loaded.
+[2024-01-30 18:36:01:897] Failure: .\Map\0171.map could not be loaded.
+[2024-01-30 18:36:01:897] Failure: .\Map\0152.map could not be loaded.
+[2024-01-30 18:36:01:897] Failure: .\Map\0153.map could not be loaded.
+[2024-01-30 18:36:01:897] Failure: .\Map\0154.map could not be loaded.
+[2024-01-30 18:36:01:897] Failure: .\Map\0155.map could not be loaded.
+[2024-01-30 18:36:01:897] Failure: .\Map\0156.map could not be loaded.
+[2024-01-30 18:36:01:897] Failure: .\Map\d701.map could not be loaded.
+[2024-01-30 18:36:01:904] Failure: .\Map\1001.map could not be loaded.
+[2024-01-30 18:36:01:904] Failure: .\Map\1003.map could not be loaded.
+[2024-01-30 18:36:01:904] Failure: .\Map\1004.map could not be loaded.
+[2024-01-30 18:36:01:904] Failure: .\Map\1005.map could not be loaded.
+[2024-01-30 18:36:01:904] Failure: .\Map\1006.map could not be loaded.
+[2024-01-30 18:36:01:904] Failure: .\Map\1007.map could not be loaded.
+[2024-01-30 18:36:01:904] Failure: .\Map\12.map could not be loaded.
+[2024-01-30 18:36:01:912] Failure: .\Map\b342.map could not be loaded.
+[2024-01-30 18:36:01:912] Failure: .\Map\b343.map could not be loaded.
+[2024-01-30 18:36:01:912] Failure: .\Map\b344.map could not be loaded.
+[2024-01-30 18:36:01:912] Failure: .\Map\b345.map could not be loaded.
+[2024-01-30 18:36:01:912] Failure: .\Map\b346.map could not be loaded.
+[2024-01-30 18:36:01:912] Failure: .\Map\b347.map could not be loaded.
+[2024-01-30 18:36:01:926] Failure: .\Map\b351.map could not be loaded.
+[2024-01-30 18:36:01:926] Failure: .\Map\b352.map could not be loaded.
+[2024-01-30 18:36:01:926] Failure: .\Map\b353.map could not be loaded.
+[2024-01-30 18:36:01:927] Failure: .\Map\b354.map could not be loaded.
+[2024-01-30 18:36:01:927] Failure: .\Map\b355.map could not be loaded.
+[2024-01-30 18:36:01:927] Failure: .\Map\b356.map could not be loaded.
+
+[2024-01-30 18:36:04:959] D701 - secret map not found !!
+[2024-01-30 18:36:04:959] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-15324] 当前Thread:6380
+[2024-01-30 18:36:04:959] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-15324] 当前Thread:6380
+[2024-01-30 18:36:04:959] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-15324] 当前Thread:6380
+[2024-01-30 18:36:04:959] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-15324] 当前Thread:6380
+[2024-01-30 18:36:05:102] ---------------------线程耗时监控
+[2024-01-30 18:36:05:577] Frame-----------------------------------
+01ad35e5 +4b5 M2Server.exe svMain          2602  +47 TMainRunThread.LoadPlayerVarList
+006b9a02 +062 M2Server.exe Vcl.ComCtrls   35733   +5 TComboBoxExStyleHook.Create
+006b982a +ada M2Server.exe Vcl.ComCtrls   34543 +132 TStatusBarStyleHook.Paint
+0053ac96 +0c6 M2Server.exe System.Classes 17535   +8 TComponent.GetObservers
+[2024-01-30 18:36:05:596] MainRunThread(16)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 18:36:05:615] DbThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 18:36:05:635] BoxSellDbThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+
+[2024-01-30 22:26:51:352] Socket Err:10061
+
+[2024-01-30 22:27:08:190] Failure: .\Map\0110.map could not be loaded.
+[2024-01-30 22:27:08:190] Failure: .\Map\0111.map could not be loaded.
+[2024-01-30 22:27:08:190] Failure: .\Map\0112.map could not be loaded.
+[2024-01-30 22:27:08:190] Failure: .\Map\0108.map could not be loaded.
+[2024-01-30 22:27:08:190] Failure: .\Map\0109.map could not be loaded.
+[2024-01-30 22:27:08:190] Failure: .\Map\0104.map could not be loaded.
+[2024-01-30 22:27:08:190] Failure: .\Map\0107.map could not be loaded.
+[2024-01-30 22:27:08:190] Failure: .\Map\0125.map could not be loaded.
+[2024-01-30 22:27:08:190] Failure: .\Map\0126.map could not be loaded.
+[2024-01-30 22:27:08:190] Failure: .\Map\0103.map could not be loaded.
+[2024-01-30 22:27:08:190] Failure: .\Map\0105.map could not be loaded.
+[2024-01-30 22:27:08:190] Failure: .\Map\0106.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0101.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0100.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0128.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0129.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0123.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0124.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\01141.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\01142.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0115.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\01152.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0113.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\01132.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0135.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0134.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0133.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0119.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0118.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0121.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0127.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0130.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0131.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0136.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0132.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0138.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0141.map could not be loaded.
+[2024-01-30 22:27:08:191] Failure: .\Map\0140.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\1.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\2.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\0116.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\0117.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\0120.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\0142.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\d401.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\d411.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\d413.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\d402.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\d414.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\d403.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\d412.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\d404.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\d405.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\d415.map could not be loaded.
+[2024-01-30 22:27:08:192] Failure: .\Map\d406.map could not be loaded.
+[2024-01-30 22:27:08:224] Failure: .\Map\0143.map could not be loaded.
+[2024-01-30 22:27:08:225] Failure: .\Map\0144.map could not be loaded.
+[2024-01-30 22:27:08:225] Failure: .\Map\0145.map could not be loaded.
+[2024-01-30 22:27:08:225] Failure: .\Map\0146.map could not be loaded.
+[2024-01-30 22:27:08:225] Failure: .\Map\0147.map could not be loaded.
+[2024-01-30 22:27:08:225] Failure: .\Map\0149.map could not be loaded.
+[2024-01-30 22:27:08:225] Failure: .\Map\0158.map could not be loaded.
+[2024-01-30 22:27:08:225] Failure: .\Map\0159.map could not be loaded.
+[2024-01-30 22:27:08:225] Failure: .\Map\0160.map could not be loaded.
+[2024-01-30 22:27:08:225] Failure: .\Map\0161.map could not be loaded.
+[2024-01-30 22:27:08:225] Failure: .\Map\0171.map could not be loaded.
+[2024-01-30 22:27:08:225] Failure: .\Map\0152.map could not be loaded.
+[2024-01-30 22:27:08:225] Failure: .\Map\0153.map could not be loaded.
+[2024-01-30 22:27:08:225] Failure: .\Map\0154.map could not be loaded.
+[2024-01-30 22:27:08:225] Failure: .\Map\0155.map could not be loaded.
+[2024-01-30 22:27:08:225] Failure: .\Map\0156.map could not be loaded.
+[2024-01-30 22:27:08:226] Failure: .\Map\d701.map could not be loaded.
+[2024-01-30 22:27:08:232] Failure: .\Map\1001.map could not be loaded.
+[2024-01-30 22:27:08:232] Failure: .\Map\1003.map could not be loaded.
+[2024-01-30 22:27:08:232] Failure: .\Map\1004.map could not be loaded.
+[2024-01-30 22:27:08:233] Failure: .\Map\1005.map could not be loaded.
+[2024-01-30 22:27:08:233] Failure: .\Map\1006.map could not be loaded.
+[2024-01-30 22:27:08:233] Failure: .\Map\1007.map could not be loaded.
+[2024-01-30 22:27:08:233] Failure: .\Map\12.map could not be loaded.
+[2024-01-30 22:27:08:241] Failure: .\Map\b342.map could not be loaded.
+[2024-01-30 22:27:08:242] Failure: .\Map\b343.map could not be loaded.
+[2024-01-30 22:27:08:242] Failure: .\Map\b344.map could not be loaded.
+[2024-01-30 22:27:08:242] Failure: .\Map\b345.map could not be loaded.
+[2024-01-30 22:27:08:242] Failure: .\Map\b346.map could not be loaded.
+[2024-01-30 22:27:08:242] Failure: .\Map\b347.map could not be loaded.
+[2024-01-30 22:27:08:258] Failure: .\Map\b351.map could not be loaded.
+[2024-01-30 22:27:08:258] Failure: .\Map\b352.map could not be loaded.
+[2024-01-30 22:27:08:258] Failure: .\Map\b353.map could not be loaded.
+[2024-01-30 22:27:08:258] Failure: .\Map\b354.map could not be loaded.
+[2024-01-30 22:27:08:258] Failure: .\Map\b355.map could not be loaded.
+[2024-01-30 22:27:08:258] Failure: .\Map\b356.map could not be loaded.
+[2024-01-30 22:27:11:304] D701 - secret map not found !!
+[2024-01-30 22:27:11:304] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-18864] 当前Thread:21560
+[2024-01-30 22:27:11:304] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-18864] 当前Thread:21560
+[2024-01-30 22:27:11:304] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-18864] 当前Thread:21560
+[2024-01-30 22:27:11:304] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-18864] 当前Thread:21560
+[2024-01-30 22:27:11:419] ---------------------线程耗时监控
+[2024-01-30 22:27:12:010] Frame-----------------------------------
+01ad35e5 +4b5 M2Server.exe svMain          2602  +47 TMainRunThread.LoadPlayerVarList
+006b9a02 +062 M2Server.exe Vcl.ComCtrls   35733   +5 TComboBoxExStyleHook.Create
+006b982a +ada M2Server.exe Vcl.ComCtrls   34543 +132 TStatusBarStyleHook.Paint
+0053ac96 +0c6 M2Server.exe System.Classes 17535   +8 TComponent.GetObservers
+[2024-01-30 22:27:12:048] MainRunThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 22:27:12:086] DbThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 22:27:12:119] BoxSellDbThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+
+[2024-01-30 22:28:42:035] Socket Err:10061
+
+[2024-01-30 22:29:00:034] Failure: .\Map\0110.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0111.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0112.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0108.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0109.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0104.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0107.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0125.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0126.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0103.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0105.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0106.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0101.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0100.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0128.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0129.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0123.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0124.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\01141.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\01142.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0115.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\01152.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\0113.map could not be loaded.
+[2024-01-30 22:29:00:034] Failure: .\Map\01132.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0135.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0134.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0133.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0119.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0118.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0121.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0127.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0130.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0131.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0136.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0132.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0138.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0141.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0140.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\1.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\2.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0116.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0117.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0120.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\0142.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\d401.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\d411.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\d413.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\d402.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\d414.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\d403.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\d412.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\d404.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\d405.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\d415.map could not be loaded.
+[2024-01-30 22:29:00:035] Failure: .\Map\d406.map could not be loaded.
+[2024-01-30 22:29:00:068] Failure: .\Map\0143.map could not be loaded.
+[2024-01-30 22:29:00:068] Failure: .\Map\0144.map could not be loaded.
+[2024-01-30 22:29:00:068] Failure: .\Map\0145.map could not be loaded.
+[2024-01-30 22:29:00:068] Failure: .\Map\0146.map could not be loaded.
+[2024-01-30 22:29:00:068] Failure: .\Map\0147.map could not be loaded.
+[2024-01-30 22:29:00:068] Failure: .\Map\0149.map could not be loaded.
+[2024-01-30 22:29:00:068] Failure: .\Map\0158.map could not be loaded.
+[2024-01-30 22:29:00:068] Failure: .\Map\0159.map could not be loaded.
+[2024-01-30 22:29:00:068] Failure: .\Map\0160.map could not be loaded.
+[2024-01-30 22:29:00:068] Failure: .\Map\0161.map could not be loaded.
+[2024-01-30 22:29:00:069] Failure: .\Map\0171.map could not be loaded.
+[2024-01-30 22:29:00:069] Failure: .\Map\0152.map could not be loaded.
+[2024-01-30 22:29:00:069] Failure: .\Map\0153.map could not be loaded.
+[2024-01-30 22:29:00:069] Failure: .\Map\0154.map could not be loaded.
+[2024-01-30 22:29:00:069] Failure: .\Map\0155.map could not be loaded.
+[2024-01-30 22:29:00:069] Failure: .\Map\0156.map could not be loaded.
+[2024-01-30 22:29:00:069] Failure: .\Map\d701.map could not be loaded.
+[2024-01-30 22:29:00:075] Failure: .\Map\1001.map could not be loaded.
+[2024-01-30 22:29:00:075] Failure: .\Map\1003.map could not be loaded.
+[2024-01-30 22:29:00:075] Failure: .\Map\1004.map could not be loaded.
+[2024-01-30 22:29:00:075] Failure: .\Map\1005.map could not be loaded.
+[2024-01-30 22:29:00:075] Failure: .\Map\1006.map could not be loaded.
+[2024-01-30 22:29:00:075] Failure: .\Map\1007.map could not be loaded.
+[2024-01-30 22:29:00:076] Failure: .\Map\12.map could not be loaded.
+[2024-01-30 22:29:00:085] Failure: .\Map\b342.map could not be loaded.
+[2024-01-30 22:29:00:085] Failure: .\Map\b343.map could not be loaded.
+[2024-01-30 22:29:00:085] Failure: .\Map\b344.map could not be loaded.
+[2024-01-30 22:29:00:085] Failure: .\Map\b345.map could not be loaded.
+[2024-01-30 22:29:00:085] Failure: .\Map\b346.map could not be loaded.
+[2024-01-30 22:29:00:085] Failure: .\Map\b347.map could not be loaded.
+[2024-01-30 22:29:00:103] Failure: .\Map\b351.map could not be loaded.
+[2024-01-30 22:29:00:103] Failure: .\Map\b352.map could not be loaded.
+[2024-01-30 22:29:00:103] Failure: .\Map\b353.map could not be loaded.
+[2024-01-30 22:29:00:103] Failure: .\Map\b354.map could not be loaded.
+[2024-01-30 22:29:00:103] Failure: .\Map\b355.map could not be loaded.
+[2024-01-30 22:29:00:103] Failure: .\Map\b356.map could not be loaded.
+[2024-01-30 22:29:03:222] D701 - secret map not found !!
+[2024-01-30 22:29:03:222] >>>>>RegenMonsterByName ThreadError :[城门]-0[3-8108] 当前Thread:24048
+[2024-01-30 22:29:03:222] >>>>>RegenMonsterByName ThreadError :[左城墙]-0[3-8108] 当前Thread:24048
+[2024-01-30 22:29:03:222] >>>>>RegenMonsterByName ThreadError :[中城墙]-0[3-8108] 当前Thread:24048
+[2024-01-30 22:29:03:222] >>>>>RegenMonsterByName ThreadError :[右城墙]-0[3-8108] 当前Thread:24048
+[2024-01-30 22:29:03:356] ---------------------线程耗时监控
+[2024-01-30 22:29:03:886] Frame-----------------------------------
+01ad35e5 +4b5 M2Server.exe svMain          2602  +47 TMainRunThread.LoadPlayerVarList
+006b9a02 +062 M2Server.exe Vcl.ComCtrls   35733   +5 TComboBoxExStyleHook.Create
+006b982a +ada M2Server.exe Vcl.ComCtrls   34543 +132 TStatusBarStyleHook.Paint
+0053ac96 +0c6 M2Server.exe System.Classes 17535   +8 TComponent.GetObservers
+[2024-01-30 22:29:03:917] MainRunThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 22:29:03:947] DbThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 22:29:03:978] BoxSellDbThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+
+[2024-01-30 22:46:56:742] >>>>>TPlayObject.RecalcAbilitys[东风股份,50000000001706625049000001303] 跨线程调用
+[2024-01-30 22:46:56:742] >>>>>TPlayObject.RecalcAbilitys[东风股份,50000000001706625049000001303] 跨线程调用
+
+[2024-01-30 22:58:23:366] >>>>>TPlayObject.RecalcAbilitys[电饭锅,50000000001706626365000002327] 跨线程调用
+[2024-01-30 22:58:23:366] >>>>>TPlayObject.RecalcAbilitys[电饭锅,50000000001706626365000002327] 跨线程调用
+
+[2024-01-30 22:58:38:886] >>>>>TPlayObject.RecalcAbilitys[电饭锅,50000000001706626365000002327] 跨线程调用
+[2024-01-30 22:58:38:886] >>>>>TPlayObject.RecalcAbilitys[电饭锅,50000000001706626365000002327] 跨线程调用
+
+[2024-01-30 23:00:22:615] ---------------------线程耗时监控
+[2024-01-30 23:00:22:649] Frame-----------------------------------
+0075117e +1106 M2Server.exe Vcl.Forms            4818 .TScrollBox
+00748994 +0094 M2Server.exe Vcl.Menus       2695  +12 TMenuItem.SetAction
+0146cb5b +004b M2Server.exe OtherUnit        296   +4 TOtherForm.SpinLoginTimeChange
+01ad7892 +0562 M2Server.exe M2Server         118  +15 initialization
+00725a36 +0176 M2Server.exe Vcl.Themes      7221   +4 {System.Generics.Collections}TDictionary<System.string,Vcl.Themes.TSysStyleHookClass>.Create
+0072829e +00ce M2Server.exe Vcl.Themes      7230   +4 {System.Generics.Collections}TDictionary<Winapi.Windows.HWND,Vcl.Themes.TSysStyleHook>.Create
+00745e89 +02e9 M2Server.exe Vcl.Menus       1919  +37 BiDiDraw
+0053ac96 +00c6 M2Server.exe System.Classes 17535   +8 TComponent.GetObservers
+[2024-01-30 23:00:22:675] MainRunThread(16)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 23:00:22:698] DbThread(2079)-----------------------------------
+
+[2024-01-30 23:00:22:727] BoxSellDbThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+
+[2024-01-30 23:00:25:005] ---------------------线程耗时监控
+[2024-01-30 23:00:25:042] Frame-----------------------------------
+0075117e +1106 M2Server.exe Vcl.Forms            4818 .TScrollBox
+00748994 +0094 M2Server.exe Vcl.Menus       2695  +12 TMenuItem.SetAction
+0146cb5b +004b M2Server.exe OtherUnit        296   +4 TOtherForm.SpinLoginTimeChange
+01ad7892 +0562 M2Server.exe M2Server         118  +15 initialization
+00725a36 +0176 M2Server.exe Vcl.Themes      7221   +4 {System.Generics.Collections}TDictionary<System.string,Vcl.Themes.TSysStyleHookClass>.Create
+0072829e +00ce M2Server.exe Vcl.Themes      7230   +4 {System.Generics.Collections}TDictionary<Winapi.Windows.HWND,Vcl.Themes.TSysStyleHook>.Create
+00745e89 +02e9 M2Server.exe Vcl.Menus       1919  +37 BiDiDraw
+0053ac96 +00c6 M2Server.exe System.Classes 17535   +8 TComponent.GetObservers
+[2024-01-30 23:00:25:069] MainRunThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 23:00:25:108] DbThread(4469)-----------------------------------
+00925e73 +0153 M2Server.exe FireDAC.Phys                  4937   +5 Trace2
+00932f05 +1d15 M2Server.exe FireDAC.Phys                  7990 +366 TFDPhysCommand.DoDefineDataTable
+00900a07 +0047 M2Server.exe FireDAC.Phys.SQLPreprocessor   700   +2 ErrorEmptyName
+00c7004a +005a M2Server.exe ItmUnit                       7545   +4 {System.Generics.Collections}TDictionary<System.string,ItmUnit.TItem>.TKeyEnumerator.Create
+00c70539 +0019 M2Server.exe ItmUnit                       7513   +1 {System.Generics.Collections}TDictionary<System.string,ItmUnit.TItem>.TPairEnumerator.DoGetCurrent
+008fd7f3 +0123 M2Server.exe FireDAC.Phys.SQLGenerator     3266   +5 TFDPhysCommandGenerator.GetCreateIndex
+00900e6e +044e M2Server.exe FireDAC.Phys.SQLPreprocessor   755  +47 TFDPhysPreprocessor.ProcessEscape
+00900dda +03ba M2Server.exe FireDAC.Phys.SQLPreprocessor   748  +40 TFDPhysPreprocessor.ProcessEscape
+009317e2 +05f2 M2Server.exe FireDAC.Phys                  7677  +53 TFDPhysCommand.DoDefineDataTable
+00902a06 +0d76 M2Server.exe FireDAC.Phys.SQLPreprocessor  1073 +155 TFDPhysPreprocessor.ProcessCommand
+00904ba7 +15e7 M2Server.exe FireDAC.Phys.SQLPreprocessor  1374 +188 TFDPhysPreprocessor.ParseDestination
+00c7c0af +50bf M2Server.exe uDef_Npc                      4051 +600 InitVariablesList
+009dbfd1 +0961 M2Server.exe FireDAC.Stan.Expr             1303 +112 TFDExpressionParser.NextToken
+0098ba58 +0198 M2Server.exe System.Threading              4676  +13 {System.Generics.Collections}TEnumerable<System.Threading.TThreadPool.TBaseWorkerThread>.ToArray
+009904ff +002f M2Server.exe System.Threading              7076   +5 {System.Generics.Collections}TDictionary<System.Threading.TThreadPool,System.NativeUInt>.Grow
+0098c0b1 +0021 M2Server.exe System.Threading              4864   +1 {System.Generics.Collections}TList<System.Threading.TThreadPool.TBaseWorkerThread>.Error
+00f17fea +308a M2Server.exe uThread_Envir                 1338 +684 TEnvirThread.OnMsg
+00805883 +0173 M2Server.exe Data.Win.ADODB                1788  +14 TADOConnection.GetProcedureNames
+0080543f +00bf M2Server.exe Data.Win.ADODB                1731   +4 TADOConnection.Execute
+004136fd +007d M2Server.exe System                       25423  +10 WriteErrorMessage
+[2024-01-30 23:00:25:135] BoxSellDbThread(16)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 23:00:28:013] ---------------------线程耗时监控
+[2024-01-30 23:00:28:045] Frame-----------------------------------
+0075117e +1106 M2Server.exe Vcl.Forms            4818 .TScrollBox
+00748994 +0094 M2Server.exe Vcl.Menus       2695  +12 TMenuItem.SetAction
+0146cb5b +004b M2Server.exe OtherUnit        296   +4 TOtherForm.SpinLoginTimeChange
+01ad7892 +0562 M2Server.exe M2Server         118  +15 initialization
+00725a36 +0176 M2Server.exe Vcl.Themes      7221   +4 {System.Generics.Collections}TDictionary<System.string,Vcl.Themes.TSysStyleHookClass>.Create
+0072829e +00ce M2Server.exe Vcl.Themes      7230   +4 {System.Generics.Collections}TDictionary<Winapi.Windows.HWND,Vcl.Themes.TSysStyleHook>.Create
+00745e89 +02e9 M2Server.exe Vcl.Menus       1919  +37 BiDiDraw
+0053ac96 +00c6 M2Server.exe System.Classes 17535   +8 TComponent.GetObservers
+[2024-01-30 23:00:28:071] MainRunThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 23:00:28:104] DbThread(7469)-----------------------------------
+00925e4a +012a M2Server.exe FireDAC.Phys               4937   +5 Trace2
+0093291b +172b M2Server.exe FireDAC.Phys               7912 +288 TFDPhysCommand.DoDefineDataTable
+0090723b +00db M2Server.exe FireDAC.Phys.Meta           369   +9 TFDPhysConnectionMetadata.NormObjName
+00c7004a +005a M2Server.exe ItmUnit                    7545   +4 {System.Generics.Collections}TDictionary<System.string,ItmUnit.TItem>.TKeyEnumerator.Create
+00c70539 +0019 M2Server.exe ItmUnit                    7513   +1 {System.Generics.Collections}TDictionary<System.string,ItmUnit.TItem>.TPairEnumerator.DoGetCurrent
+008fd7f3 +0123 M2Server.exe FireDAC.Phys.SQLGenerator  3266   +5 TFDPhysCommandGenerator.GetCreateIndex
+00907596 +01a6 M2Server.exe FireDAC.Phys.Meta           408  +12 TFDPhysConnectionMetadata.QuoteObjName
+009d8aa7 +0107 M2Server.exe FireDAC.Stan.Expr           523  +13 FunCmpFileName
+009d8f39 +0069 M2Server.exe FireDAC.Stan.Expr           627   +4 TFDExpression.GetSubAggregateKind
+009913f1 +0081 M2Server.exe System.Threading           7347   +7 {System.Generics.Collections}TDictionary<System.Threading.TThreadPool,System.NativeUInt>.ExtractPair
+00f17fea +308a M2Server.exe uThread_Envir              1338 +684 TEnvirThread.OnMsg
+00805883 +0173 M2Server.exe Data.Win.ADODB             1788  +14 TADOConnection.GetProcedureNames
+0080543f +00bf M2Server.exe Data.Win.ADODB             1731   +4 TADOConnection.Execute
+004136fd +007d M2Server.exe System                    25423  +10 WriteErrorMessage
+[2024-01-30 23:00:28:131] BoxSellDbThread(15)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+
+[2024-01-30 23:00:56:588] ---------------------线程耗时监控
+[2024-01-30 23:00:56:619] Frame-----------------------------------
+0075117e +1106 M2Server.exe Vcl.Forms            4818 .TScrollBox
+00748994 +0094 M2Server.exe Vcl.Menus       2695  +12 TMenuItem.SetAction
+0146cb5b +004b M2Server.exe OtherUnit        296   +4 TOtherForm.SpinLoginTimeChange
+01ad7892 +0562 M2Server.exe M2Server         118  +15 initialization
+00725a36 +0176 M2Server.exe Vcl.Themes      7221   +4 {System.Generics.Collections}TDictionary<System.string,Vcl.Themes.TSysStyleHookClass>.Create
+0072829e +00ce M2Server.exe Vcl.Themes      7230   +4 {System.Generics.Collections}TDictionary<Winapi.Windows.HWND,Vcl.Themes.TSysStyleHook>.Create
+00745e89 +02e9 M2Server.exe Vcl.Menus       1919  +37 BiDiDraw
+0053ac96 +00c6 M2Server.exe System.Classes 17535   +8 TComponent.GetObservers
+[2024-01-30 23:00:56:647] MainRunThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 23:00:56:670] DbThread(2078)-----------------------------------
+
+[2024-01-30 23:00:56:700] BoxSellDbThread(16)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+
+[2024-01-30 23:00:59:004] ---------------------线程耗时监控
+[2024-01-30 23:00:59:038] Frame-----------------------------------
+0075117e +1106 M2Server.exe Vcl.Forms            4818 .TScrollBox
+00748994 +0094 M2Server.exe Vcl.Menus       2695  +12 TMenuItem.SetAction
+0146cb5b +004b M2Server.exe OtherUnit        296   +4 TOtherForm.SpinLoginTimeChange
+01ad7892 +0562 M2Server.exe M2Server         118  +15 initialization
+00725a36 +0176 M2Server.exe Vcl.Themes      7221   +4 {System.Generics.Collections}TDictionary<System.string,Vcl.Themes.TSysStyleHookClass>.Create
+0072829e +00ce M2Server.exe Vcl.Themes      7230   +4 {System.Generics.Collections}TDictionary<Winapi.Windows.HWND,Vcl.Themes.TSysStyleHook>.Create
+00745e89 +02e9 M2Server.exe Vcl.Menus       1919  +37 BiDiDraw
+0053ac96 +00c6 M2Server.exe System.Classes 17535   +8 TComponent.GetObservers
+[2024-01-30 23:00:59:066] MainRunThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 23:00:59:100] DbThread(4500)-----------------------------------
+00925e4a +012a M2Server.exe FireDAC.Phys               4937   +5 Trace2
+0093291b +172b M2Server.exe FireDAC.Phys               7912 +288 TFDPhysCommand.DoDefineDataTable
+0090723b +00db M2Server.exe FireDAC.Phys.Meta           369   +9 TFDPhysConnectionMetadata.NormObjName
+00c7004a +005a M2Server.exe ItmUnit                    7545   +4 {System.Generics.Collections}TDictionary<System.string,ItmUnit.TItem>.TKeyEnumerator.Create
+00c70539 +0019 M2Server.exe ItmUnit                    7513   +1 {System.Generics.Collections}TDictionary<System.string,ItmUnit.TItem>.TPairEnumerator.DoGetCurrent
+008fd7f3 +0123 M2Server.exe FireDAC.Phys.SQLGenerator  3266   +5 TFDPhysCommandGenerator.GetCreateIndex
+00907596 +01a6 M2Server.exe FireDAC.Phys.Meta           408  +12 TFDPhysConnectionMetadata.QuoteObjName
+009d8aa7 +0107 M2Server.exe FireDAC.Stan.Expr           523  +13 FunCmpFileName
+009d8f39 +0069 M2Server.exe FireDAC.Stan.Expr           627   +4 TFDExpression.GetSubAggregateKind
+009913f1 +0081 M2Server.exe System.Threading           7347   +7 {System.Generics.Collections}TDictionary<System.Threading.TThreadPool,System.NativeUInt>.ExtractPair
+00f17fea +308a M2Server.exe uThread_Envir              1338 +684 TEnvirThread.OnMsg
+00805883 +0173 M2Server.exe Data.Win.ADODB             1788  +14 TADOConnection.GetProcedureNames
+0080543f +00bf M2Server.exe Data.Win.ADODB             1731   +4 TADOConnection.Execute
+004136fd +007d M2Server.exe System                    25423  +10 WriteErrorMessage
+[2024-01-30 23:00:59:128] BoxSellDbThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 23:01:02:007] ---------------------线程耗时监控
+[2024-01-30 23:01:02:043] Frame-----------------------------------
+0075117e +1106 M2Server.exe Vcl.Forms            4818 .TScrollBox
+00748994 +0094 M2Server.exe Vcl.Menus       2695  +12 TMenuItem.SetAction
+0146cb5b +004b M2Server.exe OtherUnit        296   +4 TOtherForm.SpinLoginTimeChange
+01ad7892 +0562 M2Server.exe M2Server         118  +15 initialization
+00725a36 +0176 M2Server.exe Vcl.Themes      7221   +4 {System.Generics.Collections}TDictionary<System.string,Vcl.Themes.TSysStyleHookClass>.Create
+0072829e +00ce M2Server.exe Vcl.Themes      7230   +4 {System.Generics.Collections}TDictionary<Winapi.Windows.HWND,Vcl.Themes.TSysStyleHook>.Create
+00745e89 +02e9 M2Server.exe Vcl.Menus       1919  +37 BiDiDraw
+0053ac96 +00c6 M2Server.exe System.Classes 17535   +8 TComponent.GetObservers
+[2024-01-30 23:01:02:072] MainRunThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 23:01:02:108] DbThread(7500)-----------------------------------
+00918e3b +038b M2Server.exe FireDAC.Phys                  1728  +24 TFDPhysDriver.Create
+009188a1 +0071 M2Server.exe FireDAC.Phys                  1674   +2 TFDPhysConnectionDefParamsFactory.Create
+0092366c +046c M2Server.exe FireDAC.Phys                  4328  +98 TFDPhysConnection.GetItem
+00924d1a +02ba M2Server.exe FireDAC.Phys                  4752  +28 TFDPhysTransaction.StartTransaction
+009317aa +05ba M2Server.exe FireDAC.Phys                  7672  +48 TFDPhysCommand.DoDefineDataTable
+008ff0ae +006e M2Server.exe FireDAC.Phys.SQLPreprocessor   279   +5 TFDPhysPreprocessor.WriteStr
+009da7cb +11fb M2Server.exe FireDAC.Stan.Expr              912 +134 TFDExpression.InternalEvaluate
+00519b52 +01c2 M2Server.exe System.Classes                7042  +28 TStrings.GetTextStr
+00519c9c +005c M2Server.exe System.Classes                7057   +2 TStrings.IndexOf
+00f17fea +308a M2Server.exe uThread_Envir                 1338 +684 TEnvirThread.OnMsg
+00805883 +0173 M2Server.exe Data.Win.ADODB                1788  +14 TADOConnection.GetProcedureNames
+0080543f +00bf M2Server.exe Data.Win.ADODB                1731   +4 TADOConnection.Execute
+004136fd +007d M2Server.exe System                       25423  +10 WriteErrorMessage
+[2024-01-30 23:01:02:136] BoxSellDbThread(16)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+
+[2024-01-30 23:01:05:010] ---------------------线程耗时监控
+[2024-01-30 23:01:05:049] Frame-----------------------------------
+0075117e +1106 M2Server.exe Vcl.Forms            4818 .TScrollBox
+00748994 +0094 M2Server.exe Vcl.Menus       2695  +12 TMenuItem.SetAction
+0146cb5b +004b M2Server.exe OtherUnit        296   +4 TOtherForm.SpinLoginTimeChange
+01ad7892 +0562 M2Server.exe M2Server         118  +15 initialization
+00725a36 +0176 M2Server.exe Vcl.Themes      7221   +4 {System.Generics.Collections}TDictionary<System.string,Vcl.Themes.TSysStyleHookClass>.Create
+0072829e +00ce M2Server.exe Vcl.Themes      7230   +4 {System.Generics.Collections}TDictionary<Winapi.Windows.HWND,Vcl.Themes.TSysStyleHook>.Create
+00745e89 +02e9 M2Server.exe Vcl.Menus       1919  +37 BiDiDraw
+0053ac96 +00c6 M2Server.exe System.Classes 17535   +8 TComponent.GetObservers
+[2024-01-30 23:01:05:084] MainRunThread(0)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+[2024-01-30 23:01:05:122] DbThread(10516)-----------------------------------
+00925e4a +012a M2Server.exe FireDAC.Phys               4937   +5 Trace2
+0093291b +172b M2Server.exe FireDAC.Phys               7912 +288 TFDPhysCommand.DoDefineDataTable
+0090723b +00db M2Server.exe FireDAC.Phys.Meta           369   +9 TFDPhysConnectionMetadata.NormObjName
+00c7004a +005a M2Server.exe ItmUnit                    7545   +4 {System.Generics.Collections}TDictionary<System.string,ItmUnit.TItem>.TKeyEnumerator.Create
+00c70539 +0019 M2Server.exe ItmUnit                    7513   +1 {System.Generics.Collections}TDictionary<System.string,ItmUnit.TItem>.TPairEnumerator.DoGetCurrent
+008fd7f3 +0123 M2Server.exe FireDAC.Phys.SQLGenerator  3266   +5 TFDPhysCommandGenerator.GetCreateIndex
+00907596 +01a6 M2Server.exe FireDAC.Phys.Meta           408  +12 TFDPhysConnectionMetadata.QuoteObjName
+009d8aa7 +0107 M2Server.exe FireDAC.Stan.Expr           523  +13 FunCmpFileName
+009d8f39 +0069 M2Server.exe FireDAC.Stan.Expr           627   +4 TFDExpression.GetSubAggregateKind
+009913f1 +0081 M2Server.exe System.Threading           7347   +7 {System.Generics.Collections}TDictionary<System.Threading.TThreadPool,System.NativeUInt>.ExtractPair
+00f17fea +308a M2Server.exe uThread_Envir              1338 +684 TEnvirThread.OnMsg
+00805883 +0173 M2Server.exe Data.Win.ADODB             1788  +14 TADOConnection.GetProcedureNames
+0080543f +00bf M2Server.exe Data.Win.ADODB             1731   +4 TADOConnection.Execute
+004136fd +007d M2Server.exe System                    25423  +10 WriteErrorMessage
+[2024-01-30 23:01:05:153] BoxSellDbThread(16)-----------------------------------
+0080585e +14e M2Server.exe Data.Win.ADODB  1788 +14 TADOConnection.GetProcedureNames
+0080543f +0bf M2Server.exe Data.Win.ADODB  1731  +4 TADOConnection.Execute
+004136fd +07d M2Server.exe System         25423 +10 WriteErrorMessage
+

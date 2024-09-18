@@ -1,0 +1,14 @@
+[2024-09-13 17:19:04:359] >>>>>>HumTime id:0  onTimer11-16 
+
+[2024-09-13 19:49:07:343] >>>>>>HumTime id:0  onTimer1-15 
+
+[2024-09-13 19:49:41:627] NPC:[奇经八脉]\孙思邈 ID:12 脚本执行 @MAIN player:玩家名字 耗时:32; NpcThreadId:21208, CurPlayThreadId:21208
+C(T/C)=
+A(T/C)=773-32/1/ 
+
+[2024-09-14 05:14:32:406] >>>>>>HumTime id:0  onTimer1-16 
+
+[2024-09-14 11:41:19:468] >>>>>>HumTime id:0  onTimer1-15 
+
+[2024-09-14 12:11:42:374] >>>>>>HumTime id:0  onTimer1-16 
+

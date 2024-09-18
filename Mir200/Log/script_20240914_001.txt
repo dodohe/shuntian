@@ -1,0 +1,18 @@
+[2024-09-14 14:54:11:675] NPC:[四象之力]\伏羲 ID:4 脚本执行 @MAIN player:玩家名字 耗时:172; NpcThreadId:29324, CurPlayThreadId:29324
+C(T/C)=
+A(T/C)=773-172/1/;sixiangzhili @show         
+
+[2024-09-14 17:12:50:121] >>>>>>HumTime id:0  onTimer1-15 
+
+[2024-09-14 20:40:55:853] LuaNPC:玩家名字 ID:999999999 执行 takeoffex player:玩家名字 耗时：219; NpcThreadId: 25016, CurPlayThreadId: 25016
+
+[2024-09-14 21:34:02:097] NPC:药店老板 ID:47 脚本执行 @MAIN player:玩家名字 耗时:172; NpcThreadId:25016, CurPlayThreadId:25016
+C(T/C)=
+A(T/C)=773-172/1/;yaodian @show         
+
+[2024-09-14 23:08:46:919] LuaNPC:玩家名字 ID:999999999 执行 takeonex player:玩家名字 耗时：47; NpcThreadId: 25016, CurPlayThreadId: 25016
+
+[2024-09-15 07:32:29:058] >>>>>>HumTime id:0  onTimer1-16 
+
+[2024-09-15 08:02:51:964] >>>>>>HumTime id:0  onTimer1-16 
+

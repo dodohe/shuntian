@@ -1,0 +1,47 @@
+[2023-11-20 19:39:25:126] [2023/11/20 19:39:25] SelGateH5D SSL:[0]
+[2023-11-20 19:39:25:128] [2023/11/20 19:39:25] 202204201953
+[2023-11-20 19:39:25:313] [Exception] HandleLoggingMsg 2023-11-20 19:39:25:[utility_server::start_listen] WebSocket listen on ws://0.0.0.0:7302
+[2023-11-20 19:39:25:314] [Exception] HandleLoggingMsg 2023-11-20 19:39:25:[utility_server::run] start-running
+[2023-11-20 19:39:25:643] [2023/11/20 19:39:25] H5角色网关启动成功！
+[2023-11-20 19:39:25:644] [2023/11/20 19:39:25] 与服务器连接成功..
+[2023-11-20 19:39:25:645] [2023/11/20 19:39:25] 与服务器连接成功..
+
+[2023-11-20 19:39:35:117] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:39:45:139] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:39:55:157] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:40:05:176] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:40:15:199] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:40:25:206] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:40:35:226] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:42:23:137] [2023/11/20 19:42:23] SelGateH5D SSL:[0]
+[2023-11-20 19:42:23:139] [2023/11/20 19:42:23] 202204201953
+[2023-11-20 19:42:23:229] [Exception] HandleLoggingMsg 2023-11-20 19:42:23:[utility_server::start_listen] WebSocket listen on ws://0.0.0.0:7302
+[2023-11-20 19:42:23:229] [Exception] HandleLoggingMsg 2023-11-20 19:42:23:[utility_server::run] start-running
+[2023-11-20 19:42:23:654] [2023/11/20 19:42:23] H5角色网关启动成功！
+[2023-11-20 19:42:23:655] [2023/11/20 19:42:23] 与服务器连接成功..
+
+[2023-11-20 19:42:33:036] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:42:43:064] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:42:53:087] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:43:03:096] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:43:13:115] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:43:23:131] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:43:33:151] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:43:43:160] ConnectCount :0 GetUserCount :0
+
+[2023-11-20 19:43:53:174] ConnectCount :0 GetUserCount :0
+
