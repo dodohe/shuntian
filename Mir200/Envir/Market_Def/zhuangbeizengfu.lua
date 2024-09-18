@@ -207,6 +207,6 @@ function exec(actor, weizhi, weizhilevel, weizhiName)
     refreshitem(actor, item)
 
     setint(actor, shengji_t[weizhi], getint(actor, shengji_t[weizhi]) + 1)
-    sendmsg9(actor, "装备增幅成功！")
+    sendmsg9(actor, "装备增幅成功!")
     show(actor, weizhiName, 0, weizhi)
 end
